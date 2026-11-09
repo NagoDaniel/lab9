@@ -1,0 +1,117 @@
+match_id,team,opponent,player,assist_player,goal_type,period,minute,elapsed_seconds,score_for,score_against
+69229,Barcelona,Getafe,Zlatan Ibrahimović,,open/set play,2,65,3931,1,0
+69229,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,Zlatan Ibrahimović,open/set play,2,79,4752,2,0
+69292,Barcelona,Atlético Madrid,Zlatan Ibrahimović,Sergio Busquets i Burgos,open/set play,1,1,104,1,0
+69292,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,Xavier Hernández Creus,open/set play,1,15,952,2,0
+69292,Barcelona,Atlético Madrid,Daniel Alves da Silva,,open/set play,1,30,1802,3,0
+69292,Barcelona,Atlético Madrid,Seydou Kéita,Lionel Andrés Messi Cuccittini,open/set play,1,41,2468,4,0
+69292,Atlético Madrid,Barcelona,Sergio Leonel Agüero del Castillo,,open/set play,1,44,2672,1,4
+69292,Atlético Madrid,Barcelona,Diego Forlán Corazo,Luis Amaranto Perea Mosquera,open/set play,2,84,5046,2,4
+69292,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,Daniel Alves da Silva,open/set play,2,93,5600,5,2
+69254,Barcelona,Racing Santander,Zlatan Ibrahimović,Lionel Andrés Messi Cuccittini,open/set play,1,20,1200,1,0
+69254,Barcelona,Racing Santander,Lionel Andrés Messi Cuccittini,Xavier Hernández Creus,open/set play,1,23,1403,2,0
+69254,Barcelona,Racing Santander,Gerard Piqué Bernabéu,Zlatan Ibrahimović,open/set play,1,26,1582,3,0
+69254,Barcelona,Racing Santander,Lionel Andrés Messi Cuccittini,Xavier Hernández Creus,open/set play,2,62,3761,4,0
+69254,Racing Santander,Barcelona,Óscar Serrano Rodriguez,,open/set play,2,71,4314,1,4
+69255,Barcelona,Málaga,Zlatan Ibrahimović,Lionel Andrés Messi Cuccittini,open/set play,1,38,2293,1,0
+69255,Barcelona,Málaga,Gerard Piqué Bernabéu,Xavier Hernández Creus,open/set play,2,58,3504,2,0
+69256,Barcelona,Almería,Pedro Eliezer Rodríguez Ledesma,Maxwell Scherrer Cabelino Andrade,open/set play,1,30,1855,1,0
+69253,Barcelona,Real Zaragoza,Seydou Kéita,Lionel Andrés Messi Cuccittini,open/set play,1,24,1441,1,0
+69253,Barcelona,Real Zaragoza,Zlatan Ibrahimović,,open/set play,1,28,1723,2,0
+69253,Barcelona,Real Zaragoza,Seydou Kéita,Zlatan Ibrahimović,open/set play,1,41,2461,3,0
+69253,Barcelona,Real Zaragoza,Zlatan Ibrahimović,Seydou Kéita,open/set play,2,55,3331,4,0
+69253,Real Zaragoza,Barcelona,Jorge López Montaña,Ángel Lafita Castillo,open/set play,2,77,4640,1,4
+69253,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,Andrés Iniesta Luján,open/set play,2,79,4795,5,1
+69253,Barcelona,Real Zaragoza,Seydou Kéita,Andrés Iniesta Luján,open/set play,2,85,5113,6,1
+69277,Barcelona,Osasuna,Seydou Kéita,Carles Puyol i Saforcada,open/set play,2,71,4315,1,0
+69277,Osasuna,Barcelona,Gerard Piqué Bernabéu,,own goal,2,92,5544,1,1
+69250,Barcelona,Mallorca,Pedro Eliezer Rodríguez Ledesma,Zlatan Ibrahimović,open/set play,1,10,633,1,0
+69250,Mallorca,Barcelona,José Carlos de Araújo Nunes,,open/set play,1,19,1152,1,1
+69250,Barcelona,Mallorca,Pedro Eliezer Rodríguez Ledesma,,open/set play,1,39,2397,2,1
+69250,Barcelona,Mallorca,Thierry Henry,Sergio Busquets i Burgos,open/set play,1,43,2585,3,1
+69250,Barcelona,Mallorca,Lionel Andrés Messi Cuccittini,,penalty,2,86,5217,4,1
+69250,Mallorca,Barcelona,Alhassane Keita,Gonzalo Castro Irizábal,open/set play,2,91,5513,2,4
+69288,Barcelona,Athletic Club,Daniel Alves da Silva,Xavier Hernández Creus,open/set play,2,53,3196,1,0
+69288,Athletic Club,Barcelona,Gaizka Toquero Pinedo,Fernando Llorente Torres,open/set play,2,62,3737,1,1
+69262,Barcelona,Real Madrid,Zlatan Ibrahimović,Daniel Alves da Silva,open/set play,2,55,3325,1,0
+69267,Barcelona,Xerez,Thierry Henry,Maxwell Scherrer Cabelino Andrade,open/set play,2,46,2762,1,0
+69267,Barcelona,Xerez,Zlatan Ibrahimović,Lionel Andrés Messi Cuccittini,open/set play,2,92,5541,2,0
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,Daniel Alves da Silva,open/set play,1,26,1564,1,0
+69218,RC Deportivo La Coruña,Barcelona,Adrián López Álvarez,,open/set play,1,38,2288,1,1
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,Pedro Eliezer Rodríguez Ledesma,open/set play,2,79,4740,2,1
+69218,Barcelona,RC Deportivo La Coruña,Zlatan Ibrahimović,Eric-Sylvain Bilal Abidal,open/set play,2,87,5232,3,1
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,Bojan Krkíc Pérez,open/set play,1,35,2116,1,0
+69219,Barcelona,Tenerife,Carles Puyol i Saforcada,Lionel Andrés Messi Cuccittini,open/set play,1,43,2616,2,0
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,Bojan Krkíc Pérez,open/set play,1,46,2767,3,0
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,Bojan Krkíc Pérez,open/set play,2,74,4497,4,0
+69219,Barcelona,Tenerife,Ezequiel Luna,,own goal,2,84,5099,5,0
+69243,Barcelona,Sevilla,Julien Escudé,,own goal,2,48,2915,1,0
+69243,Barcelona,Sevilla,Pedro Eliezer Rodríguez Ledesma,Xavier Hernández Creus,open/set play,2,69,4197,2,0
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,Daniel Alves da Silva,open/set play,2,84,5063,3,0
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,Eric-Sylvain Bilal Abidal,open/set play,2,91,5470,4,0
+69210,Barcelona,Real Valladolid,Xavier Hernández Creus,Daniel Alves da Silva,open/set play,1,19,1197,1,0
+69210,Barcelona,Real Valladolid,Daniel Alves da Silva,Lionel Andrés Messi Cuccittini,open/set play,1,21,1279,2,0
+69210,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,Zlatan Ibrahimović,open/set play,2,55,3354,3,0
+69220,Barcelona,Sporting Gijón,Pedro Eliezer Rodríguez Ledesma,Andrés Iniesta Luján,open/set play,1,28,1738,1,0
+69240,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,Gnégnéri Yaya Touré,open/set play,1,6,362,1,0
+69240,Barcelona,Getafe,Xavier Hernández Creus,Lionel Andrés Messi Cuccittini,open/set play,2,66,3989,2,0
+69240,Getafe,Barcelona,Roberto Soldado Rillo,,penalty,2,93,5581,1,2
+69237,Atlético Madrid,Barcelona,Diego Forlán Corazo,José Antonio Reyes Calderón,open/set play,1,8,514,1,0
+69237,Atlético Madrid,Barcelona,Simão Pedro Fonseca Sabrosa,,open/set play,1,22,1322,2,0
+69237,Barcelona,Atlético Madrid,Zlatan Ibrahimović,,open/set play,1,26,1575,1,2
+69233,Barcelona,Racing Santander,Andrés Iniesta Luján,Rafael Márquez Álvarez,open/set play,1,6,402,1,0
+69233,Barcelona,Racing Santander,Thierry Henry,,open/set play,1,28,1714,2,0
+69233,Barcelona,Racing Santander,Rafael Márquez Álvarez,,open/set play,1,33,2020,3,0
+69233,Barcelona,Racing Santander,Thiago Alcântara do Nascimento,Lionel Andrés Messi Cuccittini,open/set play,2,83,5002,4,0
+69238,Barcelona,Málaga,Pedro Eliezer Rodríguez Ledesma,Zlatan Ibrahimović,open/set play,2,68,4082,1,0
+69238,Málaga,Barcelona,Valmiro Lópes Rocha,Victor Obinna Nsofor,open/set play,2,80,4825,1,1
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,Daniel Alves da Silva,open/set play,2,83,4996,2,1
+69226,Almería,Barcelona,Domingo Cisma González,Hernán Darío Bernardello,open/set play,1,11,665,1,0
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,,open/set play,1,41,2508,1,1
+69226,Almería,Barcelona,Carles Puyol i Saforcada,,own goal,2,56,3366,2,1
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,,open/set play,2,65,3933,2,2
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,Xavier Hernández Creus,open/set play,2,55,3327,1,0
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,Thierry Henry,open/set play,2,81,4860,2,0
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,Thierry Henry,open/set play,2,83,4985,3,0
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,Pedro Eliezer Rodríguez Ledesma,open/set play,1,4,256,1,0
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,,open/set play,2,65,3913,2,0
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,Andrés Iniesta Luján,open/set play,2,77,4658,3,0
+69227,Real Zaragoza,Barcelona,Adrián Colunga Pérez,Matteo Contini,open/set play,2,84,5067,1,3
+69227,Real Zaragoza,Barcelona,Adrián Colunga Pérez,Matteo Contini,open/set play,2,88,5325,2,3
+69227,Barcelona,Real Zaragoza,Zlatan Ibrahimović,,penalty,2,90,5436,4,2
+69257,Barcelona,Osasuna,Zlatan Ibrahimović,Maxwell Scherrer Cabelino Andrade,open/set play,2,72,4324,1,0
+69257,Barcelona,Osasuna,Bojan Krkíc Pérez,Andrés Iniesta Luján,open/set play,2,87,5279,2,0
+69298,Barcelona,Mallorca,Zlatan Ibrahimović,,open/set play,2,62,3755,1,0
+69247,Barcelona,Athletic Club,Jeffren Isaac Suárez Bermúdez,Eric-Sylvain Bilal Abidal,open/set play,1,26,1586,1,0
+69247,Barcelona,Athletic Club,Bojan Krkíc Pérez,Carles Puyol i Saforcada,open/set play,1,39,2390,2,0
+69247,Barcelona,Athletic Club,Bojan Krkíc Pérez,Eric-Sylvain Bilal Abidal,open/set play,2,58,3496,3,0
+69247,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,Pedro Eliezer Rodríguez Ledesma,open/set play,2,66,4018,4,0
+69247,Athletic Club,Barcelona,Markel Susaeta Laskurain,Francisco Javier Yeste Navarro,open/set play,2,76,4594,1,4
+69259,Barcelona,Real Madrid,Lionel Andrés Messi Cuccittini,Xavier Hernández Creus,open/set play,1,32,1936,1,0
+69259,Barcelona,Real Madrid,Pedro Eliezer Rodríguez Ledesma,Xavier Hernández Creus,open/set play,2,55,3335,2,0
+69221,Barcelona,RC Deportivo La Coruña,Bojan Krkíc Pérez,Xavier Hernández Creus,open/set play,1,15,907,1,0
+69221,Barcelona,RC Deportivo La Coruña,Pedro Eliezer Rodríguez Ledesma,,open/set play,2,68,4087,2,0
+69221,Barcelona,RC Deportivo La Coruña,Gnégnéri Yaya Touré,Xavier Hernández Creus,open/set play,2,71,4296,3,0
+69214,Barcelona,Xerez,Jeffren Isaac Suárez Bermúdez,Xavier Hernández Creus,open/set play,1,13,795,1,0
+69214,Barcelona,Xerez,Thierry Henry,Zlatan Ibrahimović,open/set play,1,23,1382,2,0
+69214,Xerez,Barcelona,Mario Bermejo Castanedo,Fabián Ariel Orellana Valenzuela,open/set play,1,24,1471,1,2
+69214,Barcelona,Xerez,Zlatan Ibrahimović,Gnégnéri Yaya Touré,open/set play,2,55,3347,3,1
+69244,Barcelona,Villarreal,Lionel Andrés Messi Cuccittini,Xavier Hernández Creus,open/set play,1,18,1090,1,0
+69244,Barcelona,Villarreal,Xavier Hernández Creus,,open/set play,1,33,2003,2,0
+69244,Barcelona,Villarreal,Bojan Krkíc Pérez,Xavier Hernández Creus,open/set play,1,41,2491,3,0
+69244,Villarreal,Barcelona,Joseba Llorente Etxarri,Nilmar Honorato da Silva,open/set play,2,66,4015,1,3
+69244,Barcelona,Villarreal,Lionel Andrés Messi Cuccittini,Daniel Alves da Silva,open/set play,2,87,5266,4,1
+69241,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,,open/set play,1,16,973,1,0
+69241,Tenerife,Barcelona,Román Fernando Martínez,"Daniel Armand N""Gom Komé",open/set play,1,38,2318,1,1
+69241,Barcelona,Tenerife,Bojan Krkíc Pérez,Daniel Alves da Silva,open/set play,2,62,3733,2,1
+69241,Barcelona,Tenerife,Pedro Eliezer Rodríguez Ledesma,,open/set play,2,75,4555,3,1
+69241,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,Daniel Alves da Silva,open/set play,2,92,5532,4,1
+69239,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,Maxwell Scherrer Cabelino Andrade,open/set play,1,4,283,1,0
+69239,Barcelona,Sevilla,Bojan Krkíc Pérez,Xavier Hernández Creus,open/set play,1,27,1670,2,0
+69239,Barcelona,Sevilla,Pedro Eliezer Rodríguez Ledesma,,open/set play,2,61,3692,3,0
+69239,Sevilla,Barcelona,Frédéric Oumar Kanouté,Luís Fabiano Clemente,open/set play,2,68,4111,1,3
+69239,Sevilla,Barcelona,Luís Fabiano Clemente,Alain Didier Zokora-Déguy,open/set play,2,70,4241,2,3
+69242,Barcelona,Real Valladolid,Luis Prieto Zalbidegoitia,,own goal,1,26,1611,1,0
+69242,Barcelona,Real Valladolid,Pedro Eliezer Rodríguez Ledesma,Lionel Andrés Messi Cuccittini,open/set play,1,30,1859,2,0
+69242,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,Gnégnéri Yaya Touré,open/set play,2,61,3704,3,0
+69242,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,Gnégnéri Yaya Touré,open/set play,2,75,4553,4,0

@@ -1,0 +1,844 @@
+match_id,team,opponent,player,period,minute,elapsed_seconds,x,y,outcome,is_goal,on_target,shot_type,body_part,assist_player,play_pattern
+69229,Getafe,Barcelona,Roberto Soldado Rillo,1,3,236,84.92,82.0,Off T,False,False,Open Play,Right Foot,Juan Ángel Albín Leites,Regular Play
+69229,Getafe,Barcelona,Pedro León Sánchez Gil,1,6,364,53.17,60.62,Blocked,False,False,Open Play,Right Foot,,From Throw In
+69229,Getafe,Barcelona,Juan Ángel Albín Leites,1,10,626,82.67,45.62,Post,False,True,Open Play,Left Foot,Daniel Parejo Muñoz,From Free Kick
+69229,Getafe,Barcelona,Adrián González Morales,1,16,982,68.67,40.62,Blocked,False,False,Open Play,Left Foot,,From Free Kick
+69229,Getafe,Barcelona,Pedro León Sánchez Gil,1,16,988,83.83,19.88,Saved,False,True,Open Play,Right Foot,,From Free Kick
+69229,Getafe,Barcelona,Juan Ángel Albín Leites,1,18,1091,80.75,43.5,Off T,False,False,Open Play,Left Foot,,From Free Kick
+69229,Barcelona,Getafe,Zlatan Ibrahimović,1,24,1491,90.58,64.0,Blocked,False,False,Open Play,Right Foot,Xavier Hernández Creus,From Corner
+69229,Getafe,Barcelona,Roberto Soldado Rillo,1,26,1588,93.33,56.12,Post,False,True,Open Play,Right Foot,Pedro León Sánchez Gil,Regular Play
+69229,Getafe,Barcelona,Adrián González Morales,1,27,1620,92.33,51.5,Wayward,False,False,Open Play,Head,Pedro León Sánchez Gil,From Corner
+69229,Barcelona,Getafe,Seydou Kéita,1,27,1679,72.5,32.75,Off T,False,False,Open Play,Left Foot,Gnégnéri Yaya Touré,Regular Play
+69229,Getafe,Barcelona,Pedro León Sánchez Gil,1,29,1773,67.67,75.62,Off T,False,False,Open Play,Right Foot,Fabio Celestini,From Throw In
+69229,Getafe,Barcelona,Roberto Soldado Rillo,1,37,2252,79.75,22.5,Off T,False,False,Open Play,Right Foot,Adrián González Morales,Regular Play
+69229,Barcelona,Getafe,Xavier Hernández Creus,1,38,2296,80.0,73.88,Saved,False,True,Open Play,Right Foot,Zlatan Ibrahimović,From Throw In
+69229,Barcelona,Getafe,Zlatan Ibrahimović,1,39,2353,89.25,43.12,Off T,False,False,Open Play,Head,Jeffren Isaac Suárez Bermúdez,Regular Play
+69229,Barcelona,Getafe,Zlatan Ibrahimović,1,41,2486,90.0,48.5,Saved,False,True,Open Play,Right Foot,Jeffren Isaac Suárez Bermúdez,From Throw In
+69229,Getafe,Barcelona,Daniel Parejo Muñoz,2,49,2990,77.75,50.75,Blocked,False,False,Open Play,Right Foot,Juan Ángel Albín Leites,Regular Play
+69229,Getafe,Barcelona,Fabio Celestini,2,49,2994,68.58,48.0,Saved,False,True,Open Play,Right Foot,Adrián González Morales,Regular Play
+69229,Getafe,Barcelona,Pedro León Sánchez Gil,2,51,3095,76.75,32.88,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69229,Getafe,Barcelona,Pedro León Sánchez Gil,2,52,3172,82.58,39.62,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69229,Getafe,Barcelona,Daniel Alberto Díaz,2,53,3200,85.17,52.38,Blocked,False,False,Open Play,Right Foot,,From Corner
+69229,Barcelona,Getafe,Xavier Hernández Creus,2,58,3533,77.25,60.38,Saved,False,True,Open Play,Right Foot,Dmytro Chygrynskiy,From Kick Off
+69229,Barcelona,Getafe,Gerard Piqué Bernabéu,2,63,3820,91.58,42.13,Saved,False,True,Open Play,Head,Xavier Hernández Creus,From Free Kick
+69229,Barcelona,Getafe,Zlatan Ibrahimović,2,65,3931,96.08,45.62,Goal,True,True,Open Play,Right Foot,,Regular Play
+69229,Barcelona,Getafe,Seydou Kéita,2,69,4198,80.92,40.75,Blocked,False,False,Open Play,Left Foot,Zlatan Ibrahimović,From Free Kick
+69229,Getafe,Barcelona,Manuel del Moral Fernández,2,72,4356,78.67,42.38,Saved,False,True,Open Play,Right Foot,,From Throw In
+69229,Getafe,Barcelona,Juan Ángel Albín Leites,2,75,4519,93.83,29.0,Off T,False,False,Open Play,Left Foot,Roberto Soldado Rillo,Regular Play
+69229,Barcelona,Getafe,Andrés Iniesta Luján,2,76,4592,88.25,56.75,Saved,False,True,Open Play,Left Foot,Zlatan Ibrahimović,Regular Play
+69229,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,2,79,4752,94.42,53.5,Goal,True,True,Open Play,Head,Zlatan Ibrahimović,Regular Play
+69229,Getafe,Barcelona,Manuel del Moral Fernández,2,80,4819,72.25,65.38,Off T,False,False,Open Play,Right Foot,Francisco Javier Casquero Paredes,From Kick Off
+69229,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,2,84,5081,81.42,74.75,Saved,False,True,Open Play,Left Foot,Daniel Alves da Silva,From Free Kick
+69229,Barcelona,Getafe,Zlatan Ibrahimović,2,85,5153,92.58,64.62,Saved,False,True,Open Play,Right Foot,,From Free Kick
+69229,Barcelona,Getafe,Seydou Kéita,2,89,5395,82.67,34.62,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69229,Getafe,Barcelona,Roberto Soldado Rillo,2,91,5493,92.5,66.5,Wayward,False,False,Open Play,Right Foot,José Manuel Jiménez Ortiz,Regular Play
+69292,Barcelona,Atlético Madrid,Thierry Henry,1,0,53,84.25,24.62,Post,False,True,Open Play,Right Foot,Maxwell Scherrer Cabelino Andrade,From Throw In
+69292,Barcelona,Atlético Madrid,Zlatan Ibrahimović,1,1,104,88.92,37.0,Goal,True,True,Open Play,Right Foot,Sergio Busquets i Burgos,From Corner
+69292,Barcelona,Atlético Madrid,Zlatan Ibrahimović,1,8,536,95.33,33.5,Saved,False,True,Open Play,Left Foot,Seydou Kéita,From Free Kick
+69292,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,1,15,952,94.08,50.75,Goal,True,True,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69292,Atlético Madrid,Barcelona,Diego Forlán Corazo,1,17,1054,71.42,65.75,Blocked,False,False,Open Play,Right Foot,Maximiliano Rubén Rodríguez,From Throw In
+69292,Atlético Madrid,Barcelona,Sergio Leonel Agüero del Castillo,1,18,1119,96.08,62.0,Off T,False,False,Open Play,Right Foot,Simão Pedro Fonseca Sabrosa,From Corner
+69292,Atlético Madrid,Barcelona,Maximiliano Rubén Rodríguez,1,21,1297,93.5,31.38,Saved,False,True,Open Play,Left Foot,Sergio Leonel Agüero del Castillo,Regular Play
+69292,Atlético Madrid,Barcelona,José Manuel Jurado Marín,1,24,1486,72.75,34.75,Off T,False,False,Open Play,Right Foot,Simão Pedro Fonseca Sabrosa,Regular Play
+69292,Atlético Madrid,Barcelona,Maximiliano Rubén Rodríguez,1,26,1610,94.5,65.0,Off T,False,False,Open Play,Right Foot,Sergio Leonel Agüero del Castillo,Regular Play
+69292,Atlético Madrid,Barcelona,José Manuel Jurado Marín,1,27,1671,93.67,37.5,Blocked,False,False,Open Play,Left Foot,Diego Forlán Corazo,From Free Kick
+69292,Barcelona,Atlético Madrid,Daniel Alves da Silva,1,30,1802,72.67,71.5,Goal,True,True,Free Kick,Right Foot,,From Free Kick
+69292,Atlético Madrid,Barcelona,Pablo Ibáñez Tébar,1,35,2122,94.67,53.75,Wayward,False,False,Open Play,Head,Simão Pedro Fonseca Sabrosa,From Corner
+69292,Atlético Madrid,Barcelona,José Manuel Jurado Marín,1,39,2362,77.58,44.5,Blocked,False,False,Open Play,Right Foot,Diego Forlán Corazo,Regular Play
+69292,Barcelona,Atlético Madrid,Seydou Kéita,1,41,2468,96.5,49.25,Goal,True,True,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69292,Atlético Madrid,Barcelona,Sergio Leonel Agüero del Castillo,1,44,2672,89.75,57.62,Goal,True,True,Open Play,Right Foot,,Regular Play
+69292,Barcelona,Atlético Madrid,Daniel Alves da Silva,2,53,3225,71.17,72.5,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69292,Atlético Madrid,Barcelona,Diego Forlán Corazo,2,68,4083,84.17,25.38,Off T,False,False,Open Play,Left Foot,Maximiliano Rubén Rodríguez,From Corner
+69292,Atlético Madrid,Barcelona,Diego Forlán Corazo,2,78,4722,88.92,38.88,Off T,False,False,Open Play,Left Foot,Florent Sinama-Pongolle,Regular Play
+69292,Atlético Madrid,Barcelona,Diego Forlán Corazo,2,84,5046,83.08,56.62,Goal,True,True,Open Play,Left Foot,Luis Amaranto Perea Mosquera,From Counter
+69292,Atlético Madrid,Barcelona,José Manuel Jurado Marín,2,88,5304,83.42,29.12,Saved,False,True,Open Play,Right Foot,Jorge Resurrección Merodio,From Throw In
+69292,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,2,93,5600,86.58,62.75,Goal,True,True,Open Play,Right Foot,Daniel Alves da Silva,From Corner
+69254,Barcelona,Racing Santander,Thierry Henry,1,4,299,84.5,25.0,Off T,False,False,Open Play,Right Foot,Zlatan Ibrahimović,Regular Play
+69254,Barcelona,Racing Santander,Zlatan Ibrahimović,1,6,404,79.58,25.38,Off T,False,False,Open Play,Right Foot,Eric-Sylvain Bilal Abidal,Regular Play
+69254,Barcelona,Racing Santander,Lionel Andrés Messi Cuccittini,1,7,473,87.83,59.88,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69254,Barcelona,Racing Santander,Seydou Kéita,1,8,535,75.17,31.88,Off T,False,False,Open Play,Left Foot,Zlatan Ibrahimović,From Free Kick
+69254,Barcelona,Racing Santander,Lionel Andrés Messi Cuccittini,1,11,672,94.92,27.12,Off T,False,False,Open Play,Left Foot,Seydou Kéita,From Free Kick
+69254,Barcelona,Racing Santander,Zlatan Ibrahimović,1,20,1200,97.17,42.38,Goal,True,True,Open Play,Head,Lionel Andrés Messi Cuccittini,From Free Kick
+69254,Barcelona,Racing Santander,Zlatan Ibrahimović,1,20,1253,95.5,64.25,Post,False,True,Open Play,Right Foot,,From Kick Off
+69254,Barcelona,Racing Santander,Lionel Andrés Messi Cuccittini,1,23,1403,84.75,53.38,Goal,True,True,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69254,Barcelona,Racing Santander,Daniel Alves da Silva,1,25,1551,76.42,24.5,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69254,Barcelona,Racing Santander,Daniel Alves da Silva,1,26,1578,80.33,71.5,Wayward,False,False,Open Play,Right Foot,,From Corner
+69254,Barcelona,Racing Santander,Gerard Piqué Bernabéu,1,26,1582,93.83,49.25,Goal,True,True,Open Play,Right Foot,Zlatan Ibrahimović,From Corner
+69254,Barcelona,Racing Santander,Seydou Kéita,1,31,1869,75.75,40.5,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69254,Racing Santander,Barcelona,Alexandre Geijo Pazos,1,32,1930,90.92,50.37,Off T,False,False,Open Play,Head,Mehdi Lacen,From Free Kick
+69254,Racing Santander,Barcelona,Mogammat Nasief Morris,2,48,2906,97.08,36.75,Off T,False,False,Open Play,Right Foot,Manuel Jesús Arana Rodríguez,From Corner
+69254,Racing Santander,Barcelona,Óscar Serrano Rodriguez,2,50,3030,87.67,30.38,Off T,False,False,Open Play,Left Foot,Pedro Manuel Munitis Álvarez,Regular Play
+69254,Barcelona,Racing Santander,Seydou Kéita,2,53,3238,77.92,37.75,Saved,False,True,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,From Free Kick
+69254,Barcelona,Racing Santander,Daniel Alves da Silva,2,54,3297,70.75,70.0,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69254,Racing Santander,Barcelona,Manuel Jesús Arana Rodríguez,2,55,3337,76.83,62.75,Saved,False,True,Open Play,Right Foot,,Regular Play
+69254,Barcelona,Racing Santander,Seydou Kéita,2,56,3364,79.17,44.88,Off T,False,False,Open Play,Left Foot,,Regular Play
+69254,Barcelona,Racing Santander,Lionel Andrés Messi Cuccittini,2,62,3761,84.67,52.0,Goal,True,True,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69254,Barcelona,Racing Santander,Andrés Iniesta Luján,2,65,3902,79.67,58.62,Blocked,False,False,Open Play,Left Foot,Sergio Busquets i Burgos,From Throw In
+69254,Barcelona,Racing Santander,Xavier Hernández Creus,2,65,3906,78.08,65.5,Off T,False,False,Open Play,Right Foot,,From Throw In
+69254,Barcelona,Racing Santander,Thierry Henry,2,67,4023,87.58,42.5,Blocked,False,False,Open Play,Right Foot,,Regular Play
+69254,Racing Santander,Barcelona,Óscar Serrano Rodriguez,2,71,4314,83.75,36.62,Goal,True,True,Open Play,Left Foot,,From Free Kick
+69254,Barcelona,Racing Santander,Pedro Eliezer Rodríguez Ledesma,2,76,4607,79.42,57.62,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69254,Barcelona,Racing Santander,Thierry Henry,2,81,4862,91.67,51.88,Saved,False,True,Open Play,Right Foot,Daniel Alves da Silva,From Free Kick
+69255,Málaga,Barcelona,Nabil Baha,1,0,48,74.67,74.75,Off T,False,False,Open Play,Right Foot,Victor Obinna Nsofor,From Kick Off
+69255,Málaga,Barcelona,Victor Obinna Nsofor,1,7,433,97.42,29.0,Off T,False,False,Open Play,Left Foot,Sérgio Paulo Barbosa Valente,From Keeper
+69255,Barcelona,Málaga,Daniel Alves da Silva,1,16,1007,73.17,70.25,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69255,Barcelona,Málaga,Zlatan Ibrahimović,1,37,2262,87.33,42.62,Saved,False,True,Open Play,Left Foot,Pedro Eliezer Rodríguez Ledesma,From Free Kick
+69255,Barcelona,Málaga,Zlatan Ibrahimović,1,38,2293,90.17,55.38,Goal,True,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69255,Málaga,Barcelona,Valmiro Lópes Rocha,2,48,2925,80.33,43.12,Blocked,False,False,Open Play,Left Foot,,From Corner
+69255,Barcelona,Málaga,Gerard Piqué Bernabéu,2,58,3504,93.25,49.88,Goal,True,True,Open Play,Right Foot,Xavier Hernández Creus,From Free Kick
+69255,Barcelona,Málaga,Seydou Kéita,2,68,4100,89.83,52.12,Wayward,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69255,Barcelona,Málaga,Gerard Piqué Bernabéu,2,73,4384,90.0,46.25,Off T,False,False,Open Play,Right Foot,Daniel Alves da Silva,Regular Play
+69255,Barcelona,Málaga,Daniel Alves da Silva,2,75,4522,91.42,74.62,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69255,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,2,88,5285,84.25,63.88,Saved,False,True,Free Kick,Left Foot,,From Free Kick
+69255,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,2,90,5458,82.33,68.0,Off T,False,False,Open Play,Left Foot,,Regular Play
+69255,Barcelona,Málaga,Seydou Kéita,2,91,5476,88.5,36.0,Blocked,False,False,Open Play,Left Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69255,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,2,92,5536,87.92,57.12,Saved,False,True,Open Play,Right Foot,Seydou Kéita,Regular Play
+69256,Barcelona,Almería,Lionel Andrés Messi Cuccittini,1,8,537,93.33,63.62,Off T,False,False,Open Play,Left Foot,Andrés Iniesta Luján,From Throw In
+69256,Barcelona,Almería,Lionel Andrés Messi Cuccittini,1,14,887,83.58,50.12,Saved,False,True,Open Play,Right Foot,Andrés Iniesta Luján,From Goal Kick
+69256,Barcelona,Almería,Xavier Hernández Creus,1,17,1026,91.58,46.38,Saved to Post,False,True,Open Play,Left Foot,Zlatan Ibrahimović,From Goal Kick
+69256,Barcelona,Almería,Pedro Eliezer Rodríguez Ledesma,1,17,1027,97.08,48.62,Post,False,True,Open Play,Right Foot,,From Goal Kick
+69256,Barcelona,Almería,Xavier Hernández Creus,1,18,1134,90.75,50.0,Off T,False,False,Open Play,Head,Maxwell Scherrer Cabelino Andrade,Regular Play
+69256,Barcelona,Almería,Pedro Eliezer Rodríguez Ledesma,1,30,1855,86.33,39.5,Goal,True,True,Open Play,Right Foot,Maxwell Scherrer Cabelino Andrade,From Throw In
+69256,Barcelona,Almería,Zlatan Ibrahimović,1,43,2587,84.75,26.5,Blocked,False,False,Open Play,Right Foot,,Regular Play
+69256,Barcelona,Almería,Zlatan Ibrahimović,1,43,2639,94.42,61.38,Off T,False,False,Open Play,Head,Sergio Busquets i Burgos,From Throw In
+69256,Barcelona,Almería,Rafael Márquez Álvarez,2,48,2900,73.0,67.5,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Throw In
+69256,Barcelona,Almería,Xavier Hernández Creus,2,50,3032,81.17,64.12,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69256,Barcelona,Almería,Daniel Alves da Silva,2,54,3267,72.17,56.5,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69256,Barcelona,Almería,Rafael Márquez Álvarez,2,56,3379,74.33,60.75,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69256,Barcelona,Almería,Andrés Iniesta Luján,2,57,3467,79.83,65.5,Off T,False,False,Open Play,Right Foot,,Regular Play
+69256,Barcelona,Almería,Lionel Andrés Messi Cuccittini,2,60,3651,80.67,40.12,Blocked,False,False,Open Play,Left Foot,Daniel Alves da Silva,From Throw In
+69256,Barcelona,Almería,Zlatan Ibrahimović,2,61,3681,93.75,46.0,Saved,False,True,Open Play,Head,Xavier Hernández Creus,From Corner
+69256,Barcelona,Almería,Zlatan Ibrahimović,2,76,4566,82.33,41.5,Saved,False,True,Open Play,Right Foot,Gnégnéri Yaya Touré,Regular Play
+69256,Almería,Barcelona,Santiago Wilmer Acasiete Ariadela,2,92,5521,96.17,40.88,Blocked,False,False,Open Play,Head,Míchel Macedo Rocha Machado,From Corner
+69252,Valencia,Barcelona,Pablo Hernández Domínguez,1,1,67,86.92,63.12,Saved,False,True,Open Play,Right Foot,Juan Manuel Mata García,From Counter
+69252,Valencia,Barcelona,Juan Manuel Mata García,1,4,281,92.58,49.5,Off T,False,False,Open Play,Head,Pablo Hernández Domínguez,Regular Play
+69252,Barcelona,Valencia,Daniel Alves da Silva,1,9,573,73.75,68.25,Off T,False,False,Open Play,Right Foot,Gnégnéri Yaya Touré,Regular Play
+69252,Valencia,Barcelona,Jérémy Mathieu,1,14,891,81.83,45.0,Off T,False,False,Open Play,Head,Pablo Hernández Domínguez,From Free Kick
+69252,Valencia,Barcelona,Éver Maximiliano David Banega,1,15,948,76.83,38.25,Blocked,False,False,Open Play,Right Foot,Bruno Saltor Grau,Regular Play
+69252,Valencia,Barcelona,David Josué Jiménez Silva,1,21,1280,85.0,39.25,Off T,False,False,Open Play,Left Foot,,From Throw In
+69252,Barcelona,Valencia,Daniel Alves da Silva,1,27,1622,73.58,33.5,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69252,Valencia,Barcelona,Juan Manuel Mata García,1,31,1888,89.0,49.38,Off T,False,False,Open Play,Right Foot,David Josué Jiménez Silva,From Corner
+69252,Barcelona,Valencia,Andrés Iniesta Luján,1,34,2099,92.67,59.62,Saved,False,True,Open Play,Right Foot,Daniel Alves da Silva,From Throw In
+69252,Barcelona,Valencia,Xavier Hernández Creus,1,42,2539,77.17,61.12,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69252,Valencia,Barcelona,Ángel Dealbert Ibáñez,1,45,2709,92.75,51.0,Wayward,False,False,Open Play,Head,Pablo Hernández Domínguez,From Corner
+69252,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,2,48,2923,84.83,58.5,Off T,False,False,Open Play,Left Foot,,From Corner
+69252,Valencia,Barcelona,Juan Manuel Mata García,2,50,3044,89.25,47.75,Blocked,False,False,Open Play,Head,Jérémy Mathieu,From Throw In
+69252,Valencia,Barcelona,David Josué Jiménez Silva,2,55,3355,79.42,49.75,Blocked,False,False,Open Play,Right Foot,,From Throw In
+69252,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,2,61,3672,78.83,39.38,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69252,Barcelona,Valencia,Xavier Hernández Creus,2,62,3736,84.83,34.5,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Free Kick
+69252,Barcelona,Valencia,Pedro Eliezer Rodríguez Ledesma,2,62,3760,76.33,42.38,Off T,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Corner
+69252,Barcelona,Valencia,Pedro Eliezer Rodríguez Ledesma,2,63,3838,89.58,54.62,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Free Kick
+69252,Barcelona,Valencia,Andrés Iniesta Luján,2,64,3858,86.75,22.12,Off T,False,False,Open Play,Right Foot,Xavier Hernández Creus,From Corner
+69252,Valencia,Barcelona,Jérémy Mathieu,2,65,3923,87.75,25.38,Off T,False,False,Open Play,Left Foot,Pablo Hernández Domínguez,From Throw In
+69252,Valencia,Barcelona,Pablo Hernández Domínguez,2,67,4074,47.08,49.25,Saved,False,True,Open Play,Right Foot,,Regular Play
+69252,Valencia,Barcelona,David Josué Jiménez Silva,2,70,4229,92.67,49.63,Saved,False,True,Open Play,Right Foot,Jérémy Mathieu,From Free Kick
+69252,Barcelona,Valencia,Daniel Alves da Silva,2,73,4398,78.92,52.88,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69252,Barcelona,Valencia,Andrés Iniesta Luján,2,79,4768,95.42,66.88,Off T,False,False,Open Play,Right Foot,Xavier Hernández Creus,Regular Play
+69252,Barcelona,Valencia,Gnégnéri Yaya Touré,2,87,5269,87.33,72.62,Saved,False,True,Open Play,Right Foot,,Regular Play
+69253,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,1,3,183,80.25,71.62,Saved,False,True,Open Play,Left Foot,,From Corner
+69253,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,1,4,295,93.42,61.62,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69253,Barcelona,Real Zaragoza,Zlatan Ibrahimović,1,6,383,88.33,34.38,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69253,Barcelona,Real Zaragoza,Seydou Kéita,1,7,421,86.17,37.75,Blocked,False,False,Open Play,Left Foot,Andrés Iniesta Luján,From Keeper
+69253,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,1,11,697,93.17,41.75,Saved,False,True,Open Play,Left Foot,Zlatan Ibrahimović,From Goal Kick
+69253,Real Zaragoza,Barcelona,Ángel Javier Arizmendi de Lucas,1,15,919,93.67,31.0,Saved,False,True,Open Play,Left Foot,Ander Herrera Agüera,From Counter
+69253,Barcelona,Real Zaragoza,Zlatan Ibrahimović,1,19,1196,87.75,27.0,Saved,False,True,Open Play,Right Foot,Dmytro Chygrynskiy,Regular Play
+69253,Barcelona,Real Zaragoza,Seydou Kéita,1,24,1441,93.5,49.63,Goal,True,True,Open Play,Head,Lionel Andrés Messi Cuccittini,From Corner
+69253,Barcelona,Real Zaragoza,Zlatan Ibrahimović,1,28,1723,70.5,41.38,Goal,True,True,Free Kick,Right Foot,,From Free Kick
+69253,Barcelona,Real Zaragoza,Xavier Hernández Creus,1,31,1915,78.83,67.75,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69253,Barcelona,Real Zaragoza,Seydou Kéita,1,41,2461,97.33,52.0,Goal,True,True,Open Play,Left Foot,Zlatan Ibrahimović,Regular Play
+69253,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,2,49,2940,83.58,55.88,Blocked,False,False,Open Play,Right Foot,Xavier Hernández Creus,Regular Play
+69253,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,2,53,3204,84.08,42.62,Saved,False,True,Open Play,Left Foot,,Regular Play
+69253,Barcelona,Real Zaragoza,Zlatan Ibrahimović,2,55,3331,94.75,44.0,Goal,True,True,Open Play,Right Foot,Seydou Kéita,Regular Play
+69253,Real Zaragoza,Barcelona,Ángel Javier Arizmendi de Lucas,2,57,3437,67.75,45.88,Saved Off Target,False,False,Open Play,Right Foot,Ander Herrera Agüera,Regular Play
+69253,Barcelona,Real Zaragoza,Andrés Iniesta Luján,2,58,3534,87.08,41.0,Saved,False,True,Open Play,Left Foot,,Regular Play
+69253,Real Zaragoza,Barcelona,Ángel Javier Arizmendi de Lucas,2,64,3854,90.33,32.0,Off T,False,False,Open Play,Right Foot,Francisco Pavón Barahona,From Free Kick
+69253,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,2,68,4102,88.67,51.38,Saved,False,True,Open Play,Left Foot,Sergio Busquets i Burgos,Regular Play
+69253,Real Zaragoza,Barcelona,Ewerthon Henrique de Souza,2,77,4635,87.0,42.87,Saved,False,True,Open Play,Right Foot,Ángel Lafita Castillo,From Counter
+69253,Real Zaragoza,Barcelona,Jorge López Montaña,2,77,4640,78.83,53.0,Goal,True,True,Open Play,Right Foot,Ángel Lafita Castillo,Regular Play
+69253,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,2,79,4795,89.92,54.88,Goal,True,True,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69253,Barcelona,Real Zaragoza,Seydou Kéita,2,85,5113,89.0,48.38,Goal,True,True,Open Play,Head,Andrés Iniesta Luján,From Corner
+69253,Real Zaragoza,Barcelona,Ángel Lafita Castillo,2,86,5189,70.17,25.0,Saved,False,True,Open Play,Right Foot,Javier Paredes Arango,From Kick Off
+69253,Real Zaragoza,Barcelona,Ewerthon Henrique de Souza,2,87,5258,85.92,47.38,Saved,False,True,Open Play,Right Foot,Ángel Lafita Castillo,Regular Play
+69277,Barcelona,Osasuna,Lionel Andrés Messi Cuccittini,1,0,52,85.92,55.12,Saved,False,True,Open Play,Left Foot,,From Throw In
+69277,Barcelona,Osasuna,Gerard Piqué Bernabéu,1,1,76,93.92,44.88,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69277,Barcelona,Osasuna,Lionel Andrés Messi Cuccittini,1,7,431,87.92,67.38,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69277,Osasuna,Barcelona,Carlos Reina Aranda,1,9,584,94.25,68.0,Off T,False,False,Open Play,Right Foot,Francisco Puñal Martínez,Regular Play
+69277,Barcelona,Osasuna,Seydou Kéita,1,16,1009,78.75,39.88,Off T,False,False,Open Play,Left Foot,Zlatan Ibrahimović,From Free Kick
+69277,Osasuna,Barcelona,Carlos Reina Aranda,1,20,1257,98.25,55.88,Saved,False,True,Open Play,Right Foot,Francisco Puñal Martínez,From Corner
+69277,Barcelona,Osasuna,Xavier Hernández Creus,1,22,1349,70.25,56.5,Saved,False,True,Open Play,Right Foot,Eric-Sylvain Bilal Abidal,From Throw In
+69277,Barcelona,Osasuna,Zlatan Ibrahimović,1,27,1669,89.33,44.0,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Free Kick
+69277,Barcelona,Osasuna,Zlatan Ibrahimović,1,28,1699,85.92,52.25,Blocked,False,False,Open Play,Right Foot,Xavier Hernández Creus,From Corner
+69277,Osasuna,Barcelona,Carlos Reina Aranda,1,29,1768,91.42,50.12,Off T,False,False,Open Play,Right Foot,Juan Francisco Torres Belén,From Throw In
+69277,Barcelona,Osasuna,Lionel Andrés Messi Cuccittini,1,31,1861,85.92,58.75,Blocked,False,False,Open Play,Left Foot,,Regular Play
+69277,Osasuna,Barcelona,Javad Nekounam,1,40,2459,77.25,59.38,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69277,Osasuna,Barcelona,José Romero Urtasun,1,43,2619,90.0,59.12,Off T,False,False,Open Play,Right Foot,Miguel Flaño Bezunartea,From Corner
+69277,Barcelona,Osasuna,Gerard Piqué Bernabéu,2,58,3503,92.5,38.38,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69277,Osasuna,Barcelona,Walter Gerardo Pandiani Urquiza,2,64,3881,91.67,49.63,Saved,False,True,Open Play,Head,,From Throw In
+69277,Osasuna,Barcelona,Javad Nekounam,2,65,3924,70.75,39.25,Saved,False,True,Open Play,Right Foot,Javier Camuñas Gallego,From Keeper
+69277,Barcelona,Osasuna,Seydou Kéita,2,71,4315,95.83,49.12,Goal,True,True,Open Play,Right Foot,Carles Puyol i Saforcada,From Free Kick
+69277,Barcelona,Osasuna,Carles Puyol i Saforcada,2,83,4998,86.5,68.5,Off T,False,False,Open Play,Left Foot,,Regular Play
+69277,Osasuna,Barcelona,Walter Gerardo Pandiani Urquiza,2,85,5117,93.33,45.5,Off T,False,False,Open Play,Head,Masoud Shojaei Soleimani,From Free Kick
+69277,Barcelona,Osasuna,Zlatan Ibrahimović,2,87,5239,86.5,36.12,Saved,False,True,Open Play,Right Foot,Andrés Iniesta Luján,From Counter
+69277,Barcelona,Osasuna,Lionel Andrés Messi Cuccittini,2,89,5346,77.0,63.25,Saved,False,True,Free Kick,Left Foot,,From Free Kick
+69277,Barcelona,Osasuna,Lionel Andrés Messi Cuccittini,2,91,5475,91.42,63.62,Saved,False,True,Open Play,Right Foot,Xavier Hernández Creus,From Free Kick
+69277,Barcelona,Osasuna,Lionel Andrés Messi Cuccittini,2,91,5486,89.25,72.12,Saved,False,True,Open Play,Left Foot,Rafael Márquez Álvarez,From Free Kick
+69250,Barcelona,Mallorca,Pedro Eliezer Rodríguez Ledesma,1,10,633,88.5,54.5,Goal,True,True,Open Play,Left Foot,Zlatan Ibrahimović,From Goal Kick
+69250,Barcelona,Mallorca,Thierry Henry,1,12,767,81.92,37.25,Saved,False,True,Open Play,Right Foot,Zlatan Ibrahimović,Regular Play
+69250,Mallorca,Barcelona,Jose Luis Martí Soler,1,17,1020,78.17,42.75,Off T,False,False,Open Play,Right Foot,Pierre Achille Webó Kouamo,From Throw In
+69250,Mallorca,Barcelona,Pierre Achille Webó Kouamo,1,18,1100,86.0,47.62,Saved,False,True,Open Play,Right Foot,Mario Suárez Mata,From Counter
+69250,Mallorca,Barcelona,José Carlos de Araújo Nunes,1,19,1152,94.0,43.75,Goal,True,True,Open Play,Head,,From Corner
+69250,Barcelona,Mallorca,Gnégnéri Yaya Touré,1,26,1611,72.83,47.25,Off T,False,False,Open Play,Right Foot,,Regular Play
+69250,Mallorca,Barcelona,Mario Suárez Mata,1,29,1790,79.92,55.5,Blocked,False,False,Open Play,Right Foot,Pierre Achille Webó Kouamo,From Goal Kick
+69250,Mallorca,Barcelona,Borja Valero Iglesias,1,31,1874,84.5,65.0,Off T,False,False,Open Play,Right Foot,Jose Luis Martí Soler,From Corner
+69250,Barcelona,Mallorca,Gnégnéri Yaya Touré,1,38,2298,72.75,66.88,Wayward,False,False,Open Play,Left Foot,Pedro Eliezer Rodríguez Ledesma,From Throw In
+69250,Barcelona,Mallorca,Pedro Eliezer Rodríguez Ledesma,1,39,2393,94.25,56.38,Saved,False,True,Open Play,Right Foot,Seydou Kéita,From Free Kick
+69250,Barcelona,Mallorca,Thierry Henry,1,39,2394,90.42,47.13,Saved,False,True,Open Play,Right Foot,,From Free Kick
+69250,Barcelona,Mallorca,Sergio Busquets i Burgos,1,39,2396,89.42,56.12,Saved,False,True,Open Play,Right Foot,,From Free Kick
+69250,Barcelona,Mallorca,Pedro Eliezer Rodríguez Ledesma,1,39,2397,95.58,54.62,Goal,True,True,Open Play,Right Foot,,From Free Kick
+69250,Barcelona,Mallorca,Seydou Kéita,1,41,2462,84.92,38.12,Off T,False,False,Open Play,Left Foot,Sergio Busquets i Burgos,Regular Play
+69250,Barcelona,Mallorca,Thierry Henry,1,43,2585,97.08,46.88,Goal,True,True,Open Play,Head,Sergio Busquets i Burgos,From Free Kick
+69250,Barcelona,Mallorca,Zlatan Ibrahimović,2,48,2919,67.75,29.75,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69250,Barcelona,Mallorca,Gnégnéri Yaya Touré,2,56,3372,71.0,33.0,Saved,False,True,Free Kick,Right Foot,,From Free Kick
+69250,Barcelona,Mallorca,Zlatan Ibrahimović,2,58,3489,93.33,50.37,Off T,False,False,Open Play,Head,Lionel Andrés Messi Cuccittini,From Free Kick
+69250,Mallorca,Barcelona,Gonzalo Castro Irizábal,2,65,3924,83.92,63.38,Blocked,False,False,Open Play,Left Foot,Pierre Achille Webó Kouamo,Regular Play
+69250,Mallorca,Barcelona,Jose Luis Martí Soler,2,67,4033,82.67,65.38,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69250,Barcelona,Mallorca,Zlatan Ibrahimović,2,82,4967,90.5,30.75,Off T,False,False,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69250,Barcelona,Mallorca,Lionel Andrés Messi Cuccittini,2,84,5091,95.83,47.87,Off T,False,False,Open Play,Left Foot,Zlatan Ibrahimović,From Corner
+69250,Barcelona,Mallorca,Lionel Andrés Messi Cuccittini,2,86,5217,90.25,49.88,Goal,True,True,Penalty,Left Foot,,Other
+69250,Mallorca,Barcelona,Víctor Casadesús Castaño,2,90,5456,93.0,52.25,Saved,False,True,Open Play,Head,Gonzalo Castro Irizábal,From Free Kick
+69250,Mallorca,Barcelona,Ayoze Díaz Díaz,2,91,5489,75.25,37.25,Saved,False,True,Open Play,Right Foot,,From Corner
+69250,Mallorca,Barcelona,Alhassane Keita,2,91,5513,88.83,41.38,Goal,True,True,Open Play,Right Foot,Gonzalo Castro Irizábal,Regular Play
+69288,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,1,4,247,80.0,55.0,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69288,Athletic Club,Barcelona,Javier Martínez Aginaga,1,14,885,54.5,37.5,Off T,False,False,Open Play,Right Foot,,From Throw In
+69288,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,1,15,926,88.83,52.25,Saved,False,True,Open Play,Left Foot,Sergio Busquets i Burgos,Regular Play
+69288,Barcelona,Athletic Club,Seydou Kéita,1,16,979,91.0,42.75,Off T,False,False,Open Play,Head,Sergio Busquets i Burgos,Regular Play
+69288,Barcelona,Athletic Club,Pedro Eliezer Rodríguez Ledesma,1,24,1472,80.67,42.38,Off T,False,False,Open Play,Left Foot,Dmytro Chygrynskiy,From Free Kick
+69288,Barcelona,Athletic Club,Xavier Hernández Creus,1,28,1731,96.0,54.5,Off T,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Keeper
+69288,Athletic Club,Barcelona,Javier Martínez Aginaga,1,37,2263,71.5,48.0,Off T,False,False,Open Play,Right Foot,,From Free Kick
+69288,Athletic Club,Barcelona,Pablo Orbaiz Lesaka,1,38,2300,72.67,71.38,Off T,False,False,Open Play,Right Foot,Markel Susaeta Laskurain,Regular Play
+69288,Athletic Club,Barcelona,Francisco Javier Yeste Navarro,1,40,2421,76.08,52.25,Off T,False,False,Free Kick,Left Foot,,From Free Kick
+69288,Athletic Club,Barcelona,Javier Martínez Aginaga,1,46,2763,96.42,44.25,Off T,False,False,Open Play,Head,Francisco Javier Yeste Navarro,From Corner
+69288,Barcelona,Athletic Club,Daniel Alves da Silva,2,53,3196,94.25,64.38,Goal,True,True,Open Play,Right Foot,Xavier Hernández Creus,Regular Play
+69288,Athletic Club,Barcelona,Carlos Gurpegi Nausia,2,57,3458,77.25,41.5,Off T,False,False,Open Play,Right Foot,,Regular Play
+69288,Athletic Club,Barcelona,Gaizka Toquero Pinedo,2,62,3737,90.08,40.5,Goal,True,True,Open Play,Right Foot,Fernando Llorente Torres,Regular Play
+69288,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,2,66,3975,78.83,53.12,Blocked,False,False,Open Play,Left Foot,,From Corner
+69288,Barcelona,Athletic Club,Daniel Alves da Silva,2,66,4018,73.83,61.62,Blocked,False,False,Open Play,Right Foot,,From Corner
+69288,Barcelona,Athletic Club,Seydou Kéita,2,67,4022,81.67,36.5,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Corner
+69288,Barcelona,Athletic Club,Andrés Iniesta Luján,2,72,4340,82.17,38.12,Off T,False,False,Open Play,Right Foot,Sergio Busquets i Burgos,From Throw In
+69288,Barcelona,Athletic Club,Gerard Piqué Bernabéu,2,77,4656,90.58,54.88,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69288,Athletic Club,Barcelona,Igor Gabilondo del Campo,2,79,4769,81.25,33.0,Blocked,False,False,Free Kick,Left Foot,,From Free Kick
+69288,Barcelona,Athletic Club,Xavier Hernández Creus,2,82,4969,77.42,63.88,Saved,False,True,Open Play,Right Foot,,From Free Kick
+69288,Barcelona,Athletic Club,Daniel Alves da Silva,2,84,5068,74.5,43.62,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69262,Real Madrid,Barcelona,Marcelo Vieira da Silva Júnior,1,6,389,82.25,58.88,Off T,False,False,Open Play,Left Foot,Ricardo Izecson dos Santos Leite,Regular Play
+69262,Barcelona,Real Madrid,Sergio Busquets i Burgos,1,9,548,70.67,45.12,Blocked,False,False,Open Play,Right Foot,,Regular Play
+69262,Barcelona,Real Madrid,Xavier Hernández Creus,1,9,561,69.75,54.0,Off T,False,False,Open Play,Right Foot,Eric-Sylvain Bilal Abidal,Regular Play
+69262,Real Madrid,Barcelona,Cristiano Ronaldo dos Santos Aveiro,1,11,699,69.5,39.25,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69262,Real Madrid,Barcelona,Cristiano Ronaldo dos Santos Aveiro,1,19,1151,89.92,61.25,Saved,False,True,Open Play,Right Foot,Ricardo Izecson dos Santos Leite,From Throw In
+69262,Real Madrid,Barcelona,Sergio Ramos García,1,19,1182,94.08,48.0,Wayward,False,False,Open Play,Head,,From Corner
+69262,Real Madrid,Barcelona,Marcelo Vieira da Silva Júnior,1,21,1277,78.08,50.88,Off T,False,False,Open Play,Right Foot,,From Throw In
+69262,Real Madrid,Barcelona,Marcelo Vieira da Silva Júnior,1,25,1553,90.92,38.5,Blocked,False,False,Open Play,Left Foot,Ricardo Izecson dos Santos Leite,Regular Play
+69262,Barcelona,Real Madrid,Andrés Iniesta Luján,1,37,2254,91.92,32.12,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69262,Real Madrid,Barcelona,Marcelo Vieira da Silva Júnior,1,44,2657,83.67,26.62,Saved,False,True,Open Play,Left Foot,Ricardo Izecson dos Santos Leite,From Throw In
+69262,Barcelona,Real Madrid,Xavier Hernández Creus,2,52,3149,85.75,34.5,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,Regular Play
+69262,Real Madrid,Barcelona,Gonzalo Gerardo Higuaín,2,52,3175,91.17,40.0,Blocked,False,False,Open Play,Right Foot,Cristiano Ronaldo dos Santos Aveiro,From Counter
+69262,Barcelona,Real Madrid,Zlatan Ibrahimović,2,55,3325,93.08,43.12,Goal,True,True,Open Play,Left Foot,Daniel Alves da Silva,From Free Kick
+69262,Real Madrid,Barcelona,Cristiano Ronaldo dos Santos Aveiro,2,65,3910,91.83,48.88,Off T,False,False,Open Play,Head,Marcelo Vieira da Silva Júnior,Regular Play
+69262,Barcelona,Real Madrid,Gerard Piqué Bernabéu,2,69,4140,92.08,52.75,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Free Kick
+69262,Real Madrid,Barcelona,Karim Benzema,2,69,4183,92.67,43.25,Blocked,False,False,Open Play,Right Foot,Ricardo Izecson dos Santos Leite,From Goal Kick
+69262,Real Madrid,Barcelona,Karim Benzema,2,70,4236,85.83,24.5,Off T,False,False,Open Play,Right Foot,Lassana Diarra,Regular Play
+69262,Real Madrid,Barcelona,Marcelo Vieira da Silva Júnior,2,72,4331,80.33,38.5,Off T,False,False,Open Play,Left Foot,,From Corner
+69262,Barcelona,Real Madrid,Eric-Sylvain Bilal Abidal,2,75,4510,91.17,32.62,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69262,Real Madrid,Barcelona,Sergio Ramos García,2,77,4632,89.92,52.38,Off T,False,False,Open Play,Head,Ricardo Izecson dos Santos Leite,From Corner
+69262,Real Madrid,Barcelona,Ricardo Izecson dos Santos Leite,2,79,4777,84.08,26.5,Blocked,False,False,Open Play,Right Foot,Karim Benzema,Regular Play
+69262,Real Madrid,Barcelona,Karim Benzema,2,80,4810,95.92,51.12,Off T,False,False,Open Play,Right Foot,,From Corner
+69262,Real Madrid,Barcelona,Raúl González Blanco,2,82,4933,94.08,64.88,Blocked,False,False,Open Play,Right Foot,,From Corner
+69262,Barcelona,Real Madrid,Lionel Andrés Messi Cuccittini,2,88,5323,91.17,46.88,Saved,False,True,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69267,Xerez,Barcelona,Fabián Ariel Orellana Valenzuela,1,3,202,89.33,33.25,Blocked,False,False,Open Play,Right Foot,,From Throw In
+69267,Xerez,Barcelona,Carlos Calvo Sobrado,1,6,381,67.5,53.25,Saved,False,True,Free Kick,Right Foot,,From Free Kick
+69267,Barcelona,Xerez,Gnégnéri Yaya Touré,1,7,428,70.83,52.25,Blocked,False,False,Open Play,Left Foot,,Regular Play
+69267,Barcelona,Xerez,Seydou Kéita,1,14,862,95.08,46.12,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69267,Barcelona,Xerez,Thierry Henry,1,25,1534,90.75,33.88,Off T,False,False,Open Play,Left Foot,Daniel Alves da Silva,From Throw In
+69267,Barcelona,Xerez,Gnégnéri Yaya Touré,1,38,2286,97.58,52.38,Saved,False,True,Open Play,Other,Xavier Hernández Creus,From Free Kick
+69267,Xerez,Barcelona,Alejandro Bergantiños García,1,39,2366,76.17,52.62,Saved,False,True,Open Play,Right Foot,Carlos Calvo Sobrado,Regular Play
+69267,Xerez,Barcelona,Alejandro Bergantiños García,1,42,2571,88.17,53.75,Saved,False,True,Open Play,Head,Víctor Sánchez Mata,Regular Play
+69267,Barcelona,Xerez,Bojan Krkíc Pérez,1,44,2676,80.5,53.88,Wayward,False,False,Open Play,Right Foot,,From Corner
+69267,Barcelona,Xerez,Dmytro Chygrynskiy,1,46,2764,95.42,54.38,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69267,Barcelona,Xerez,Thierry Henry,2,46,2762,96.5,45.62,Goal,True,True,Open Play,Head,Maxwell Scherrer Cabelino Andrade,From Throw In
+69267,Xerez,Barcelona,Aythami Artiles Oliva,2,65,3933,94.5,51.5,Off T,False,False,Open Play,Head,Fabián Ariel Orellana Valenzuela,From Corner
+69267,Xerez,Barcelona,Fabián Ariel Orellana Valenzuela,2,70,4225,89.25,24.0,Saved,False,True,Open Play,Right Foot,José Manuel Casado Bizcocho,Regular Play
+69267,Barcelona,Xerez,Zlatan Ibrahimović,2,72,4367,72.0,35.88,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69267,Barcelona,Xerez,Rafael Márquez Álvarez,2,75,4511,96.58,44.38,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69267,Xerez,Barcelona,Mario Bermejo Castanedo,2,86,5207,88.08,32.38,Blocked,False,False,Open Play,Right Foot,Antonio Ramiro Pérez,Regular Play
+69267,Barcelona,Xerez,Lionel Andrés Messi Cuccittini,2,90,5418,92.08,31.62,Post,False,True,Open Play,Left Foot,,Regular Play
+69267,Barcelona,Xerez,Andrés Iniesta Luján,2,91,5463,95.75,43.5,Off T,False,False,Open Play,Left Foot,Zlatan Ibrahimović,Regular Play
+69267,Barcelona,Xerez,Zlatan Ibrahimović,2,92,5541,82.83,54.75,Goal,True,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,1,0,18,77.67,53.5,Blocked,False,False,Open Play,Left Foot,Zlatan Ibrahimović,From Counter
+69218,Barcelona,RC Deportivo La Coruña,Xavier Hernández Creus,1,2,125,72.92,66.0,Saved,False,True,Open Play,Right Foot,Zlatan Ibrahimović,Regular Play
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,1,8,491,89.92,65.0,Off T,False,False,Open Play,Right Foot,,From Free Kick
+69218,Barcelona,RC Deportivo La Coruña,Zlatan Ibrahimović,1,14,885,93.08,45.62,Saved,False,True,Open Play,Head,Daniel Alves da Silva,Regular Play
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,1,20,1218,89.58,38.75,Saved,False,True,Open Play,Left Foot,Thierry Henry,Regular Play
+69218,Barcelona,RC Deportivo La Coruña,Daniel Alves da Silva,1,21,1267,77.5,67.12,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Corner
+69218,Barcelona,RC Deportivo La Coruña,Thierry Henry,1,25,1541,92.5,59.75,Saved,False,True,Open Play,Right Foot,Zlatan Ibrahimović,Regular Play
+69218,Barcelona,RC Deportivo La Coruña,Xavier Hernández Creus,1,25,1556,84.25,49.75,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,Regular Play
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,1,26,1564,83.67,57.25,Goal,True,True,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69218,RC Deportivo La Coruña,Barcelona,Miguel Ángel Ferrer Martínez,1,32,1937,71.0,50.0,Blocked,False,False,Open Play,Left Foot,,Regular Play
+69218,Barcelona,RC Deportivo La Coruña,Zlatan Ibrahimović,1,34,2065,86.08,63.38,Saved,False,True,Open Play,Left Foot,,Regular Play
+69218,RC Deportivo La Coruña,Barcelona,Adrián López Álvarez,1,38,2288,86.42,49.25,Goal,True,True,Open Play,Head,,From Free Kick
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,1,41,2486,83.75,51.5,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Counter
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,1,43,2623,91.17,41.62,Saved,False,True,Open Play,Left Foot,Zlatan Ibrahimović,From Goal Kick
+69218,RC Deportivo La Coruña,Barcelona,Miguel Ángel Ferrer Martínez,2,53,3236,87.92,54.0,Off T,False,False,Open Play,Head,Filipe Luís Kasmirski,From Keeper
+69218,RC Deportivo La Coruña,Barcelona,Juan Antonio Rodríguez Villamuela,2,66,3979,80.08,71.38,Blocked,False,False,Open Play,Right Foot,Miguel Ángel Ferrer Martínez,From Goal Kick
+69218,Barcelona,RC Deportivo La Coruña,Zlatan Ibrahimović,2,69,4141,95.5,63.5,Off T,False,False,Open Play,Head,Andrés Iniesta Luján,From Free Kick
+69218,Barcelona,RC Deportivo La Coruña,Xavier Hernández Creus,2,73,4393,85.67,55.38,Blocked,False,False,Open Play,Right Foot,,From Corner
+69218,Barcelona,RC Deportivo La Coruña,Zlatan Ibrahimović,2,73,4394,94.42,52.75,Off T,False,False,Open Play,Right Foot,,From Corner
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,2,75,4548,82.42,62.0,Off T,False,False,Open Play,Left Foot,Daniel Alves da Silva,From Free Kick
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,2,79,4740,91.75,52.75,Goal,True,True,Open Play,Head,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69218,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,2,84,5040,88.67,54.88,Saved,False,True,Open Play,Head,Daniel Alves da Silva,Regular Play
+69218,Barcelona,RC Deportivo La Coruña,Zlatan Ibrahimović,2,87,5232,86.0,53.88,Goal,True,True,Open Play,Right Foot,Eric-Sylvain Bilal Abidal,From Free Kick
+69219,Tenerife,Barcelona,Juan Francisco Martínez Modesto,1,2,168,75.17,40.75,Off T,False,False,Open Play,Right Foot,Mikel Alonso Olano,Regular Play
+69219,Tenerife,Barcelona,Alejandro Alfaro Ligero,1,4,244,90.25,37.12,Post,False,True,Open Play,Left Foot,Juan Francisco Martínez Modesto,From Counter
+69219,Tenerife,Barcelona,"Daniel Armand N""Gom Komé",1,4,246,90.25,65.75,Blocked,False,False,Open Play,Right Foot,,From Counter
+69219,Tenerife,Barcelona,Alejandro Alfaro Ligero,1,7,423,90.17,32.75,Saved,False,True,Open Play,Left Foot,Ricardo León Brito,Regular Play
+69219,Tenerife,Barcelona,Pablo Sicilia Roig,1,7,458,97.17,55.62,Off T,False,False,Open Play,Head,Juan Luis Hens Lorite,From Corner
+69219,Barcelona,Tenerife,Bojan Krkíc Pérez,1,9,558,89.92,68.5,Off T,False,False,Open Play,Right Foot,Sergio Busquets i Burgos,From Counter
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,1,11,692,92.58,37.5,Off T,False,False,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69219,Tenerife,Barcelona,Alejandro Alfaro Ligero,1,12,743,94.0,61.12,Saved,False,True,Open Play,Left Foot,Juan Luis Hens Lorite,From Throw In
+69219,Barcelona,Tenerife,Bojan Krkíc Pérez,1,16,966,86.83,31.0,Blocked,False,False,Open Play,Right Foot,Daniel Alves da Silva,From Goal Kick
+69219,Tenerife,Barcelona,Mikel Alonso Olano,1,22,1322,73.58,38.5,Blocked,False,False,Open Play,Right Foot,Ayoze García Pérez,From Free Kick
+69219,Tenerife,Barcelona,Alejandro Alfaro Ligero,1,23,1407,79.25,53.38,Off T,False,False,Open Play,Right Foot,,Regular Play
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,1,30,1836,72.17,55.62,Blocked,False,False,Free Kick,Left Foot,,From Free Kick
+69219,Barcelona,Tenerife,Rafael Márquez Álvarez,1,33,1995,73.42,50.37,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,1,35,2116,91.08,54.38,Goal,True,True,Open Play,Left Foot,Bojan Krkíc Pérez,From Throw In
+69219,Barcelona,Tenerife,Thierry Henry,1,37,2239,88.17,60.0,Off T,False,False,Open Play,Right Foot,Xavier Hernández Creus,From Free Kick
+69219,Barcelona,Tenerife,Carles Puyol i Saforcada,1,43,2616,95.42,53.5,Goal,True,True,Open Play,Head,Lionel Andrés Messi Cuccittini,From Free Kick
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,1,46,2767,94.83,54.75,Goal,True,True,Open Play,Left Foot,Bojan Krkíc Pérez,Regular Play
+69219,Barcelona,Tenerife,Thierry Henry,2,47,2826,94.5,35.88,Post,False,True,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69219,Barcelona,Tenerife,Andrés Iniesta Luján,2,47,2828,77.67,48.5,Off T,False,False,Open Play,Right Foot,,Regular Play
+69219,Tenerife,Barcelona,Juan Francisco Martínez Modesto,2,52,3125,99.67,59.25,Off T,False,False,Open Play,Right Foot,Ezequiel Luna,From Free Kick
+69219,Tenerife,Barcelona,Ayoze García Pérez,2,58,3487,77.42,23.5,Off T,False,False,Open Play,Left Foot,Carlos Bellvís Llorens,From Throw In
+69219,Barcelona,Tenerife,Andrés Iniesta Luján,2,60,3600,85.92,45.62,Off T,False,False,Open Play,Right Foot,Daniel Alves da Silva,From Free Kick
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,2,61,3686,90.58,37.0,Blocked,False,False,Open Play,Left Foot,Sergio Busquets i Burgos,Regular Play
+69219,Tenerife,Barcelona,Juan Francisco Martínez Modesto,2,71,4263,81.17,64.25,Off T,False,False,Open Play,Right Foot,,From Goal Kick
+69219,Barcelona,Tenerife,Thierry Henry,2,74,4440,93.33,35.12,Off T,False,False,Open Play,Right Foot,Sergio Busquets i Burgos,From Throw In
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,2,74,4497,83.33,38.88,Goal,True,True,Open Play,Left Foot,Bojan Krkíc Pérez,Regular Play
+69219,Tenerife,Barcelona,"Daniel Armand N""Gom Komé",2,78,4695,89.5,48.62,Off T,False,False,Open Play,Left Foot,Alejandro Alfaro Ligero,Regular Play
+69219,Tenerife,Barcelona,Juan Francisco Martínez Modesto,2,80,4850,87.25,30.5,Saved,False,True,Open Play,Right Foot,Alejandro Alfaro Ligero,Regular Play
+69219,Barcelona,Tenerife,Thierry Henry,2,82,4963,94.0,33.75,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69219,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,2,82,4965,95.58,46.25,Off T,False,False,Open Play,Head,,From Counter
+69243,Barcelona,Sevilla,Daniel Alves da Silva,1,1,85,80.67,69.75,Off T,False,False,Open Play,Right Foot,,Regular Play
+69243,Barcelona,Sevilla,Thierry Henry,1,12,740,76.5,50.12,Saved,False,True,Open Play,Right Foot,Xavier Hernández Creus,From Counter
+69243,Barcelona,Sevilla,Andrés Iniesta Luján,1,16,1015,72.17,32.38,Off T,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69243,Barcelona,Sevilla,Zlatan Ibrahimović,1,19,1175,93.5,40.62,Blocked,False,False,Open Play,Head,Xavier Hernández Creus,From Throw In
+69243,Barcelona,Sevilla,Daniel Alves da Silva,1,19,1193,91.92,64.62,Off T,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Throw In
+69243,Barcelona,Sevilla,Carles Puyol i Saforcada,1,27,1631,91.08,40.37,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,1,30,1824,82.5,54.75,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Free Kick
+69243,Barcelona,Sevilla,Carles Puyol i Saforcada,1,30,1847,93.42,51.12,Saved,False,True,Open Play,Head,Lionel Andrés Messi Cuccittini,From Corner
+69243,Barcelona,Sevilla,Xavier Hernández Creus,1,32,1964,77.33,62.5,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,1,34,2087,81.92,65.12,Saved,False,True,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69243,Sevilla,Barcelona,Arouna Koné,1,38,2281,85.5,47.0,Blocked,False,False,Open Play,Right Foot,Manuel Jesús Ortiz Toribio,From Free Kick
+69243,Sevilla,Barcelona,Fernando Navarro i Corbacho,1,38,2313,77.33,51.75,Blocked,False,False,Open Play,Right Foot,,From Corner
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,1,41,2511,77.58,56.25,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69243,Barcelona,Sevilla,Xavier Hernández Creus,1,43,2598,82.5,64.62,Blocked,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69243,Sevilla,Barcelona,Arouna Koné,2,46,2797,97.08,35.88,Saved,False,True,Open Play,Left Foot,Ivica Dragutinovic,Regular Play
+69243,Barcelona,Sevilla,Zlatan Ibrahimović,2,48,2900,78.33,28.12,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69243,Barcelona,Sevilla,Gerard Piqué Bernabéu,2,48,2914,94.5,61.25,Wayward,False,False,Open Play,Right Foot,Rafael Márquez Álvarez,From Free Kick
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,2,50,3031,89.33,64.5,Saved,False,True,Open Play,Right Foot,Daniel Alves da Silva,From Keeper
+69243,Barcelona,Sevilla,Thierry Henry,2,52,3151,93.0,36.75,Saved,False,True,Open Play,Right Foot,Zlatan Ibrahimović,From Free Kick
+69243,Barcelona,Sevilla,Zlatan Ibrahimović,2,55,3350,92.75,46.62,Wayward,False,False,Open Play,Head,Lionel Andrés Messi Cuccittini,From Corner
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,2,56,3409,87.58,71.12,Off T,False,False,Open Play,Left Foot,Zlatan Ibrahimović,Regular Play
+69243,Barcelona,Sevilla,Thierry Henry,2,61,3699,83.33,30.12,Saved,False,True,Open Play,Right Foot,Zlatan Ibrahimović,Regular Play
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,2,67,4034,88.33,59.5,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69243,Barcelona,Sevilla,Zlatan Ibrahimović,2,67,4036,92.0,50.62,Blocked,False,False,Open Play,Left Foot,,Regular Play
+69243,Barcelona,Sevilla,Pedro Eliezer Rodríguez Ledesma,2,69,4177,91.08,42.5,Saved,False,True,Open Play,Right Foot,Eric-Sylvain Bilal Abidal,Regular Play
+69243,Barcelona,Sevilla,Pedro Eliezer Rodríguez Ledesma,2,69,4197,88.92,55.88,Goal,True,True,Open Play,Right Foot,Xavier Hernández Creus,From Counter
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,2,84,5063,93.08,50.0,Goal,True,True,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69243,Barcelona,Sevilla,Rafael Márquez Álvarez,2,88,5286,93.25,40.62,Saved,False,True,Open Play,Head,Xavier Hernández Creus,From Corner
+69243,Sevilla,Barcelona,Jesús Navas González,2,89,5378,87.83,23.88,Blocked,False,False,Open Play,Right Foot,Ivica Dragutinovic,Regular Play
+69243,Sevilla,Barcelona,Arouna Koné,2,89,5381,85.83,45.25,Blocked,False,False,Open Play,Right Foot,,Regular Play
+69243,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,2,91,5470,87.5,45.62,Goal,True,True,Open Play,Left Foot,Eric-Sylvain Bilal Abidal,From Free Kick
+69210,Real Valladolid,Barcelona,Carlos Lázaro Vallejo,1,4,282,73.67,28.25,Off T,False,False,Open Play,Right Foot,Diego da Silva Costa,From Throw In
+69210,Barcelona,Real Valladolid,Seydou Kéita,1,7,476,89.42,47.87,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69210,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,1,10,619,85.0,68.88,Saved,False,True,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69210,Real Valladolid,Barcelona,Diego da Silva Costa,1,17,1042,83.42,45.88,Saved,False,True,Open Play,Right Foot,Borja Fernández Fernández,From Counter
+69210,Real Valladolid,Barcelona,Luis Prieto Zalbidegoitia,1,17,1071,91.67,62.75,Wayward,False,False,Open Play,Head,Néstor Fabián Canobbio Bentaberry,From Corner
+69210,Barcelona,Real Valladolid,Xavier Hernández Creus,1,19,1197,93.0,49.38,Goal,True,True,Open Play,Right Foot,Daniel Alves da Silva,Regular Play
+69210,Barcelona,Real Valladolid,Daniel Alves da Silva,1,21,1279,88.0,80.38,Goal,True,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69210,Real Valladolid,Barcelona,Luis Prieto Zalbidegoitia,1,24,1478,86.92,56.38,Off T,False,False,Open Play,Right Foot,Néstor Fabián Canobbio Bentaberry,From Corner
+69210,Real Valladolid,Barcelona,Borja Fernández Fernández,1,43,2601,83.33,47.13,Saved,False,True,Free Kick,Right Foot,,From Free Kick
+69210,Real Valladolid,Barcelona,Borja Fernández Fernández,1,43,2604,87.58,61.38,Blocked,False,False,Open Play,Right Foot,,From Free Kick
+69210,Real Valladolid,Barcelona,Luis Prieto Zalbidegoitia,1,43,2606,83.58,66.12,Wayward,False,False,Open Play,Right Foot,,From Free Kick
+69210,Real Valladolid,Barcelona,Carlos Lázaro Vallejo,1,43,2612,90.08,48.75,Saved,False,True,Open Play,Left Foot,Luis Prieto Zalbidegoitia,From Free Kick
+69210,Barcelona,Real Valladolid,Zlatan Ibrahimović,1,45,2737,85.75,56.12,Off T,False,False,Open Play,Right Foot,Andrés Iniesta Luján,Regular Play
+69210,Barcelona,Real Valladolid,Andrés Iniesta Luján,2,49,2944,85.58,50.62,Off T,False,False,Open Play,Right Foot,Daniel Alves da Silva,From Goal Kick
+69210,Barcelona,Real Valladolid,Andrés Iniesta Luján,2,54,3277,77.08,58.5,Saved,False,True,Open Play,Right Foot,Xavier Hernández Creus,Regular Play
+69210,Barcelona,Real Valladolid,Thierry Henry,2,55,3313,94.17,40.5,Saved,False,True,Open Play,Right Foot,Daniel Alves da Silva,Regular Play
+69210,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,2,55,3354,92.33,55.62,Goal,True,True,Open Play,Left Foot,Zlatan Ibrahimović,Regular Play
+69210,Real Valladolid,Barcelona,César Arzo Amposta,2,58,3499,92.08,51.25,Saved,False,True,Open Play,Head,Néstor Fabián Canobbio Bentaberry,From Corner
+69210,Barcelona,Real Valladolid,Thierry Henry,2,63,3808,83.17,29.0,Saved,False,True,Open Play,Right Foot,Andrés Iniesta Luján,From Throw In
+69210,Barcelona,Real Valladolid,Thierry Henry,2,64,3840,88.17,29.12,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69210,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,2,64,3869,87.83,33.12,Off T,False,False,Open Play,Left Foot,Andrés Iniesta Luján,From Counter
+69210,Real Valladolid,Barcelona,Diego da Silva Costa,2,66,3989,84.58,25.25,Saved,False,True,Open Play,Right Foot,César Arzo Amposta,From Throw In
+69210,Barcelona,Real Valladolid,Zlatan Ibrahimović,2,69,4177,93.0,68.12,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Counter
+69210,Barcelona,Real Valladolid,Zlatan Ibrahimović,2,73,4382,74.83,48.0,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69210,Real Valladolid,Barcelona,Vítor Hugo Gomes Passos,2,87,5226,77.0,22.37,Off T,False,False,Open Play,Left Foot,,Regular Play
+69210,Real Valladolid,Barcelona,Vítor Hugo Gomes Passos,2,88,5281,72.17,36.62,Off T,False,False,Open Play,Right Foot,Haris Medunjanin,From Corner
+69220,Barcelona,Sporting Gijón,Andrés Iniesta Luján,1,11,691,89.75,46.25,Saved,False,True,Open Play,Right Foot,Xavier Hernández Creus,From Free Kick
+69220,Barcelona,Sporting Gijón,Lionel Andrés Messi Cuccittini,1,15,900,79.25,40.25,Off T,False,False,Open Play,Left Foot,,Regular Play
+69220,Sporting Gijón,Barcelona,Mate Bilić,1,18,1089,86.5,44.25,Off T,False,False,Open Play,Left Foot,Miguel Ángel De las Cuevas Barberá,Regular Play
+69220,Barcelona,Sporting Gijón,Zlatan Ibrahimović,1,25,1517,88.83,34.62,Off T,False,False,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,From Free Kick
+69220,Sporting Gijón,Barcelona,Mate Bilić,1,26,1593,89.25,50.75,Saved,False,True,Open Play,Head,Carmelo José González Jiménez,From Throw In
+69220,Barcelona,Sporting Gijón,Pedro Eliezer Rodríguez Ledesma,1,28,1738,89.5,36.5,Goal,True,True,Open Play,Left Foot,Andrés Iniesta Luján,From Free Kick
+69220,Barcelona,Sporting Gijón,Lionel Andrés Messi Cuccittini,1,31,1901,96.83,36.12,Wayward,False,False,Open Play,Left Foot,Gerard Piqué Bernabéu,From Corner
+69220,Sporting Gijón,Barcelona,Miguel Ángel De las Cuevas Barberá,1,34,2051,79.58,27.5,Off T,False,False,Open Play,Right Foot,Carmelo José González Jiménez,Regular Play
+69220,Barcelona,Sporting Gijón,Zlatan Ibrahimović,1,36,2179,72.42,44.5,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69220,Barcelona,Sporting Gijón,Zlatan Ibrahimović,1,39,2393,92.92,36.88,Blocked,False,False,Open Play,Right Foot,Xavier Hernández Creus,From Throw In
+69220,Barcelona,Sporting Gijón,Xavier Hernández Creus,2,49,2943,80.08,35.62,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69220,Barcelona,Sporting Gijón,Andrés Iniesta Luján,2,51,3089,81.08,54.5,Off T,False,False,Open Play,Left Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69220,Sporting Gijón,Barcelona,Mate Bilić,2,53,3214,78.42,74.75,Blocked,False,False,Open Play,Right Foot,Carmelo José González Jiménez,Regular Play
+69220,Sporting Gijón,Barcelona,Cristian Portilla Rodríguez,2,59,3551,77.17,68.0,Saved,False,True,Free Kick,Left Foot,,From Free Kick
+69220,Barcelona,Sporting Gijón,Lionel Andrés Messi Cuccittini,2,59,3583,55.25,65.0,Saved Off Target,False,False,Open Play,Left Foot,,Regular Play
+69220,Barcelona,Sporting Gijón,Lionel Andrés Messi Cuccittini,2,64,3892,89.25,40.0,Off T,False,False,Open Play,Left Foot,Pedro Eliezer Rodríguez Ledesma,From Corner
+69220,Barcelona,Sporting Gijón,Zlatan Ibrahimović,2,69,4181,84.0,38.12,Blocked,False,False,Open Play,Right Foot,,Regular Play
+69220,Barcelona,Sporting Gijón,Rafael Márquez Álvarez,2,70,4236,93.08,53.5,Blocked,False,False,Open Play,Head,Lionel Andrés Messi Cuccittini,From Free Kick
+69220,Barcelona,Sporting Gijón,Pedro Eliezer Rodríguez Ledesma,2,71,4270,77.0,44.5,Blocked,False,False,Open Play,Right Foot,,From Corner
+69220,Barcelona,Sporting Gijón,Pedro Eliezer Rodríguez Ledesma,2,72,4358,92.5,42.13,Off T,False,False,Open Play,Right Foot,,From Free Kick
+69220,Barcelona,Sporting Gijón,Zlatan Ibrahimović,2,73,4435,96.92,61.62,Blocked,False,False,Open Play,Right Foot,Xavier Hernández Creus,Regular Play
+69220,Barcelona,Sporting Gijón,Pedro Eliezer Rodríguez Ledesma,2,74,4473,83.67,31.62,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Corner
+69220,Barcelona,Sporting Gijón,Rafael Márquez Álvarez,2,76,4591,76.0,51.12,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69220,Barcelona,Sporting Gijón,Zlatan Ibrahimović,2,83,5021,83.08,36.12,Blocked,False,False,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69220,Barcelona,Sporting Gijón,Pedro Eliezer Rodríguez Ledesma,2,87,5277,86.5,32.25,Saved,False,True,Open Play,Left Foot,Zlatan Ibrahimović,From Corner
+69220,Barcelona,Sporting Gijón,Zlatan Ibrahimović,2,88,5331,92.42,33.88,Saved,False,True,Open Play,Left Foot,Pedro Eliezer Rodríguez Ledesma,From Corner
+69240,Getafe,Barcelona,Roberto Soldado Rillo,1,1,119,67.75,51.5,Off T,False,False,Open Play,Right Foot,Juan Ángel Albín Leites,Regular Play
+69240,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,1,3,203,81.75,67.25,Off T,False,False,Open Play,Left Foot,Andrés Iniesta Luján,From Goal Kick
+69240,Barcelona,Getafe,Xavier Hernández Creus,1,5,334,74.75,44.63,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Keeper
+69240,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,1,6,362,79.42,47.62,Goal,True,True,Open Play,Left Foot,Gnégnéri Yaya Touré,From Corner
+69240,Getafe,Barcelona,Daniel Parejo Muñoz,1,7,476,76.5,49.75,Saved,False,True,Open Play,Right Foot,,From Corner
+69240,Barcelona,Getafe,Zlatan Ibrahimović,1,15,918,87.08,35.75,Blocked,False,False,Open Play,Right Foot,Xavier Hernández Creus,From Counter
+69240,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,1,15,928,91.58,55.25,Saved,False,True,Open Play,Left Foot,,From Counter
+69240,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,1,18,1085,89.5,59.0,Saved,False,True,Open Play,Right Foot,Zlatan Ibrahimović,Regular Play
+69240,Getafe,Barcelona,Miguel Torres Gómez,1,27,1645,93.67,53.62,Off T,False,False,Open Play,Head,Nicolás Ladislao Fedor Flores,From Free Kick
+69240,Getafe,Barcelona,Roberto Soldado Rillo,1,29,1790,88.67,50.75,Wayward,False,False,Open Play,Right Foot,Pedro Ríos Maestre,Regular Play
+69240,Getafe,Barcelona,Nicolás Ladislao Fedor Flores,1,34,2060,81.5,27.88,Saved,False,True,Open Play,Right Foot,,From Free Kick
+69240,Getafe,Barcelona,Nicolás Ladislao Fedor Flores,1,38,2292,85.58,34.38,Saved,False,True,Open Play,Right Foot,,From Free Kick
+69240,Barcelona,Getafe,Xavier Hernández Creus,1,39,2385,95.25,58.75,Saved,False,True,Open Play,Head,Zlatan Ibrahimović,Regular Play
+69240,Barcelona,Getafe,Zlatan Ibrahimović,1,42,2566,90.67,67.0,Blocked,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69240,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,1,43,2608,83.0,69.62,Blocked,False,False,Open Play,Left Foot,Andrés Iniesta Luján,From Corner
+69240,Getafe,Barcelona,Roberto Soldado Rillo,2,47,2823,91.0,59.5,Saved,False,True,Open Play,Right Foot,Pedro Ríos Maestre,From Throw In
+69240,Getafe,Barcelona,José Manuel Jiménez Ortiz,2,49,2992,77.58,31.5,Off T,False,False,Open Play,Left Foot,Nicolás Ladislao Fedor Flores,Regular Play
+69240,Barcelona,Getafe,Seydou Kéita,2,51,3109,86.17,25.38,Off T,False,False,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69240,Barcelona,Getafe,Andrés Iniesta Luján,2,56,3367,82.33,43.25,Off T,False,False,Open Play,Right Foot,,From Free Kick
+69240,Getafe,Barcelona,Nicolás Ladislao Fedor Flores,2,56,3412,94.25,47.87,Off T,False,False,Open Play,Head,Pedro Ríos Maestre,From Goal Kick
+69240,Barcelona,Getafe,Seydou Kéita,2,58,3515,92.75,40.12,Off T,False,False,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69240,Barcelona,Getafe,Xavier Hernández Creus,2,66,3989,92.92,59.75,Goal,True,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69240,Getafe,Barcelona,Juan Ángel Albín Leites,2,68,4109,82.58,64.25,Off T,False,False,Open Play,Left Foot,,From Throw In
+69240,Getafe,Barcelona,Juan Ángel Albín Leites,2,71,4299,88.25,43.12,Blocked,False,False,Open Play,Left Foot,Manuel del Moral Fernández,From Free Kick
+69240,Getafe,Barcelona,Francisco Javier Casquero Paredes,2,77,4641,84.0,41.5,Off T,False,False,Open Play,Left Foot,Kepa Blanco Gonzalez,From Free Kick
+69240,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,2,80,4856,81.92,71.5,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,From Free Kick
+69240,Barcelona,Getafe,Seydou Kéita,2,85,5133,89.92,37.0,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69240,Getafe,Barcelona,Roberto Soldado Rillo,2,88,5306,78.17,75.75,Saved,False,True,Open Play,Right Foot,Manuel del Moral Fernández,Regular Play
+69240,Getafe,Barcelona,Roberto Soldado Rillo,2,89,5368,95.58,58.75,Off T,False,False,Open Play,Right Foot,Manuel del Moral Fernández,Regular Play
+69240,Getafe,Barcelona,Roberto Soldado Rillo,2,93,5581,90.0,50.0,Goal,True,True,Penalty,Right Foot,,Other
+69240,Barcelona,Getafe,Lionel Andrés Messi Cuccittini,2,94,5651,83.42,65.25,Off T,False,False,Open Play,Left Foot,,From Kick Off
+69237,Atlético Madrid,Barcelona,Sergio Leonel Agüero del Castillo,1,7,470,84.75,60.88,Saved,False,True,Open Play,Right Foot,Paulo Assunção da Silva,From Throw In
+69237,Atlético Madrid,Barcelona,Diego Forlán Corazo,1,8,514,85.08,61.0,Goal,True,True,Open Play,Right Foot,José Antonio Reyes Calderón,From Counter
+69237,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,1,10,632,81.0,49.25,Blocked,False,False,Open Play,Left Foot,Andrés Iniesta Luján,From Kick Off
+69237,Barcelona,Atlético Madrid,Zlatan Ibrahimović,1,10,645,88.42,55.12,Blocked,False,False,Open Play,Right Foot,Jeffren Isaac Suárez Bermúdez,From Kick Off
+69237,Atlético Madrid,Barcelona,José Antonio Reyes Calderón,1,13,781,81.25,59.62,Wayward,False,False,Open Play,Left Foot,,From Corner
+69237,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,1,15,915,80.5,65.38,Saved,False,True,Open Play,Left Foot,,From Throw In
+69237,Atlético Madrid,Barcelona,Simão Pedro Fonseca Sabrosa,1,22,1322,82.08,32.62,Goal,True,True,Free Kick,Right Foot,,From Free Kick
+69237,Barcelona,Atlético Madrid,Zlatan Ibrahimović,1,26,1575,96.25,56.88,Goal,True,True,Open Play,Right Foot,,From Corner
+69237,Atlético Madrid,Barcelona,Sergio Leonel Agüero del Castillo,1,29,1743,87.33,53.75,Saved,False,True,Open Play,Right Foot,Tomáš Ujfaluši,From Free Kick
+69237,Barcelona,Atlético Madrid,Zlatan Ibrahimović,1,30,1848,88.5,59.38,Blocked,False,False,Open Play,Right Foot,Xavier Hernández Creus,Regular Play
+69237,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,1,31,1869,84.08,56.88,Blocked,False,False,Open Play,Left Foot,,Regular Play
+69237,Barcelona,Atlético Madrid,Zlatan Ibrahimović,1,31,1891,95.08,56.0,Saved,False,True,Open Play,Head,Xavier Hernández Creus,From Corner
+69237,Barcelona,Atlético Madrid,Zlatan Ibrahimović,1,32,1966,87.67,33.38,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69237,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,1,33,2010,79.83,56.0,Saved,False,True,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69237,Atlético Madrid,Barcelona,Sergio Leonel Agüero del Castillo,1,34,2063,89.75,33.5,Off T,False,False,Open Play,Right Foot,Simão Pedro Fonseca Sabrosa,Regular Play
+69237,Atlético Madrid,Barcelona,Sergio Leonel Agüero del Castillo,1,43,2582,90.58,70.0,Saved,False,True,Open Play,Right Foot,Tomáš Ujfaluši,From Counter
+69237,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,1,45,2733,84.83,35.75,Saved,False,True,Open Play,Right Foot,Xavier Hernández Creus,From Corner
+69237,Barcelona,Atlético Madrid,Zlatan Ibrahimović,2,54,3245,86.08,62.88,Blocked,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Throw In
+69237,Atlético Madrid,Barcelona,Sergio Leonel Agüero del Castillo,2,56,3381,95.83,36.38,Saved,False,True,Open Play,Left Foot,Diego Forlán Corazo,Regular Play
+69237,Atlético Madrid,Barcelona,Tiago Cardoso Mendes,2,57,3420,92.75,58.0,Off T,False,False,Open Play,Head,Simão Pedro Fonseca Sabrosa,From Corner
+69237,Atlético Madrid,Barcelona,Álvaro Domínguez Soto,2,72,4344,91.0,55.88,Blocked,False,False,Open Play,Head,Simão Pedro Fonseca Sabrosa,From Free Kick
+69237,Atlético Madrid,Barcelona,Tomáš Ujfaluši,2,73,4438,94.33,33.5,Saved,False,True,Open Play,Left Foot,,From Free Kick
+69237,Atlético Madrid,Barcelona,Simão Pedro Fonseca Sabrosa,2,75,4544,78.67,44.25,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69237,Barcelona,Atlético Madrid,Zlatan Ibrahimović,2,77,4675,86.92,46.5,Saved,False,True,Open Play,Head,Andrés Iniesta Luján,From Free Kick
+69237,Barcelona,Atlético Madrid,Lionel Andrés Messi Cuccittini,2,89,5344,78.83,50.37,Off T,False,False,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69237,Atlético Madrid,Barcelona,José Manuel Jurado Marín,2,93,5584,82.92,34.75,Blocked,False,False,Open Play,Right Foot,,Regular Play
+69233,Barcelona,Racing Santander,Andrés Iniesta Luján,1,6,402,90.5,40.37,Goal,True,True,Open Play,Left Foot,Rafael Márquez Álvarez,Regular Play
+69233,Barcelona,Racing Santander,Bojan Krkíc Pérez,1,9,560,86.08,39.62,Off T,False,False,Open Play,Right Foot,Thierry Henry,From Free Kick
+69233,Barcelona,Racing Santander,Lionel Andrés Messi Cuccittini,1,10,653,84.5,71.12,Saved,False,True,Open Play,Left Foot,Sergio Busquets i Burgos,From Free Kick
+69233,Barcelona,Racing Santander,Rafael Márquez Álvarez,1,11,683,90.67,54.12,Off T,False,False,Open Play,Head,Lionel Andrés Messi Cuccittini,From Corner
+69233,Barcelona,Racing Santander,Maxwell Scherrer Cabelino Andrade,1,16,1007,75.5,33.62,Saved,False,True,Open Play,Left Foot,Sergio Busquets i Burgos,From Throw In
+69233,Barcelona,Racing Santander,Bojan Krkíc Pérez,1,21,1316,87.75,25.88,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69233,Barcelona,Racing Santander,Thierry Henry,1,28,1714,78.83,42.87,Goal,True,True,Free Kick,Right Foot,,From Free Kick
+69233,Barcelona,Racing Santander,Rafael Márquez Álvarez,1,33,2020,73.67,39.75,Goal,True,True,Free Kick,Right Foot,,From Free Kick
+69233,Racing Santander,Barcelona,Antonio Moral Segura,1,35,2137,89.42,52.38,Blocked,False,False,Open Play,Right Foot,,Regular Play
+69233,Racing Santander,Barcelona,Papa Kouly Diop,1,38,2328,97.83,18.62,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69233,Barcelona,Racing Santander,Lionel Andrés Messi Cuccittini,1,42,2528,82.5,44.0,Off T,False,False,Open Play,Left Foot,Bojan Krkíc Pérez,From Free Kick
+69233,Racing Santander,Barcelona,Marc Torrejón Moya,1,43,2608,92.0,44.75,Off T,False,False,Open Play,Head,José Ángel Crespo Rincón,From Free Kick
+69233,Barcelona,Racing Santander,Bojan Krkíc Pérez,1,44,2655,91.83,40.12,Off T,False,False,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,From Goal Kick
+69233,Racing Santander,Barcelona,Mehdi Lacen,2,46,2783,77.58,59.75,Blocked,False,False,Open Play,Left Foot,Sergio Canales Madrazo,From Goal Kick
+69233,Racing Santander,Barcelona,Papa Kouly Diop,2,46,2793,91.58,64.62,Off T,False,False,Open Play,Head,Antonio Moral Segura,From Goal Kick
+69233,Barcelona,Racing Santander,Gnégnéri Yaya Touré,2,50,3009,75.42,53.88,Blocked,False,False,Open Play,Right Foot,Gerard Piqué Bernabéu,From Corner
+69233,Barcelona,Racing Santander,Thierry Henry,2,52,3179,88.25,24.87,Off T,False,False,Open Play,Right Foot,Sergio Busquets i Burgos,From Free Kick
+69233,Barcelona,Racing Santander,Andrés Iniesta Luján,2,60,3606,79.5,43.38,Saved,False,True,Open Play,Right Foot,,Regular Play
+69233,Barcelona,Racing Santander,Lionel Andrés Messi Cuccittini,2,82,4943,85.67,63.0,Saved,False,True,Open Play,Left Foot,Thiago Alcântara do Nascimento,From Free Kick
+69233,Barcelona,Racing Santander,Thiago Alcântara do Nascimento,2,83,5002,92.42,56.75,Goal,True,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69233,Barcelona,Racing Santander,Thiago Alcântara do Nascimento,2,91,5471,74.5,54.12,Blocked,False,False,Open Play,Right Foot,Bojan Krkíc Pérez,From Free Kick
+69238,Málaga,Barcelona,Sérgio Paulo Barbosa Valente,1,7,436,85.0,20.88,Saved,False,True,Free Kick,Left Foot,,From Free Kick
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,1,9,541,98.0,41.75,Off T,False,False,Open Play,Head,Daniel Alves da Silva,Regular Play
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,1,13,818,89.5,36.38,Blocked,False,False,Open Play,Left Foot,,From Counter
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,1,17,1020,85.08,57.38,Blocked,False,False,Open Play,Left Foot,Zlatan Ibrahimović,Regular Play
+69238,Barcelona,Málaga,Zlatan Ibrahimović,1,18,1133,81.25,43.25,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69238,Barcelona,Málaga,Zlatan Ibrahimović,1,24,1461,70.0,44.0,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,1,25,1504,95.17,46.0,Wayward,False,False,Open Play,Head,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69238,Barcelona,Málaga,Andrés Iniesta Luján,1,28,1687,75.0,41.0,Saved,False,True,Open Play,Right Foot,Zlatan Ibrahimović,From Throw In
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,1,29,1790,92.42,63.88,Off T,False,False,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69238,Barcelona,Málaga,Xavier Hernández Creus,1,36,2177,90.33,46.62,Saved,False,True,Open Play,Right Foot,Andrés Iniesta Luján,From Free Kick
+69238,Barcelona,Málaga,Zlatan Ibrahimović,1,40,2414,92.83,33.38,Blocked,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69238,Barcelona,Málaga,Carles Puyol i Saforcada,1,42,2556,94.42,56.5,Blocked,False,False,Open Play,Head,Lionel Andrés Messi Cuccittini,From Free Kick
+69238,Barcelona,Málaga,Sergio Busquets i Burgos,1,42,2577,94.5,51.75,Off T,False,False,Open Play,Head,Andrés Iniesta Luján,From Corner
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,1,45,2717,87.25,67.62,Saved,False,True,Open Play,Left Foot,Daniel Alves da Silva,From Throw In
+69238,Barcelona,Málaga,Andrés Iniesta Luján,1,46,2775,95.67,44.5,Blocked,False,False,Open Play,Right Foot,,Regular Play
+69238,Barcelona,Málaga,Zlatan Ibrahimović,2,51,3108,96.33,39.38,Saved,False,True,Open Play,Head,Lionel Andrés Messi Cuccittini,From Throw In
+69238,Barcelona,Málaga,Andrés Iniesta Luján,2,55,3319,82.58,27.75,Off T,False,False,Open Play,Right Foot,Xavier Hernández Creus,Regular Play
+69238,Barcelona,Málaga,Zlatan Ibrahimović,2,59,3551,93.92,45.75,Blocked,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69238,Barcelona,Málaga,Pedro Eliezer Rodríguez Ledesma,2,68,4082,81.08,29.0,Goal,True,True,Open Play,Right Foot,Zlatan Ibrahimović,From Throw In
+69238,Málaga,Barcelona,Fernando Miguel Fernández Escribano,2,69,4158,67.83,54.38,Blocked,False,False,Open Play,Right Foot,Nabil Baha,Regular Play
+69238,Málaga,Barcelona,Manuel Gaspar Haro,2,73,4381,78.83,44.63,Off T,False,False,Open Play,Right Foot,,From Free Kick
+69238,Barcelona,Málaga,Andrés Iniesta Luján,2,75,4524,93.25,62.12,Post,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Free Kick
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,2,77,4660,95.42,48.62,Blocked,False,False,Open Play,Head,Xavier Hernández Creus,Regular Play
+69238,Málaga,Barcelona,Valmiro Lópes Rocha,2,80,4825,85.5,39.38,Goal,True,True,Open Play,Right Foot,Victor Obinna Nsofor,From Counter
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,2,81,4917,81.75,57.75,Saved,False,True,Open Play,Left Foot,Andrés Iniesta Luján,From Kick Off
+69238,Barcelona,Málaga,Lionel Andrés Messi Cuccittini,2,83,4996,94.5,48.75,Goal,True,True,Open Play,Right Foot,Daniel Alves da Silva,Regular Play
+69238,Málaga,Barcelona,Victor Obinna Nsofor,2,84,5096,86.42,75.0,Off T,False,False,Open Play,Left Foot,Daniel Toribio Gutiérrez,From Kick Off
+69226,Barcelona,Almería,Andrés Iniesta Luján,1,1,93,84.42,33.88,Off T,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Free Kick
+69226,Barcelona,Almería,Xavier Hernández Creus,1,6,386,82.17,50.5,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69226,Almería,Barcelona,Domingo Cisma González,1,11,665,95.83,45.75,Goal,True,True,Open Play,Head,Hernán Darío Bernardello,From Corner
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,1,17,1060,90.25,72.75,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Free Kick
+69226,Barcelona,Almería,Xavier Hernández Creus,1,20,1212,80.25,40.12,Saved,False,True,Free Kick,Right Foot,,From Free Kick
+69226,Almería,Barcelona,Guilherme Oliveira Santos,1,22,1338,89.33,25.88,Saved,False,True,Open Play,Left Foot,Albert Crusat Domene,From Free Kick
+69226,Barcelona,Almería,Zlatan Ibrahimović,1,22,1367,95.25,56.5,Off T,False,False,Open Play,Head,Andrés Iniesta Luján,Regular Play
+69226,Barcelona,Almería,Pedro Eliezer Rodríguez Ledesma,1,23,1432,93.92,62.88,Saved,False,True,Open Play,Right Foot,Xavier Hernández Creus,Regular Play
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,1,26,1569,95.5,47.87,Wayward,False,False,Open Play,Head,Daniel Alves da Silva,From Keeper
+69226,Barcelona,Almería,Zlatan Ibrahimović,1,29,1781,94.25,35.5,Off T,False,False,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,1,32,1979,83.83,76.25,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Corner
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,1,38,2315,92.83,49.25,Off T,False,False,Open Play,Head,Daniel Alves da Silva,Regular Play
+69226,Barcelona,Almería,Gnégnéri Yaya Touré,1,39,2395,72.08,60.12,Blocked,False,False,Open Play,Right Foot,,Regular Play
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,1,41,2508,83.67,58.75,Goal,True,True,Free Kick,Left Foot,,From Free Kick
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,2,63,3799,82.08,59.62,Off T,False,False,Free Kick,Left Foot,,From Free Kick
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,2,65,3933,95.42,46.5,Goal,True,True,Open Play,Left Foot,,Regular Play
+69226,Barcelona,Almería,Andrés Iniesta Luján,2,67,4034,87.5,77.25,Off T,False,False,Open Play,Right Foot,Gnégnéri Yaya Touré,From Throw In
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,2,68,4087,93.0,48.38,Off T,False,False,Open Play,Head,Daniel Alves da Silva,Regular Play
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,2,68,4115,87.0,51.0,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69226,Barcelona,Almería,Xavier Hernández Creus,2,68,4131,84.5,64.0,Off T,False,False,Open Play,Right Foot,Daniel Alves da Silva,From Throw In
+69226,Almería,Barcelona,Henok Goitom,2,70,4244,86.33,29.75,Blocked,False,False,Open Play,Right Foot,Fernando Soriano Marco,Regular Play
+69226,Almería,Barcelona,Fernando Soriano Marco,2,78,4700,87.58,53.38,Off T,False,False,Open Play,Right Foot,Henok Goitom,Regular Play
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,2,79,4762,80.67,66.12,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69226,Barcelona,Almería,Xavier Hernández Creus,2,80,4845,86.25,64.25,Blocked,False,False,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69226,Barcelona,Almería,Lionel Andrés Messi Cuccittini,2,83,4986,83.75,50.62,Saved,False,True,Open Play,Left Foot,,Regular Play
+69226,Barcelona,Almería,Maxwell Scherrer Cabelino Andrade,2,85,5107,86.17,36.75,Blocked,False,False,Open Play,Left Foot,,From Throw In
+69226,Almería,Barcelona,Pablo Daniel Piatti,2,85,5142,90.83,23.88,Blocked,False,False,Open Play,Left Foot,Henok Goitom,Regular Play
+69226,Almería,Barcelona,Hernán Darío Bernardello,2,86,5218,78.92,62.0,Off T,False,False,Open Play,Right Foot,,From Throw In
+69226,Almería,Barcelona,Kalu Uche,2,88,5290,93.25,72.62,Off T,False,False,Open Play,Right Foot,Pablo Daniel Piatti,Regular Play
+69224,Barcelona,Valencia,Sergio Busquets i Burgos,1,1,88,77.42,55.5,Blocked,False,False,Open Play,Left Foot,,From Throw In
+69224,Valencia,Barcelona,Jordi Alba Ramos,1,4,264,91.83,46.0,Off T,False,False,Open Play,Head,Luís Miguel Brito Garcia Monteiro,From Throw In
+69224,Valencia,Barcelona,Pablo Hernández Domínguez,1,18,1106,89.33,72.38,Saved,False,True,Open Play,Left Foot,Éver Maximiliano David Banega,From Throw In
+69224,Valencia,Barcelona,Pablo Hernández Domínguez,1,19,1180,87.5,69.88,Saved,False,True,Open Play,Left Foot,Éver Maximiliano David Banega,From Throw In
+69224,Barcelona,Valencia,Gabriel Alejandro Milito,1,21,1283,90.25,57.75,Blocked,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69224,Valencia,Barcelona,Éver Maximiliano David Banega,1,24,1457,72.83,58.88,Off T,False,False,Open Play,Left Foot,David Josué Jiménez Silva,From Throw In
+69224,Valencia,Barcelona,David Josué Jiménez Silva,1,28,1699,85.58,41.62,Blocked,False,False,Open Play,Left Foot,Jordi Alba Ramos,From Free Kick
+69224,Valencia,Barcelona,Jordi Alba Ramos,1,31,1868,86.0,30.62,Saved,False,True,Open Play,Left Foot,,From Throw In
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,1,31,1903,88.33,65.0,Saved,False,True,Open Play,Left Foot,,Regular Play
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,1,36,2164,99.17,62.12,Saved,False,True,Open Play,Right Foot,Xavier Hernández Creus,From Throw In
+69224,Barcelona,Valencia,Pedro Eliezer Rodríguez Ledesma,1,39,2370,86.5,67.5,Off T,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69224,Barcelona,Valencia,Sergio Busquets i Burgos,1,40,2459,93.17,42.13,Off T,False,False,Open Play,Head,Andrés Iniesta Luján,From Corner
+69224,Barcelona,Valencia,Sergio Busquets i Burgos,2,47,2848,94.42,53.75,Wayward,False,False,Open Play,Head,Daniel Alves da Silva,From Free Kick
+69224,Barcelona,Valencia,Xavier Hernández Creus,2,50,3003,88.33,51.62,Off T,False,False,Open Play,Head,Daniel Alves da Silva,From Free Kick
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,2,52,3132,89.75,51.5,Saved,False,True,Open Play,Left Foot,Thierry Henry,From Counter
+69224,Barcelona,Valencia,Xavier Hernández Creus,2,52,3153,94.08,68.12,Blocked,False,False,Open Play,Right Foot,Daniel Alves da Silva,From Corner
+69224,Barcelona,Valencia,Gabriel Alejandro Milito,2,52,3171,89.75,44.38,Blocked,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69224,Barcelona,Valencia,Thierry Henry,2,52,3171,92.75,44.12,Saved,False,True,Open Play,Head,,From Corner
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,2,54,3295,82.83,40.88,Blocked,False,False,Free Kick,Left Foot,,From Free Kick
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,2,55,3327,92.75,61.75,Goal,True,True,Open Play,Left Foot,Xavier Hernández Creus,From Free Kick
+69224,Barcelona,Valencia,Xavier Hernández Creus,2,59,3558,92.5,38.75,Saved,False,True,Open Play,Right Foot,Thierry Henry,Regular Play
+69224,Barcelona,Valencia,Xavier Hernández Creus,2,66,3981,80.42,54.38,Saved,False,True,Open Play,Right Foot,Thierry Henry,From Free Kick
+69224,Valencia,Barcelona,Nikola Žigić,2,68,4088,81.83,45.0,Saved,False,True,Open Play,Right Foot,Pablo Hernández Domínguez,Regular Play
+69224,Barcelona,Valencia,Daniel Alves da Silva,2,70,4205,70.5,48.62,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69224,Barcelona,Valencia,Thierry Henry,2,78,4685,78.67,58.38,Off T,False,False,Open Play,Right Foot,,Regular Play
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,2,79,4778,80.42,52.88,Off T,False,False,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,2,81,4860,86.33,64.75,Goal,True,True,Open Play,Left Foot,Thierry Henry,Regular Play
+69224,Barcelona,Valencia,Lionel Andrés Messi Cuccittini,2,83,4985,94.58,62.75,Goal,True,True,Open Play,Right Foot,Thierry Henry,From Counter
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,1,4,256,92.67,51.12,Goal,True,True,Open Play,Head,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69227,Barcelona,Real Zaragoza,Gerard Piqué Bernabéu,1,6,413,93.08,41.38,Saved,False,True,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,From Corner
+69227,Real Zaragoza,Barcelona,José Edmílson Gomes de Moraes,1,11,665,53.75,36.25,Off T,False,False,Open Play,Right Foot,Gabriel Fernández Arenas,From Throw In
+69227,Real Zaragoza,Barcelona,Ángel Javier Arizmendi de Lucas,1,11,696,73.58,27.25,Off T,False,False,Open Play,Right Foot,Leonardo Daniel Ponzio,From Counter
+69227,Barcelona,Real Zaragoza,Gnégnéri Yaya Touré,1,15,940,70.92,53.25,Off T,False,False,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,From Throw In
+69227,Real Zaragoza,Barcelona,Eliseu Pereira dos Santos,1,16,990,87.58,45.25,Blocked,False,False,Open Play,Left Foot,Humberto Andrés Suazo Pontivo,From Free Kick
+69227,Real Zaragoza,Barcelona,Jirí Jarošík,1,16,1014,95.0,41.75,Wayward,False,False,Open Play,Head,Eliseu Pereira dos Santos,From Corner
+69227,Barcelona,Real Zaragoza,Gnégnéri Yaya Touré,1,22,1379,94.25,58.0,Off T,False,False,Open Play,Right Foot,Maxwell Scherrer Cabelino Andrade,From Free Kick
+69227,Barcelona,Real Zaragoza,Daniel Alves da Silva,1,24,1474,73.0,62.38,Off T,False,False,Open Play,Right Foot,,From Free Kick
+69227,Barcelona,Real Zaragoza,Zlatan Ibrahimović,1,29,1780,94.92,52.75,Off T,False,False,Open Play,Head,Lionel Andrés Messi Cuccittini,From Corner
+69227,Real Zaragoza,Barcelona,Ángel Javier Arizmendi de Lucas,1,35,2108,86.75,49.25,Blocked,False,False,Open Play,Head,Carlos Andrés Diogo Enseñat,From Throw In
+69227,Real Zaragoza,Barcelona,Eliseu Pereira dos Santos,1,35,2134,87.42,41.25,Off T,False,False,Open Play,Right Foot,Ander Herrera Agüera,From Throw In
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,1,44,2672,76.67,52.62,Blocked,False,False,Free Kick,Left Foot,,From Free Kick
+69227,Barcelona,Real Zaragoza,Gnégnéri Yaya Touré,2,52,3167,94.33,36.12,Off T,False,False,Open Play,Left Foot,Zlatan Ibrahimović,From Keeper
+69227,Real Zaragoza,Barcelona,Ángel Lafita Castillo,2,58,3522,82.08,39.5,Off T,False,False,Open Play,Right Foot,Eliseu Pereira dos Santos,From Throw In
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,2,61,3663,96.5,38.88,Off T,False,False,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,2,62,3724,78.25,37.88,Off T,False,False,Open Play,Left Foot,Gnégnéri Yaya Touré,From Free Kick
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,2,65,3913,89.58,35.5,Goal,True,True,Open Play,Left Foot,,Regular Play
+69227,Real Zaragoza,Barcelona,Adrián Colunga Pérez,2,68,4086,79.17,48.75,Off T,False,False,Open Play,Right Foot,Leonardo Daniel Ponzio,From Corner
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,2,70,4229,90.17,79.25,Saved,False,True,Free Kick,Left Foot,,From Free Kick
+69227,Barcelona,Real Zaragoza,Zlatan Ibrahimović,2,76,4618,93.33,55.88,Off T,False,False,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69227,Barcelona,Real Zaragoza,Lionel Andrés Messi Cuccittini,2,77,4658,84.33,62.88,Goal,True,True,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69227,Real Zaragoza,Barcelona,Ander Herrera Agüera,2,81,4862,78.33,59.0,Off T,False,False,Open Play,Left Foot,,From Free Kick
+69227,Barcelona,Real Zaragoza,Zlatan Ibrahimović,2,83,5038,87.17,43.75,Off T,False,False,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,From Counter
+69227,Real Zaragoza,Barcelona,Adrián Colunga Pérez,2,84,5067,95.08,36.38,Goal,True,True,Open Play,Left Foot,Matteo Contini,From Goal Kick
+69227,Barcelona,Real Zaragoza,Zlatan Ibrahimović,2,85,5135,92.92,40.75,Off T,False,False,Open Play,Right Foot,Andrés Iniesta Luján,From Kick Off
+69227,Real Zaragoza,Barcelona,Adrián Colunga Pérez,2,88,5325,86.0,48.0,Goal,True,True,Open Play,Right Foot,Matteo Contini,From Free Kick
+69227,Barcelona,Real Zaragoza,Zlatan Ibrahimović,2,90,5436,89.92,50.25,Goal,True,True,Penalty,Right Foot,,Other
+69257,Barcelona,Osasuna,Zlatan Ibrahimović,1,1,74,90.08,35.0,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69257,Barcelona,Osasuna,Zlatan Ibrahimović,1,1,81,93.67,45.0,Off T,False,False,Open Play,Head,Daniel Alves da Silva,From Throw In
+69257,Osasuna,Barcelona,Krisztián Vadócz,1,3,227,90.5,59.75,Saved,False,True,Open Play,Right Foot,Masoud Shojaei Soleimani,Regular Play
+69257,Osasuna,Barcelona,Javad Nekounam,1,4,265,97.75,58.25,Off T,False,False,Open Play,Head,Francisco Puñal Martínez,From Corner
+69257,Barcelona,Osasuna,Lionel Andrés Messi Cuccittini,1,14,845,80.08,63.5,Blocked,False,False,Free Kick,Left Foot,,From Free Kick
+69257,Barcelona,Osasuna,Thierry Henry,1,14,876,87.0,66.38,Saved,False,True,Open Play,Right Foot,,From Corner
+69257,Barcelona,Osasuna,Zlatan Ibrahimović,1,29,1767,93.0,66.0,Blocked,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69257,Barcelona,Osasuna,Zlatan Ibrahimović,1,34,2077,84.0,67.75,Blocked,False,False,Open Play,Right Foot,,From Free Kick
+69257,Barcelona,Osasuna,Andrés Iniesta Luján,2,47,2868,88.83,36.12,Blocked,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69257,Barcelona,Osasuna,Lionel Andrés Messi Cuccittini,2,48,2896,80.5,53.5,Blocked,False,False,Open Play,Left Foot,Sergio Busquets i Burgos,From Corner
+69257,Barcelona,Osasuna,Sergio Busquets i Burgos,2,59,3566,77.17,58.25,Blocked,False,False,Open Play,Right Foot,Gnégnéri Yaya Touré,From Throw In
+69257,Barcelona,Osasuna,Gnégnéri Yaya Touré,2,62,3738,90.25,51.0,Off T,False,False,Open Play,Head,Andrés Iniesta Luján,From Throw In
+69257,Barcelona,Osasuna,Andrés Iniesta Luján,2,64,3852,73.83,58.88,Blocked,False,False,Open Play,Right Foot,,From Throw In
+69257,Barcelona,Osasuna,Seydou Kéita,2,70,4224,91.33,57.62,Saved,False,True,Open Play,Head,Daniel Alves da Silva,From Free Kick
+69257,Barcelona,Osasuna,Zlatan Ibrahimović,2,72,4324,96.5,53.0,Goal,True,True,Open Play,Right Foot,Maxwell Scherrer Cabelino Andrade,From Throw In
+69257,Osasuna,Barcelona,Masoud Shojaei Soleimani,2,75,4528,88.42,53.75,Wayward,False,False,Open Play,Head,Juan Francisco Torres Belén,From Throw In
+69257,Barcelona,Osasuna,Lionel Andrés Messi Cuccittini,2,82,4930,86.33,40.25,Post,False,True,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69257,Barcelona,Osasuna,Bojan Krkíc Pérez,2,87,5279,94.83,46.25,Goal,True,True,Open Play,Left Foot,Andrés Iniesta Luján,Regular Play
+69298,Mallorca,Barcelona,Aritz Aduriz Zubeldia,1,1,104,80.83,49.75,Post,False,True,Open Play,Right Foot,Borja Valero Iglesias,From Throw In
+69298,Mallorca,Barcelona,Gonzalo Castro Irizábal,1,1,107,86.67,31.88,Saved,False,True,Open Play,Left Foot,,From Throw In
+69298,Mallorca,Barcelona,Aritz Aduriz Zubeldia,1,2,120,86.83,47.38,Saved,False,True,Open Play,Head,Ayoze Díaz Díaz,From Throw In
+69298,Barcelona,Mallorca,Gabriel Alejandro Milito,1,15,911,90.75,59.0,Saved,False,True,Open Play,Head,Pedro Eliezer Rodríguez Ledesma,From Corner
+69298,Barcelona,Mallorca,Zlatan Ibrahimović,1,23,1424,94.33,64.88,Saved,False,True,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,From Free Kick
+69298,Barcelona,Mallorca,Jeffren Isaac Suárez Bermúdez,1,26,1607,85.58,27.75,Off T,False,False,Open Play,Left Foot,Seydou Kéita,From Goal Kick
+69298,Mallorca,Barcelona,Felipe Mattioni Rohde,1,39,2357,67.5,59.5,Blocked,False,False,Open Play,Right Foot,,From Corner
+69298,Mallorca,Barcelona,Gonzalo Castro Irizábal,1,40,2403,79.08,25.25,Blocked,False,False,Open Play,Left Foot,Borja Valero Iglesias,Regular Play
+69298,Mallorca,Barcelona,Borja Valero Iglesias,1,41,2491,76.58,53.5,Post,False,True,Free Kick,Right Foot,,From Free Kick
+69298,Mallorca,Barcelona,Felipe Mattioni Rohde,1,41,2494,93.25,67.12,Blocked,False,False,Open Play,Right Foot,,From Free Kick
+69298,Barcelona,Mallorca,Seydou Kéita,2,51,3075,72.92,48.12,Saved,False,True,Open Play,Left Foot,Jeffren Isaac Suárez Bermúdez,From Throw In
+69298,Mallorca,Barcelona,Mario Suárez Mata,2,56,3395,78.42,53.38,Off T,False,False,Open Play,Right Foot,,From Free Kick
+69298,Barcelona,Mallorca,Zlatan Ibrahimović,2,62,3755,98.25,46.38,Goal,True,True,Open Play,Right Foot,,From Corner
+69298,Barcelona,Mallorca,Lionel Andrés Messi Cuccittini,2,65,3955,88.0,34.12,Saved,False,True,Open Play,Left Foot,Zlatan Ibrahimović,From Free Kick
+69298,Mallorca,Barcelona,Borja Valero Iglesias,2,77,4621,88.67,38.38,Off T,False,False,Open Play,Head,Gonzalo Castro Irizábal,Regular Play
+69298,Barcelona,Mallorca,Lionel Andrés Messi Cuccittini,2,81,4885,85.75,54.25,Off T,False,False,Open Play,Left Foot,,Regular Play
+69298,Mallorca,Barcelona,Aritz Aduriz Zubeldia,2,85,5127,94.17,59.75,Off T,False,False,Open Play,Head,Julio Álvarez Mosquera,From Corner
+69298,Mallorca,Barcelona,Aritz Aduriz Zubeldia,2,86,5211,93.33,50.5,Wayward,False,False,Open Play,Head,Julio Álvarez Mosquera,From Corner
+69247,Athletic Club,Barcelona,Markel Susaeta Laskurain,1,3,187,79.92,48.75,Off T,False,False,Open Play,Right Foot,Igor Gabilondo del Campo,Regular Play
+69247,Barcelona,Athletic Club,Jeffren Isaac Suárez Bermúdez,1,4,253,85.42,63.88,Wayward,False,False,Open Play,Right Foot,,From Goal Kick
+69247,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,1,10,621,76.0,49.0,Blocked,False,False,Open Play,Left Foot,Maxwell Scherrer Cabelino Andrade,Regular Play
+69247,Barcelona,Athletic Club,Maxwell Scherrer Cabelino Andrade,1,11,690,80.0,50.12,Off T,False,False,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69247,Athletic Club,Barcelona,Javier Martínez Aginaga,1,15,947,79.58,60.62,Saved,False,True,Open Play,Right Foot,Fernando Llorente Torres,Regular Play
+69247,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,1,19,1181,86.83,36.88,Blocked,False,False,Open Play,Left Foot,Jeffren Isaac Suárez Bermúdez,Regular Play
+69247,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,1,20,1249,96.92,51.38,Off T,False,False,Open Play,Left Foot,Bojan Krkíc Pérez,Regular Play
+69247,Barcelona,Athletic Club,Jeffren Isaac Suárez Bermúdez,1,26,1586,97.83,55.75,Goal,True,True,Open Play,Right Foot,Eric-Sylvain Bilal Abidal,Regular Play
+69247,Barcelona,Athletic Club,Dmytro Chygrynskiy,1,30,1857,95.0,46.38,Off T,False,False,Open Play,Head,Jeffren Isaac Suárez Bermúdez,From Corner
+69247,Athletic Club,Barcelona,Fernando Llorente Torres,1,33,2022,94.83,58.0,Off T,False,False,Open Play,Right Foot,,Regular Play
+69247,Athletic Club,Barcelona,Fernando Llorente Torres,1,35,2159,93.92,48.0,Saved,False,True,Open Play,Head,,From Free Kick
+69247,Barcelona,Athletic Club,Bojan Krkíc Pérez,1,37,2241,94.25,69.0,Saved,False,True,Open Play,Right Foot,Carles Puyol i Saforcada,From Free Kick
+69247,Barcelona,Athletic Club,Bojan Krkíc Pérez,1,39,2390,90.42,45.37,Goal,True,True,Open Play,Right Foot,Carles Puyol i Saforcada,Regular Play
+69247,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,1,43,2612,85.83,60.38,Blocked,False,False,Open Play,Left Foot,Sergio Busquets i Burgos,Regular Play
+69247,Athletic Club,Barcelona,Gaizka Toquero Pinedo,2,46,2774,98.67,37.62,Saved,False,True,Open Play,Head,Francisco Javier Yeste Navarro,From Corner
+69247,Athletic Club,Barcelona,Fernando Llorente Torres,2,46,2795,95.17,48.75,Off T,False,False,Open Play,Head,Francisco Javier Yeste Navarro,From Corner
+69247,Athletic Club,Barcelona,Fernando Llorente Torres,2,50,3025,94.08,44.12,Blocked,False,False,Open Play,Head,Markel Susaeta Laskurain,Regular Play
+69247,Athletic Club,Barcelona,Javier Martínez Aginaga,2,51,3112,85.92,49.5,Blocked,False,False,Open Play,Right Foot,Markel Susaeta Laskurain,Regular Play
+69247,Athletic Club,Barcelona,Carlos Gurpegi Nausia,2,52,3149,97.67,44.75,Off T,False,False,Open Play,Head,Francisco Javier Yeste Navarro,From Corner
+69247,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,2,55,3336,92.0,45.75,Saved,False,True,Open Play,Right Foot,Bojan Krkíc Pérez,Regular Play
+69247,Barcelona,Athletic Club,Bojan Krkíc Pérez,2,58,3496,86.08,42.13,Goal,True,True,Open Play,Right Foot,Eric-Sylvain Bilal Abidal,From Throw In
+69247,Athletic Club,Barcelona,Fernando Llorente Torres,2,65,3919,93.5,45.75,Off T,False,False,Open Play,Head,Markel Susaeta Laskurain,Regular Play
+69247,Barcelona,Athletic Club,Lionel Andrés Messi Cuccittini,2,66,4018,93.58,54.88,Goal,True,True,Open Play,Left Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69247,Athletic Club,Barcelona,Markel Susaeta Laskurain,2,76,4594,90.58,36.62,Goal,True,True,Open Play,Right Foot,Francisco Javier Yeste Navarro,From Counter
+69247,Athletic Club,Barcelona,Ander Iturraspe Derteano,2,78,4716,89.67,47.38,Saved,False,True,Open Play,Left Foot,Markel Susaeta Laskurain,From Free Kick
+69247,Barcelona,Athletic Club,Xavier Hernández Creus,2,80,4825,80.0,43.5,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69247,Barcelona,Athletic Club,Xavier Hernández Creus,2,80,4843,87.58,58.62,Saved,False,True,Open Play,Right Foot,Bojan Krkíc Pérez,From Free Kick
+69247,Barcelona,Athletic Club,Jonathan dos Santos Ramírez,2,81,4872,73.42,59.5,Blocked,False,False,Open Play,Right Foot,Xavier Hernández Creus,From Corner
+69247,Athletic Club,Barcelona,Markel Susaeta Laskurain,2,83,5001,92.58,31.0,Blocked,False,False,Open Play,Right Foot,Gaizka Toquero Pinedo,From Counter
+69247,Athletic Club,Barcelona,Carlos Gurpegi Nausia,2,88,5310,86.58,67.88,Saved,False,True,Open Play,Right Foot,Ander Iturraspe Derteano,From Corner
+69247,Athletic Club,Barcelona,Gaizka Toquero Pinedo,2,90,5416,96.83,61.75,Blocked,False,False,Open Play,Head,Francisco Javier Yeste Navarro,From Corner
+69259,Barcelona,Real Madrid,Daniel Alves da Silva,1,15,945,78.25,37.12,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69259,Real Madrid,Barcelona,Xabier Alonso Olano,1,22,1340,78.92,67.12,Off T,False,False,Open Play,Right Foot,Marcelo Vieira da Silva Júnior,Regular Play
+69259,Barcelona,Real Madrid,Lionel Andrés Messi Cuccittini,1,32,1936,92.17,46.5,Goal,True,True,Open Play,Right Foot,Xavier Hernández Creus,From Free Kick
+69259,Real Madrid,Barcelona,Rafael van der Vaart,1,35,2103,78.58,67.75,Blocked,False,False,Open Play,Left Foot,Xabier Alonso Olano,From Throw In
+69259,Real Madrid,Barcelona,Sergio Ramos García,1,37,2276,93.0,48.75,Blocked,False,False,Open Play,Head,Rafael van der Vaart,From Corner
+69259,Real Madrid,Barcelona,Xabier Alonso Olano,1,37,2277,98.0,46.0,Off T,False,False,Open Play,Head,,From Corner
+69259,Real Madrid,Barcelona,Gonzalo Gerardo Higuaín,1,40,2430,89.83,37.62,Off T,False,False,Open Play,Left Foot,Sergio Ramos García,From Free Kick
+69259,Barcelona,Real Madrid,Pedro Eliezer Rodríguez Ledesma,1,42,2556,80.33,47.87,Blocked,False,False,Open Play,Right Foot,,From Corner
+69259,Barcelona,Real Madrid,Xavier Hernández Creus,1,46,2762,84.83,35.0,Blocked,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Corner
+69259,Real Madrid,Barcelona,Marcelo Vieira da Silva Júnior,2,50,3055,76.25,47.25,Blocked,False,False,Open Play,Left Foot,Xabier Alonso Olano,From Throw In
+69259,Real Madrid,Barcelona,Marcelo Vieira da Silva Júnior,2,51,3065,83.58,33.5,Saved,False,True,Open Play,Left Foot,Cristiano Ronaldo dos Santos Aveiro,From Throw In
+69259,Real Madrid,Barcelona,Cristiano Ronaldo dos Santos Aveiro,2,55,3310,85.5,28.12,Saved,False,True,Open Play,Left Foot,Gonzalo Gerardo Higuaín,Regular Play
+69259,Barcelona,Real Madrid,Pedro Eliezer Rodríguez Ledesma,2,55,3335,84.33,62.25,Goal,True,True,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69259,Real Madrid,Barcelona,Fernando Rubén Gago,2,57,3436,70.92,49.63,Saved,False,True,Open Play,Right Foot,Xabier Alonso Olano,From Throw In
+69259,Real Madrid,Barcelona,Gonzalo Gerardo Higuaín,2,57,3466,80.5,71.88,Off T,False,False,Open Play,Right Foot,José Maria Gutiérrez Hernández,Regular Play
+69259,Real Madrid,Barcelona,Rafael van der Vaart,2,58,3520,84.25,46.5,Saved,False,True,Open Play,Left Foot,José Maria Gutiérrez Hernández,From Counter
+69259,Real Madrid,Barcelona,Rafael van der Vaart,2,59,3545,78.0,59.62,Off T,False,False,Open Play,Left Foot,José Maria Gutiérrez Hernández,From Throw In
+69259,Real Madrid,Barcelona,Cristiano Ronaldo dos Santos Aveiro,2,61,3711,78.42,54.25,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69259,Real Madrid,Barcelona,Cristiano Ronaldo dos Santos Aveiro,2,64,3888,70.33,45.25,Saved,False,True,Free Kick,Right Foot,,From Free Kick
+69259,Real Madrid,Barcelona,Cristiano Ronaldo dos Santos Aveiro,2,68,4094,96.25,33.38,Saved,False,True,Open Play,Left Foot,Rafael van der Vaart,From Counter
+69259,Real Madrid,Barcelona,José Maria Gutiérrez Hernández,2,69,4156,78.42,40.62,Saved,False,True,Open Play,Left Foot,Gonzalo Gerardo Higuaín,Regular Play
+69259,Barcelona,Real Madrid,Lionel Andrés Messi Cuccittini,2,71,4288,86.08,38.25,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,From Free Kick
+69259,Barcelona,Real Madrid,Lionel Andrés Messi Cuccittini,2,77,4631,89.25,47.5,Saved,False,True,Open Play,Left Foot,Carles Puyol i Saforcada,Regular Play
+69259,Real Madrid,Barcelona,Karim Benzema,2,93,5582,87.92,52.62,Off T,False,False,Open Play,Head,Sergio Ramos García,From Throw In
+69221,Barcelona,RC Deportivo La Coruña,Pedro Eliezer Rodríguez Ledesma,1,8,501,95.0,53.5,Post,False,True,Open Play,Right Foot,Gerard Piqué Bernabéu,From Corner
+69221,Barcelona,RC Deportivo La Coruña,Pedro Eliezer Rodríguez Ledesma,1,8,532,85.0,53.88,Blocked,False,False,Open Play,Right Foot,Xavier Hernández Creus,From Corner
+69221,Barcelona,RC Deportivo La Coruña,Xavier Hernández Creus,1,9,563,95.83,17.12,Off T,False,False,Open Play,Right Foot,,From Corner
+69221,RC Deportivo La Coruña,Barcelona,Iván Sánchez Rico Soto,1,10,615,90.33,78.88,Saved,False,True,Open Play,Left Foot,Laureano Sanabria Ruiz,From Throw In
+69221,Barcelona,RC Deportivo La Coruña,Rafael Márquez Álvarez,1,13,815,89.08,47.62,Saved,False,True,Open Play,Head,Xavier Hernández Creus,From Free Kick
+69221,Barcelona,RC Deportivo La Coruña,Bojan Krkíc Pérez,1,15,907,90.83,46.0,Goal,True,True,Open Play,Right Foot,Xavier Hernández Creus,From Throw In
+69221,Barcelona,RC Deportivo La Coruña,Jeffren Isaac Suárez Bermúdez,1,19,1154,89.67,48.0,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69221,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,1,20,1221,82.58,42.75,Saved,False,True,Open Play,Left Foot,Jeffren Isaac Suárez Bermúdez,From Throw In
+69221,Barcelona,RC Deportivo La Coruña,Daniel Alves da Silva,1,23,1388,95.67,65.0,Post,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69221,Barcelona,RC Deportivo La Coruña,Xavier Hernández Creus,1,23,1392,87.42,44.75,Saved,False,True,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,From Throw In
+69221,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,1,31,1898,86.0,76.38,Blocked,False,False,Open Play,Left Foot,Daniel Alves da Silva,From Throw In
+69221,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,1,34,2061,91.33,33.75,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Counter
+69221,Barcelona,RC Deportivo La Coruña,Bojan Krkíc Pérez,1,40,2450,94.0,45.5,Off T,False,False,Open Play,Left Foot,Jeffren Isaac Suárez Bermúdez,Regular Play
+69221,Barcelona,RC Deportivo La Coruña,Xavier Hernández Creus,2,51,3111,83.25,39.62,Blocked,False,False,Open Play,Right Foot,Gnégnéri Yaya Touré,From Corner
+69221,Barcelona,RC Deportivo La Coruña,Rafael Márquez Álvarez,2,51,3113,90.25,38.62,Off T,False,False,Open Play,Right Foot,,From Corner
+69221,RC Deportivo La Coruña,Barcelona,Iván Sánchez Rico Soto,2,52,3170,91.42,21.25,Saved,False,True,Open Play,Left Foot,Juan Domínguez Lamas,From Goal Kick
+69221,RC Deportivo La Coruña,Barcelona,José Andrés Guardado Hernández,2,57,3446,61.42,55.88,Off T,False,False,Open Play,Left Foot,Adrián López Rodríguez,Regular Play
+69221,Barcelona,RC Deportivo La Coruña,Rafael Márquez Álvarez,2,59,3585,95.92,62.38,Blocked,False,False,Open Play,Right Foot,,From Corner
+69221,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,2,59,3588,89.92,60.5,Off T,False,False,Open Play,Left Foot,,From Corner
+69221,RC Deportivo La Coruña,Barcelona,Iván Sánchez Rico Soto,2,60,3651,91.75,39.75,Off T,False,False,Open Play,Left Foot,José Andrés Guardado Hernández,From Free Kick
+69221,Barcelona,RC Deportivo La Coruña,Pedro Eliezer Rodríguez Ledesma,2,64,3841,96.83,38.5,Saved,False,True,Open Play,Left Foot,Seydou Kéita,Regular Play
+69221,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,2,66,4008,91.08,50.75,Saved,False,True,Open Play,Left Foot,,Regular Play
+69221,Barcelona,RC Deportivo La Coruña,Pedro Eliezer Rodríguez Ledesma,2,68,4087,57.5,66.75,Goal,True,True,Open Play,Left Foot,,Regular Play
+69221,Barcelona,RC Deportivo La Coruña,Gnégnéri Yaya Touré,2,71,4296,92.0,65.38,Goal,True,True,Open Play,Right Foot,Xavier Hernández Creus,From Corner
+69221,Barcelona,RC Deportivo La Coruña,Lionel Andrés Messi Cuccittini,2,75,4542,87.67,58.12,Off T,False,False,Open Play,Left Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69221,Barcelona,RC Deportivo La Coruña,Thierry Henry,2,79,4767,90.83,51.88,Saved,False,True,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,From Free Kick
+69221,RC Deportivo La Coruña,Barcelona,Juan Antonio Rodríguez Villamuela,2,86,5199,92.08,28.75,Saved,False,True,Open Play,Left Foot,Antonio Tomás González,From Free Kick
+69213,Espanyol,Barcelona,Pablo Daniel Osvaldo,1,4,288,89.17,63.88,Off T,False,False,Open Play,Left Foot,Luis García Fernández,From Throw In
+69213,Espanyol,Barcelona,José María Callejón Bueno,1,24,1441,87.67,43.25,Saved,False,True,Open Play,Right Foot,,Regular Play
+69213,Espanyol,Barcelona,Joan Verdú Fernández,1,25,1542,88.25,44.12,Off T,False,False,Open Play,Head,José Raúl Baena Urdiales,From Throw In
+69213,Espanyol,Barcelona,Nicolás Martín Pareja,1,29,1763,72.67,56.75,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69213,Barcelona,Espanyol,Maxwell Scherrer Cabelino Andrade,1,40,2402,89.17,28.25,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69213,Espanyol,Barcelona,José Raúl Baena Urdiales,1,44,2660,94.08,39.88,Wayward,False,False,Open Play,Head,José María Callejón Bueno,From Counter
+69213,Espanyol,Barcelona,Pablo Daniel Osvaldo,1,44,2661,94.5,58.0,Saved,False,True,Open Play,Right Foot,,From Counter
+69213,Espanyol,Barcelona,Juan Daniel Forlín,1,45,2718,93.25,49.5,Saved,False,True,Open Play,Head,Luis García Fernández,From Free Kick
+69213,Barcelona,Espanyol,Lionel Andrés Messi Cuccittini,2,59,3557,81.67,61.38,Off T,False,False,Open Play,Left Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69213,Barcelona,Espanyol,Thierry Henry,2,66,3969,84.17,33.38,Blocked,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,Regular Play
+69213,Espanyol,Barcelona,Iván Daniel Alonso Vallejo,2,79,4760,86.67,71.88,Saved,False,True,Open Play,Right Foot,Juan Daniel Forlín,Regular Play
+69213,Espanyol,Barcelona,Iván Daniel Alonso Vallejo,2,80,4808,79.92,37.0,Off T,False,False,Open Play,Left Foot,José María Callejón Bueno,Regular Play
+69213,Espanyol,Barcelona,Pablo Daniel Osvaldo,2,81,4887,93.08,45.25,Off T,False,False,Open Play,Head,Juan Daniel Forlín,From Free Kick
+69213,Barcelona,Espanyol,Gerard Piqué Bernabéu,2,85,5122,88.58,47.13,Blocked,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69214,Xerez,Barcelona,Emiliano Daniel Armenteros,1,5,326,91.67,30.5,Blocked,False,False,Open Play,Left Foot,,From Free Kick
+69214,Barcelona,Xerez,Thierry Henry,1,10,614,89.5,34.38,Saved,False,True,Open Play,Left Foot,Xavier Hernández Creus,From Throw In
+69214,Barcelona,Xerez,Jeffren Isaac Suárez Bermúdez,1,13,795,98.0,63.5,Goal,True,True,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69214,Xerez,Barcelona,Leandro Andrés Gioda,1,18,1096,92.58,51.38,Saved Off Target,False,False,Open Play,Head,Emiliano Daniel Armenteros,From Corner
+69214,Xerez,Barcelona,Mario Bermejo Castanedo,1,19,1195,87.67,51.88,Blocked,False,False,Open Play,Right Foot,Fabián Ariel Orellana Valenzuela,From Free Kick
+69214,Barcelona,Xerez,Xavier Hernández Creus,1,22,1339,77.5,50.5,Blocked,False,False,Open Play,Right Foot,,From Throw In
+69214,Barcelona,Xerez,Thierry Henry,1,23,1382,95.08,48.38,Goal,True,True,Open Play,Right Foot,Zlatan Ibrahimović,From Throw In
+69214,Xerez,Barcelona,Mario Bermejo Castanedo,1,24,1471,87.75,68.5,Goal,True,True,Open Play,Right Foot,Fabián Ariel Orellana Valenzuela,Regular Play
+69214,Barcelona,Xerez,Rafael Márquez Álvarez,1,27,1658,73.58,42.87,Off T,False,False,Free Kick,Right Foot,,From Free Kick
+69214,Xerez,Barcelona,Leandro Andrés Gioda,2,46,2807,93.42,45.37,Off T,False,False,Open Play,Head,Fabián Ariel Orellana Valenzuela,From Corner
+69214,Xerez,Barcelona,Fabián Ariel Orellana Valenzuela,2,47,2833,85.25,59.75,Saved,False,True,Open Play,Right Foot,,Regular Play
+69214,Xerez,Barcelona,Mario Bermejo Castanedo,2,49,2948,93.67,59.12,Saved,False,True,Open Play,Head,Carlos Calvo Sobrado,From Throw In
+69214,Barcelona,Xerez,Zlatan Ibrahimović,2,55,3347,92.75,48.62,Goal,True,True,Open Play,Right Foot,Gnégnéri Yaya Touré,Regular Play
+69214,Barcelona,Xerez,Seydou Kéita,2,59,3589,73.25,36.25,Saved,False,True,Open Play,Left Foot,,From Free Kick
+69214,Barcelona,Xerez,Lionel Andrés Messi Cuccittini,2,61,3710,78.67,46.0,Saved,False,True,Open Play,Left Foot,,Regular Play
+69214,Xerez,Barcelona,Leandro Andrés Gioda,2,62,3771,91.5,51.62,Off T,False,False,Open Play,Head,Mario Bermejo Castanedo,From Free Kick
+69214,Barcelona,Xerez,Seydou Kéita,2,64,3872,75.83,36.38,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69214,Barcelona,Xerez,Gnégnéri Yaya Touré,2,68,4132,80.58,59.0,Off T,False,False,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,From Corner
+69214,Barcelona,Xerez,Thierry Henry,2,70,4226,90.67,30.88,Off T,False,False,Open Play,Left Foot,Maxwell Scherrer Cabelino Andrade,From Free Kick
+69214,Barcelona,Xerez,Zlatan Ibrahimović,2,85,5106,88.42,67.5,Saved,False,True,Open Play,Right Foot,Gnégnéri Yaya Touré,Regular Play
+69214,Barcelona,Xerez,Lionel Andrés Messi Cuccittini,2,88,5304,79.67,52.12,Saved,False,True,Free Kick,Left Foot,,From Free Kick
+69244,Barcelona,Villarreal,Xavier Hernández Creus,1,1,114,85.75,59.12,Blocked,False,False,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69244,Villarreal,Barcelona,Nilmar Honorato da Silva,1,3,227,82.25,32.88,Off T,False,False,Open Play,Left Foot,Giuseppe Rossi,Regular Play
+69244,Barcelona,Villarreal,Lionel Andrés Messi Cuccittini,1,6,363,81.58,54.0,Saved,False,True,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69244,Barcelona,Villarreal,Carles Puyol i Saforcada,1,6,392,92.17,51.12,Off T,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69244,Villarreal,Barcelona,Nilmar Honorato da Silva,1,7,460,86.67,57.75,Off T,False,False,Open Play,Right Foot,Rubén Gracia Calmache,Regular Play
+69244,Barcelona,Villarreal,Xavier Hernández Creus,1,11,694,76.17,61.38,Off T,False,False,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,Regular Play
+69244,Barcelona,Villarreal,Lionel Andrés Messi Cuccittini,1,18,1090,93.75,35.0,Goal,True,True,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69244,Barcelona,Villarreal,Xavier Hernández Creus,1,33,2003,76.08,53.62,Goal,True,True,Free Kick,Right Foot,,From Free Kick
+69244,Barcelona,Villarreal,Lionel Andrés Messi Cuccittini,1,37,2254,92.08,34.88,Blocked,False,False,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69244,Barcelona,Villarreal,Daniel Alves da Silva,1,40,2430,75.0,62.25,Blocked,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Free Kick
+69244,Barcelona,Villarreal,Bojan Krkíc Pérez,1,41,2491,92.08,60.38,Goal,True,True,Open Play,Right Foot,Xavier Hernández Creus,From Counter
+69244,Villarreal,Barcelona,Ariel Miguel Santiago Ibagaza,1,45,2756,75.08,54.88,Off T,False,False,Open Play,Right Foot,Giuseppe Rossi,Regular Play
+69244,Villarreal,Barcelona,Joan Capdevila Méndez,2,46,2805,87.75,51.75,Saved,False,True,Open Play,Right Foot,,From Corner
+69244,Villarreal,Barcelona,Giuseppe Rossi,2,50,3043,86.58,67.5,Blocked,False,False,Open Play,Right Foot,Ángel Domingo López Ruano,From Throw In
+69244,Villarreal,Barcelona,Marcos Antonio Senna da Silva,2,63,3780,71.33,70.0,Blocked,False,False,Open Play,Right Foot,Bruno Soriano Llido,From Free Kick
+69244,Villarreal,Barcelona,Joseba Llorente Etxarri,2,66,4015,86.75,53.12,Goal,True,True,Open Play,Right Foot,Nilmar Honorato da Silva,Regular Play
+69244,Barcelona,Villarreal,Lionel Andrés Messi Cuccittini,2,71,4266,82.42,51.75,Off T,False,False,Open Play,Left Foot,Daniel Alves da Silva,From Free Kick
+69244,Barcelona,Villarreal,Pedro Eliezer Rodríguez Ledesma,2,78,4728,81.17,69.0,Saved,False,True,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69244,Barcelona,Villarreal,Bojan Krkíc Pérez,2,84,5048,91.25,62.5,Off T,False,False,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,From Throw In
+69244,Barcelona,Villarreal,Lionel Andrés Messi Cuccittini,2,87,5266,92.92,51.5,Goal,True,True,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69241,Tenerife,Barcelona,Alejandro Alfaro Ligero,1,6,367,87.42,44.63,Off T,False,False,Open Play,Right Foot,,Regular Play
+69241,Tenerife,Barcelona,Alejandro Alfaro Ligero,1,14,867,86.75,38.25,Blocked,False,False,Open Play,Left Foot,,Regular Play
+69241,Barcelona,Tenerife,Zlatan Ibrahimović,1,16,972,93.58,43.75,Blocked,False,False,Open Play,Head,Daniel Alves da Silva,From Free Kick
+69241,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,1,16,973,98.75,55.62,Goal,True,True,Open Play,Right Foot,,From Free Kick
+69241,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,1,20,1253,78.92,61.12,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Free Kick
+69241,Barcelona,Tenerife,Zlatan Ibrahimović,1,29,1776,71.25,52.38,Blocked,False,False,Free Kick,Right Foot,,From Free Kick
+69241,Barcelona,Tenerife,Maxwell Scherrer Cabelino Andrade,1,34,2053,94.33,33.75,Saved,False,True,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69241,Barcelona,Tenerife,Zlatan Ibrahimović,1,36,2169,67.67,57.5,Off T,False,False,Open Play,Right Foot,,From Throw In
+69241,Tenerife,Barcelona,Román Fernando Martínez,1,38,2318,90.17,61.25,Goal,True,True,Open Play,Right Foot,"Daniel Armand N""Gom Komé",Regular Play
+69241,Barcelona,Tenerife,Zlatan Ibrahimović,1,42,2534,83.42,75.5,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Free Kick
+69241,Barcelona,Tenerife,Bojan Krkíc Pérez,1,45,2715,95.83,48.25,Off T,False,False,Open Play,Head,,From Corner
+69241,Barcelona,Tenerife,Seydou Kéita,2,52,3121,70.08,37.25,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,Regular Play
+69241,Barcelona,Tenerife,Bojan Krkíc Pérez,2,52,3178,78.08,44.38,Saved,False,True,Open Play,Right Foot,Seydou Kéita,Regular Play
+69241,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,2,56,3360,75.08,64.62,Off T,False,False,Free Kick,Left Foot,,From Free Kick
+69241,Tenerife,Barcelona,Juan Luis Hens Lorite,2,58,3500,75.42,63.62,Saved,False,True,Open Play,Right Foot,,From Throw In
+69241,Barcelona,Tenerife,Bojan Krkíc Pérez,2,62,3733,93.92,66.62,Goal,True,True,Open Play,Right Foot,Daniel Alves da Silva,From Goal Kick
+69241,Barcelona,Tenerife,Seydou Kéita,2,63,3834,90.83,53.12,Blocked,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69241,Barcelona,Tenerife,Carles Puyol i Saforcada,2,63,3836,94.33,52.5,Blocked,False,False,Open Play,Right Foot,,From Corner
+69241,Barcelona,Tenerife,Pedro Eliezer Rodríguez Ledesma,2,66,4010,86.75,32.38,Off T,False,False,Open Play,Right Foot,Daniel Alves da Silva,From Counter
+69241,Barcelona,Tenerife,Xavier Hernández Creus,2,72,4371,80.17,68.62,Saved,False,True,Free Kick,Right Foot,,From Free Kick
+69241,Barcelona,Tenerife,Pedro Eliezer Rodríguez Ledesma,2,75,4555,86.33,58.62,Goal,True,True,Open Play,Left Foot,,Regular Play
+69241,Barcelona,Tenerife,Thierry Henry,2,82,4931,86.33,31.62,Blocked,False,False,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Free Kick
+69241,Barcelona,Tenerife,Seydou Kéita,2,83,5007,93.42,48.38,Off T,False,False,Open Play,Head,Daniel Alves da Silva,From Corner
+69241,Barcelona,Tenerife,Lionel Andrés Messi Cuccittini,2,92,5532,94.0,61.38,Goal,True,True,Open Play,Right Foot,Daniel Alves da Silva,Regular Play
+69239,Barcelona,Sevilla,Daniel Alves da Silva,1,3,198,93.33,70.75,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Throw In
+69239,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,1,4,283,85.83,42.75,Goal,True,True,Open Play,Left Foot,Maxwell Scherrer Cabelino Andrade,From Free Kick
+69239,Barcelona,Sevilla,Daniel Alves da Silva,1,22,1364,77.83,73.75,Wayward,False,False,Open Play,Right Foot,,From Free Kick
+69239,Barcelona,Sevilla,Pedro Eliezer Rodríguez Ledesma,1,22,1365,94.08,44.5,Off T,False,False,Open Play,Head,,From Free Kick
+69239,Barcelona,Sevilla,Bojan Krkíc Pérez,1,27,1670,94.25,54.62,Goal,True,True,Open Play,Right Foot,Xavier Hernández Creus,Regular Play
+69239,Sevilla,Barcelona,Diego Ángel Capel Trinidad,1,34,2043,85.92,38.12,Saved,False,True,Open Play,Head,Abdoulay Konko,From Throw In
+69239,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,1,37,2271,94.83,51.12,Off T,False,False,Open Play,Left Foot,Daniel Alves da Silva,Regular Play
+69239,Sevilla,Barcelona,Luís Fabiano Clemente,1,40,2447,93.17,61.5,Saved,False,True,Open Play,Right Foot,Abdoulay Konko,From Free Kick
+69239,Barcelona,Sevilla,Seydou Kéita,1,43,2591,89.75,45.75,Wayward,False,False,Open Play,Head,Xavier Hernández Creus,From Corner
+69239,Sevilla,Barcelona,Frédéric Oumar Kanouté,2,52,3134,92.17,50.12,Off T,False,False,Open Play,Head,Renato Dirnei Florencio,From Corner
+69239,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,2,57,3428,85.75,38.5,Off T,False,False,Open Play,Left Foot,Maxwell Scherrer Cabelino Andrade,Regular Play
+69239,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,2,57,3468,91.33,46.62,Saved,False,True,Open Play,Left Foot,Bojan Krkíc Pérez,Regular Play
+69239,Barcelona,Sevilla,Daniel Alves da Silva,2,58,3501,70.75,36.25,Off T,False,False,Open Play,Right Foot,,From Corner
+69239,Barcelona,Sevilla,Bojan Krkíc Pérez,2,60,3601,92.17,49.0,Saved,False,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Free Kick
+69239,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,2,61,3690,84.0,62.0,Blocked,False,False,Open Play,Left Foot,Daniel Alves da Silva,From Free Kick
+69239,Barcelona,Sevilla,Pedro Eliezer Rodríguez Ledesma,2,61,3692,83.33,66.88,Goal,True,True,Open Play,Right Foot,,From Free Kick
+69239,Sevilla,Barcelona,Luís Fabiano Clemente,2,62,3759,93.83,59.62,Saved,False,True,Open Play,Right Foot,Frédéric Oumar Kanouté,From Kick Off
+69239,Barcelona,Sevilla,Bojan Krkíc Pérez,2,66,4000,95.5,44.5,Off T,False,False,Open Play,Left Foot,Lionel Andrés Messi Cuccittini,Other
+69239,Sevilla,Barcelona,Frédéric Oumar Kanouté,2,68,4111,87.92,58.12,Goal,True,True,Open Play,Left Foot,Luís Fabiano Clemente,From Counter
+69239,Barcelona,Sevilla,Bojan Krkíc Pérez,2,69,4164,70.58,36.5,Saved,False,True,Open Play,Right Foot,Seydou Kéita,From Kick Off
+69239,Barcelona,Sevilla,Lionel Andrés Messi Cuccittini,2,69,4193,84.92,71.0,Off T,False,False,Open Play,Left Foot,Xavier Hernández Creus,From Corner
+69239,Sevilla,Barcelona,Luís Fabiano Clemente,2,70,4241,87.17,64.38,Goal,True,True,Open Play,Right Foot,Alain Didier Zokora-Déguy,From Free Kick
+69239,Barcelona,Sevilla,Pedro Eliezer Rodríguez Ledesma,2,81,4861,84.75,47.0,Off T,False,False,Open Play,Left Foot,,From Free Kick
+69239,Sevilla,Barcelona,Frédéric Oumar Kanouté,2,84,5044,92.83,43.88,Off T,False,False,Open Play,Head,Diego Ángel Capel Trinidad,From Free Kick
+69239,Barcelona,Sevilla,Bojan Krkíc Pérez,2,89,5368,84.5,34.62,Off T,False,False,Open Play,Right Foot,Daniel Alves da Silva,From Goal Kick
+69242,Real Valladolid,Barcelona,Alberto Mateus Contreiras Gonçalves,1,3,229,86.25,56.0,Blocked,False,False,Open Play,Right Foot,,From Goal Kick
+69242,Real Valladolid,Barcelona,Javier Baraja Vegas,1,5,348,78.5,37.5,Blocked,False,False,Open Play,Right Foot,Diego da Silva Costa,Regular Play
+69242,Real Valladolid,Barcelona,Alberto Mateus Contreiras Gonçalves,1,6,380,94.5,54.12,Off T,False,False,Open Play,Head,Jonathan Sesma González,From Corner
+69242,Real Valladolid,Barcelona,Vítor Hugo Gomes Passos,1,8,515,78.92,47.75,Blocked,False,False,Open Play,Right Foot,,From Corner
+69242,Barcelona,Real Valladolid,Seydou Kéita,1,11,681,72.33,33.62,Off T,False,False,Open Play,Left Foot,Sergio Busquets i Burgos,From Throw In
+69242,Barcelona,Real Valladolid,Gnégnéri Yaya Touré,1,13,799,73.25,35.5,Saved,False,True,Open Play,Right Foot,Seydou Kéita,Regular Play
+69242,Barcelona,Real Valladolid,Bojan Krkíc Pérez,1,13,835,88.42,50.12,Off T,False,False,Open Play,Right Foot,Pedro Eliezer Rodríguez Ledesma,From Corner
+69242,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,1,16,980,80.92,60.5,Saved,False,True,Open Play,Left Foot,Gnégnéri Yaya Touré,From Free Kick
+69242,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,1,17,1035,96.33,35.12,Saved,False,True,Open Play,Left Foot,Bojan Krkíc Pérez,Regular Play
+69242,Barcelona,Real Valladolid,Bojan Krkíc Pérez,1,18,1128,85.33,26.88,Saved,False,True,Open Play,Right Foot,Seydou Kéita,From Throw In
+69242,Barcelona,Real Valladolid,Gnégnéri Yaya Touré,1,21,1288,82.0,52.5,Blocked,False,False,Open Play,Right Foot,Seydou Kéita,Regular Play
+69242,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,1,21,1291,89.67,55.25,Off T,False,False,Open Play,Left Foot,,Regular Play
+69242,Barcelona,Real Valladolid,Pedro Eliezer Rodríguez Ledesma,1,30,1859,90.92,64.5,Goal,True,True,Open Play,Right Foot,Lionel Andrés Messi Cuccittini,From Corner
+69242,Barcelona,Real Valladolid,Bojan Krkíc Pérez,1,34,2093,87.58,28.0,Blocked,False,False,Open Play,Right Foot,Seydou Kéita,From Throw In
+69242,Barcelona,Real Valladolid,Bojan Krkíc Pérez,1,44,2683,81.42,29.38,Off T,False,False,Open Play,Right Foot,Eric-Sylvain Bilal Abidal,From Free Kick
+69242,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,2,61,3704,94.0,46.25,Goal,True,True,Open Play,Right Foot,Gnégnéri Yaya Touré,From Free Kick
+69242,Real Valladolid,Barcelona,Vítor Hugo Gomes Passos,2,63,3803,71.5,62.0,Off T,False,False,Open Play,Right Foot,,From Free Kick
+69242,Barcelona,Real Valladolid,Lionel Andrés Messi Cuccittini,2,75,4553,87.58,44.88,Goal,True,True,Open Play,Left Foot,Gnégnéri Yaya Touré,Regular Play
+69242,Barcelona,Real Valladolid,Zlatan Ibrahimović,2,79,4793,95.17,52.5,Off T,False,False,Open Play,Right Foot,Thierry Henry,From Free Kick
+69242,Real Valladolid,Barcelona,Vítor Hugo Gomes Passos,2,83,5015,72.5,65.12,Saved,False,True,Open Play,Right Foot,Diego da Silva Costa,Regular Play
+69242,Real Valladolid,Barcelona,Héctor Font Romero,2,84,5071,79.0,33.62,Saved,False,True,Open Play,Right Foot,,From Corner
+69242,Real Valladolid,Barcelona,Vítor Hugo Gomes Passos,2,87,5274,71.67,33.75,Saved,False,True,Free Kick,Right Foot,,From Free Kick

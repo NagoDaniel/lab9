@@ -1,0 +1,503 @@
+match_id,team,type,period,minute,elapsed_seconds,player,detail
+69210,Barcelona,goal,1,19,1197,Xavier Hernández Creus,"open/set play, assist: Daniel Alves da Silva"
+69210,Barcelona,goal,1,21,1279,Daniel Alves da Silva,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69210,Barcelona,card,1,42,2528,Gerard Piqué Bernabéu,Yellow Card
+69210,Barcelona,card,2,50,3018,Seydou Kéita,Yellow Card
+69210,Barcelona,goal,2,55,3354,Lionel Andrés Messi Cuccittini,"open/set play, assist: Zlatan Ibrahimović"
+69210,Barcelona,substitution,2,60,3639,Gerard Piqué Bernabéu,off; on: Gabriel Alejandro Milito
+69210,Real Valladolid,substitution,2,74,4469,Marcos García Barreno,off; on: Vítor Hugo Gomes Passos
+69210,Barcelona,substitution,2,78,4737,Seydou Kéita,off; on: Dmytro Chygrynskiy
+69210,Real Valladolid,substitution,2,79,4751,Jonathan Sesma González,off; on: Haris Medunjanin
+69210,Real Valladolid,card,2,79,4786,Alberto Marcos Rey,Yellow Card
+69210,Barcelona,substitution,2,82,4926,Thierry Henry,off; on: Bojan Krkíc Pérez
+69210,Real Valladolid,card,2,83,5028,Borja Fernández Fernández,Yellow Card
+69210,Real Valladolid,substitution,2,84,5062,Alberto Marcos Rey,off; on: Nivaldo Batista Santana
+69213,Espanyol,card,1,5,342,Pablo Daniel Osvaldo,Yellow Card
+69213,Espanyol,card,1,21,1295,Luis García Fernández,Yellow Card
+69213,Barcelona,card,1,24,1466,Daniel Alves da Silva,Yellow Card
+69213,Barcelona,card,1,31,1900,Gabriel Alejandro Milito,Yellow Card
+69213,Barcelona,substitution,2,56,3417,Gabriel Alejandro Milito,off; on: Thierry Henry
+69213,Barcelona,substitution,2,57,3421,Gnégnéri Yaya Touré,off; on: Seydou Kéita
+69213,Barcelona,card,2,61,3660,Daniel Alves da Silva,Second Yellow
+69213,Espanyol,card,2,62,3737,José Raúl Baena Urdiales,Yellow Card
+69213,Espanyol,substitution,2,78,4685,Joan Verdú Fernández,off; on: Iván Daniel Alonso Vallejo
+69213,Barcelona,card,2,80,4844,Seydou Kéita,Yellow Card
+69213,Barcelona,substitution,2,81,4912,Pedro Eliezer Rodríguez Ledesma,off; on: Zlatan Ibrahimović
+69213,Espanyol,substitution,2,83,5035,José María Callejón Bueno,off; on: Ben Sahar
+69214,Barcelona,goal,1,13,795,Jeffren Isaac Suárez Bermúdez,"open/set play, assist: Xavier Hernández Creus"
+69214,Xerez,card,1,15,948,Aythami Artiles Oliva,Yellow Card
+69214,Barcelona,goal,1,23,1382,Thierry Henry,"open/set play, assist: Zlatan Ibrahimović"
+69214,Xerez,goal,1,24,1471,Mario Bermejo Castanedo,"open/set play, assist: Fabián Ariel Orellana Valenzuela"
+69214,Xerez,card,1,26,1607,Víctor Sánchez Mata,Yellow Card
+69214,Xerez,substitution,2,45,2700,Aythami Artiles Oliva,off; on: Carlos Calvo Sobrado
+69214,Barcelona,substitution,2,51,3095,Jeffren Isaac Suárez Bermúdez,off; on: Lionel Andrés Messi Cuccittini
+69214,Barcelona,substitution,2,52,3125,Rafael Márquez Álvarez,off; on: Gerard Piqué Bernabéu
+69214,Barcelona,goal,2,55,3347,Zlatan Ibrahimović,"open/set play, assist: Gnégnéri Yaya Touré"
+69214,Xerez,substitution,2,62,3747,Sidi Yaya Keita,off; on: Vicente Moreno Peris
+69214,Xerez,card,2,64,3889,José Manuel Casado Bizcocho,Yellow Card
+69214,Xerez,card,2,71,4272,Fabián Ariel Orellana Valenzuela,Yellow Card
+69214,Barcelona,substitution,2,73,4401,Thierry Henry,off; on: Bojan Krkíc Pérez
+69214,Barcelona,card,2,77,4664,Bojan Krkíc Pérez,Yellow Card
+69214,Xerez,substitution,2,78,4733,Emiliano Daniel Armenteros,off; on: Matías Gustavo Alustiza
+69214,Xerez,card,2,82,4929,Renan Brito Soares,Yellow Card
+69214,Xerez,card,2,82,4933,Mario Bermejo Castanedo,Yellow Card
+69214,Xerez,card,2,86,5200,Leandro Andrés Gioda,Yellow Card
+69214,Xerez,card,2,87,5236,Vicente Moreno Peris,Yellow Card
+69214,Xerez,card,2,89,5369,Matías Gustavo Alustiza,Red Card
+69214,Xerez,card,2,90,5447,Carlos Calvo Sobrado,Yellow Card
+69214,Xerez,card,2,92,5523,Fabián Ariel Orellana Valenzuela,Red Card
+69218,Barcelona,goal,1,26,1564,Lionel Andrés Messi Cuccittini,"open/set play, assist: Daniel Alves da Silva"
+69218,RC Deportivo La Coruña,goal,1,38,2288,Adrián López Álvarez,open/set play
+69218,Barcelona,card,2,47,2847,Daniel Alves da Silva,Yellow Card
+69218,RC Deportivo La Coruña,card,2,57,3474,Miguel Ángel Ferrer Martínez,Yellow Card
+69218,RC Deportivo La Coruña,substitution,2,62,3723,Adrián López Álvarez,off; on: Juliano Roberto Antonello
+69218,Barcelona,substitution,2,69,4170,Thierry Henry,off; on: Pedro Eliezer Rodríguez Ledesma
+69218,Barcelona,card,2,76,4579,Eric-Sylvain Bilal Abidal,Yellow Card
+69218,Barcelona,goal,2,79,4740,Lionel Andrés Messi Cuccittini,"open/set play, assist: Pedro Eliezer Rodríguez Ledesma"
+69218,RC Deportivo La Coruña,substitution,2,82,4948,Antonio Tomás González,off; on: Rodolfo Bodipo Díaz
+69218,RC Deportivo La Coruña,substitution,2,86,5202,José Andrés Guardado Hernández,off; on: Pablo Álvarez Nuñez
+69218,Barcelona,goal,2,87,5232,Zlatan Ibrahimović,"open/set play, assist: Eric-Sylvain Bilal Abidal"
+69218,Barcelona,substitution,2,88,5324,Andrés Iniesta Luján,off; on: Seydou Kéita
+69219,Barcelona,card,1,20,1238,Rafael Márquez Álvarez,Yellow Card
+69219,Tenerife,card,1,29,1788,Ezequiel Luna,Yellow Card
+69219,Barcelona,goal,1,35,2116,Lionel Andrés Messi Cuccittini,"open/set play, assist: Bojan Krkíc Pérez"
+69219,Tenerife,card,1,40,2410,Ayoze García Pérez,Yellow Card
+69219,Barcelona,card,1,41,2472,Carles Puyol i Saforcada,Yellow Card
+69219,Tenerife,card,1,42,2562,"Daniel Armand N""Gom Komé",Yellow Card
+69219,Barcelona,goal,1,43,2616,Carles Puyol i Saforcada,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69219,Tenerife,substitution,2,45,2700,Juan Luis Hens Lorite,off; on: Jose Antonio Culebras Arenas
+69219,Barcelona,goal,1,46,2767,Lionel Andrés Messi Cuccittini,"open/set play, assist: Bojan Krkíc Pérez"
+69219,Tenerife,substitution,2,67,4022,Ayoze García Pérez,off; on: Telmário de Araújo Sacramento
+69219,Barcelona,goal,2,74,4497,Lionel Andrés Messi Cuccittini,"open/set play, assist: Bojan Krkíc Pérez"
+69219,Barcelona,substitution,2,76,4605,Andrés Iniesta Luján,off; on: Pedro Eliezer Rodríguez Ledesma
+69219,Tenerife,substitution,2,83,4993,"Daniel Armand N""Gom Komé",off; on: Ángel Luis Rodríguez Díaz
+69219,Barcelona,substitution,2,83,5024,Carles Puyol i Saforcada,off; on: Gabriel Alejandro Milito
+69219,Barcelona,goal,2,84,5099,Ezequiel Luna,own goal
+69219,Barcelona,substitution,2,85,5156,Xavier Hernández Creus,off; on: Dmytro Chygrynskiy
+69220,Sporting Gijón,card,1,10,617,Carmelo José González Jiménez,Yellow Card
+69220,Barcelona,goal,1,28,1738,Pedro Eliezer Rodríguez Ledesma,"open/set play, assist: Andrés Iniesta Luján"
+69220,Sporting Gijón,card,2,47,2866,Alberto Lora Ramos,Yellow Card
+69220,Sporting Gijón,substitution,2,57,3432,Carmelo José González Jiménez,off; on: Diego Castro Giménez
+69220,Sporting Gijón,substitution,2,57,3449,Miguel Ángel De las Cuevas Barberá,off; on: David Barral Torres
+69220,Barcelona,card,2,58,3494,Pedro Eliezer Rodríguez Ledesma,Yellow Card
+69220,Sporting Gijón,card,2,61,3677,Cristian Portilla Rodríguez,Yellow Card
+69220,Sporting Gijón,substitution,2,70,4220,Cristian Portilla Rodríguez,off; on: Sergio Matabuena Delgado
+69220,Sporting Gijón,card,2,71,4282,Alberto Botía Rabasco,Yellow Card
+69220,Sporting Gijón,card,2,75,4518,David Barral Torres,Yellow Card
+69220,Barcelona,card,2,80,4810,Lionel Andrés Messi Cuccittini,Yellow Card
+69220,Sporting Gijón,card,2,82,4963,Alberto Rivera Pizarro,Yellow Card
+69220,Barcelona,substitution,2,90,5422,Pedro Eliezer Rodríguez Ledesma,off; on: Bojan Krkíc Pérez
+69220,Barcelona,card,2,92,5539,Carles Puyol i Saforcada,Yellow Card
+69221,RC Deportivo La Coruña,card,1,12,754,Alberto Lopo García,Yellow Card
+69221,Barcelona,goal,1,15,907,Bojan Krkíc Pérez,"open/set play, assist: Xavier Hernández Creus"
+69221,RC Deportivo La Coruña,card,1,29,1756,Pablo Álvarez Nuñez,Yellow Card
+69221,Barcelona,substitution,2,50,3018,Jeffren Isaac Suárez Bermúdez,off; on: Seydou Kéita
+69221,RC Deportivo La Coruña,substitution,2,52,3151,Pablo Álvarez Nuñez,off; on: Juan Domínguez Lamas
+69221,Barcelona,goal,2,68,4087,Pedro Eliezer Rodríguez Ledesma,open/set play
+69221,RC Deportivo La Coruña,substitution,2,69,4168,Iván Sánchez Rico Soto,off; on: Lassad Hassen Nouioui
+69221,Barcelona,goal,2,71,4296,Gnégnéri Yaya Touré,"open/set play, assist: Xavier Hernández Creus"
+69221,Barcelona,substitution,2,72,4377,Bojan Krkíc Pérez,off; on: Thierry Henry
+69221,Barcelona,substitution,2,76,4574,Xavier Hernández Creus,off; on: Sergio Busquets i Burgos
+69221,RC Deportivo La Coruña,card,2,78,4684,Manuel Pablo García Díaz,Yellow Card
+69221,RC Deportivo La Coruña,substitution,2,83,5038,Sergio González Soriano,off; on: Iván Santiago Pérez Maceira
+69224,Valencia,substitution,1,43,2635,David Albelda Aliqués,off; on: Manuel Henrique Tavares Fernandes
+69224,Barcelona,substitution,2,45,2700,Bojan Krkíc Pérez,off; on: Thierry Henry
+69224,Valencia,card,2,46,2767,Éver Maximiliano David Banega,Yellow Card
+69224,Valencia,card,2,53,3212,Hedwiges Maduro,Yellow Card
+69224,Barcelona,goal,2,55,3327,Lionel Andrés Messi Cuccittini,"open/set play, assist: Xavier Hernández Creus"
+69224,Valencia,card,2,61,3695,Ángel Dealbert Ibáñez,Yellow Card
+69224,Valencia,substitution,2,64,3879,Alejandro Damián Domínguez,off; on: Nikola Žigić
+69224,Valencia,card,2,68,4123,Hedwiges Maduro,Second Yellow
+69224,Valencia,card,2,70,4246,Bruno Saltor Grau,Yellow Card
+69224,Valencia,substitution,2,76,4616,Bruno Saltor Grau,off; on: Rubén Baraja Vegas
+69224,Barcelona,goal,2,81,4860,Lionel Andrés Messi Cuccittini,"open/set play, assist: Thierry Henry"
+69224,Barcelona,goal,2,83,4985,Lionel Andrés Messi Cuccittini,"open/set play, assist: Thierry Henry"
+69224,Barcelona,substitution,2,85,5159,Andrés Iniesta Luján,off; on: Jeffren Isaac Suárez Bermúdez
+69224,Barcelona,substitution,2,88,5295,Lionel Andrés Messi Cuccittini,off; on: Gnégnéri Yaya Touré
+69224,Valencia,card,2,90,5403,Nikola Žigić,Yellow Card
+69224,Barcelona,card,2,90,5409,Gerard Piqué Bernabéu,Yellow Card
+69226,Almería,goal,1,11,665,Domingo Cisma González,"open/set play, assist: Hernán Darío Bernardello"
+69226,Barcelona,goal,1,41,2508,Lionel Andrés Messi Cuccittini,open/set play
+69226,Almería,goal,2,56,3366,Carles Puyol i Saforcada,own goal
+69226,Barcelona,card,2,59,3570,Zlatan Ibrahimović,Red Card
+69226,Barcelona,goal,2,65,3933,Lionel Andrés Messi Cuccittini,open/set play
+69226,Almería,substitution,2,66,3976,Guilherme Oliveira Santos,off; on: Henok Goitom
+69226,Barcelona,substitution,2,73,4427,Gnégnéri Yaya Touré,off; on: Sergio Busquets i Burgos
+69226,Almería,substitution,2,74,4457,Albert Crusat Domene,off; on: Kalu Uche
+69226,Almería,substitution,2,90,5444,Pablo Daniel Piatti,off; on: José Ortiz Bernal
+69227,Barcelona,goal,1,4,256,Lionel Andrés Messi Cuccittini,"open/set play, assist: Pedro Eliezer Rodríguez Ledesma"
+69227,Barcelona,card,1,38,2307,Gnégnéri Yaya Touré,Yellow Card
+69227,Real Zaragoza,card,1,42,2579,Jirí Jarošík,Yellow Card
+69227,Real Zaragoza,substitution,2,45,2700,José Edmílson Gomes de Moraes,off; on: Ángel Lafita Castillo
+69227,Barcelona,substitution,2,62,3757,Gnégnéri Yaya Touré,off; on: Andrés Iniesta Luján
+69227,Real Zaragoza,substitution,2,62,3761,Ángel Javier Arizmendi de Lucas,off; on: Adrián Colunga Pérez
+69227,Barcelona,goal,2,65,3913,Lionel Andrés Messi Cuccittini,open/set play
+69227,Barcelona,substitution,2,68,4118,Gerard Piqué Bernabéu,off; on: Carles Puyol i Saforcada
+69227,Barcelona,substitution,2,72,4360,Gabriel Alejandro Milito,off; on: Rafael Márquez Álvarez
+69227,Real Zaragoza,card,2,74,4440,Carlos Andrés Diogo Enseñat,Yellow Card
+69227,Barcelona,card,2,75,4546,Maxwell Scherrer Cabelino Andrade,Yellow Card
+69227,Barcelona,goal,2,77,4658,Lionel Andrés Messi Cuccittini,"open/set play, assist: Andrés Iniesta Luján"
+69227,Real Zaragoza,substitution,2,78,4739,Humberto Andrés Suazo Pontivo,off; on: Jermaine Pennant
+69227,Barcelona,card,2,83,5007,Daniel Alves da Silva,Yellow Card
+69227,Real Zaragoza,goal,2,84,5067,Adrián Colunga Pérez,"open/set play, assist: Matteo Contini"
+69227,Real Zaragoza,goal,2,88,5325,Adrián Colunga Pérez,"open/set play, assist: Matteo Contini"
+69227,Real Zaragoza,card,2,89,5375,Matteo Contini,Yellow Card
+69227,Barcelona,goal,2,90,5436,Zlatan Ibrahimović,penalty
+69229,Barcelona,card,2,51,3095,Seydou Kéita,Yellow Card
+69229,Barcelona,substitution,2,57,3461,Jeffren Isaac Suárez Bermúdez,off; on: Lionel Andrés Messi Cuccittini
+69229,Barcelona,substitution,2,58,3481,Pedro Eliezer Rodríguez Ledesma,off; on: Andrés Iniesta Luján
+69229,Getafe,substitution,2,58,3493,Daniel Parejo Muñoz,off; on: Francisco Javier Casquero Paredes
+69229,Barcelona,goal,2,65,3931,Zlatan Ibrahimović,open/set play
+69229,Barcelona,substitution,2,66,3981,Carles Puyol i Saforcada,off; on: Daniel Alves da Silva
+69229,Getafe,substitution,2,67,4028,Pedro León Sánchez Gil,off; on: Manuel del Moral Fernández
+69229,Getafe,card,2,69,4155,José Manuel Jiménez Ortiz,Yellow Card
+69229,Getafe,card,2,76,4604,Roberto Soldado Rillo,Yellow Card
+69229,Barcelona,goal,2,79,4752,Lionel Andrés Messi Cuccittini,"open/set play, assist: Zlatan Ibrahimović"
+69229,Getafe,substitution,2,81,4889,Adrián González Morales,off; on: Pedro Ríos Maestre
+69229,Getafe,card,2,84,5048,Rafael López Gómez,Yellow Card
+69233,Barcelona,goal,1,6,402,Andrés Iniesta Luján,"open/set play, assist: Rafael Márquez Álvarez"
+69233,Barcelona,goal,1,28,1714,Thierry Henry,open/set play
+69233,Racing Santander,card,1,32,1967,Antonio Moral Segura,Yellow Card
+69233,Barcelona,goal,1,33,2020,Rafael Márquez Álvarez,open/set play
+69233,Barcelona,card,1,37,2277,Rafael Márquez Álvarez,Yellow Card
+69233,Barcelona,card,1,42,2565,Gnégnéri Yaya Touré,Yellow Card
+69233,Barcelona,card,2,53,3181,Thierry Henry,Yellow Card
+69233,Racing Santander,card,2,53,3199,Oriol Lozano Farrán,Yellow Card
+69233,Racing Santander,substitution,2,59,3549,Antonio Moral Segura,off; on: Manuel Jesús Arana Rodríguez
+69233,Barcelona,substitution,2,67,4072,Carles Puyol i Saforcada,off; on: Jeffren Isaac Suárez Bermúdez
+69233,Racing Santander,substitution,2,70,4209,Francisco Jiménez Tejada,off; on: Luis Manuel Villa López
+69233,Barcelona,substitution,2,75,4554,Thierry Henry,off; on: Pedro Eliezer Rodríguez Ledesma
+69233,Barcelona,substitution,2,76,4571,Gnégnéri Yaya Touré,off; on: Thiago Alcântara do Nascimento
+69233,Racing Santander,substitution,2,76,4594,Sergio Canales Madrazo,off; on: Luis Javier García Sanz
+69233,Racing Santander,card,2,81,4902,Óscar Serrano Rodriguez,Yellow Card
+69233,Barcelona,goal,2,83,5002,Thiago Alcântara do Nascimento,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69233,Racing Santander,card,2,88,5311,Henrique Adriano Buss,Yellow Card
+69237,Barcelona,substitution,1,7,423,Seydou Kéita,off; on: Pedro Eliezer Rodríguez Ledesma
+69237,Atlético Madrid,goal,1,8,514,Diego Forlán Corazo,"open/set play, assist: José Antonio Reyes Calderón"
+69237,Atlético Madrid,goal,1,22,1322,Simão Pedro Fonseca Sabrosa,open/set play
+69237,Barcelona,goal,1,26,1575,Zlatan Ibrahimović,open/set play
+69237,Barcelona,card,1,28,1682,Jeffren Isaac Suárez Bermúdez,Yellow Card
+69237,Atlético Madrid,card,2,59,3544,Simão Pedro Fonseca Sabrosa,Yellow Card
+69237,Barcelona,substitution,2,60,3632,Jeffren Isaac Suárez Bermúdez,off; on: Marc Bartra Aregall
+69237,Barcelona,card,2,66,3967,Maxwell Scherrer Cabelino Andrade,Yellow Card
+69237,Atlético Madrid,card,2,68,4110,Tiago Cardoso Mendes,Yellow Card
+69237,Barcelona,card,2,74,4472,Sergio Busquets i Burgos,Yellow Card
+69237,Barcelona,substitution,2,77,4658,Xavier Hernández Creus,off; on: Bojan Krkíc Pérez
+69237,Barcelona,card,2,78,4739,Carles Puyol i Saforcada,Yellow Card
+69237,Atlético Madrid,substitution,2,81,4896,Diego Forlán Corazo,off; on: José Manuel Jurado Marín
+69237,Atlético Madrid,substitution,2,87,5241,José Antonio Reyes Calderón,off; on: Juan Valera Espín
+69237,Barcelona,card,2,87,5272,Zlatan Ibrahimović,Yellow Card
+69237,Atlético Madrid,substitution,2,91,5518,Sergio Leonel Agüero del Castillo,off; on: Ibrahima Baldé
+69238,Málaga,substitution,1,16,1005,Milan Stepanov,off; on: Eduardo Ramos Gómez
+69238,Málaga,card,1,36,2165,Manuel Torres Caturla,Yellow Card
+69238,Barcelona,card,1,41,2490,Gerard Piqué Bernabéu,Yellow Card
+69238,Málaga,substitution,2,45,2700,Manuel Torres Caturla,off; on: Valmiro Lópes Rocha
+69238,Barcelona,goal,2,68,4082,Pedro Eliezer Rodríguez Ledesma,"open/set play, assist: Zlatan Ibrahimović"
+69238,Málaga,substitution,2,71,4288,Nabil Baha,off; on: Fernando Martín Forestieri
+69238,Málaga,goal,2,80,4825,Valmiro Lópes Rocha,"open/set play, assist: Victor Obinna Nsofor"
+69238,Barcelona,goal,2,83,4996,Lionel Andrés Messi Cuccittini,"open/set play, assist: Daniel Alves da Silva"
+69238,Barcelona,substitution,2,85,5145,Pedro Eliezer Rodríguez Ledesma,off; on: Bojan Krkíc Pérez
+69239,Barcelona,goal,1,4,283,Lionel Andrés Messi Cuccittini,"open/set play, assist: Maxwell Scherrer Cabelino Andrade"
+69239,Sevilla,card,1,10,626,Abdoulay Konko,Yellow Card
+69239,Barcelona,card,1,21,1307,Sergio Busquets i Burgos,Yellow Card
+69239,Sevilla,substitution,1,26,1598,Federico Julián Fazio,off; on: Sébastien Squillaci
+69239,Barcelona,goal,1,27,1670,Bojan Krkíc Pérez,"open/set play, assist: Xavier Hernández Creus"
+69239,Sevilla,card,1,29,1745,Luís Fabiano Clemente,Yellow Card
+69239,Sevilla,card,1,41,2475,Alain Didier Zokora-Déguy,Yellow Card
+69239,Barcelona,card,1,43,2601,Pedro Eliezer Rodríguez Ledesma,Yellow Card
+69239,Barcelona,card,2,53,3183,Maxwell Scherrer Cabelino Andrade,Yellow Card
+69239,Sevilla,card,2,55,3304,Abdoulay Konko,Second Yellow
+69239,Sevilla,substitution,2,61,3660,Renato Dirnei Florencio,off; on: Marius Stankevičius
+69239,Barcelona,goal,2,61,3692,Pedro Eliezer Rodríguez Ledesma,open/set play
+69239,Barcelona,substitution,2,65,3933,Maxwell Scherrer Cabelino Andrade,off; on: Eric-Sylvain Bilal Abidal
+69239,Sevilla,substitution,2,67,4021,Adriano Correia Claro,off; on: Manuel Jesús Ortiz Toribio
+69239,Sevilla,goal,2,68,4111,Frédéric Oumar Kanouté,"open/set play, assist: Luís Fabiano Clemente"
+69239,Barcelona,card,2,70,4220,Xavier Hernández Creus,Yellow Card
+69239,Sevilla,goal,2,70,4241,Luís Fabiano Clemente,"open/set play, assist: Alain Didier Zokora-Déguy"
+69239,Sevilla,card,2,73,4393,Manuel Jesús Ortiz Toribio,Yellow Card
+69239,Sevilla,card,2,77,4637,Diego Ángel Capel Trinidad,Yellow Card
+69239,Barcelona,card,2,86,5163,Bojan Krkíc Pérez,Yellow Card
+69239,Barcelona,substitution,2,86,5215,Xavier Hernández Creus,off; on: Gnégnéri Yaya Touré
+69239,Barcelona,substitution,2,91,5492,Bojan Krkíc Pérez,off; on: Jeffren Isaac Suárez Bermúdez
+69239,Barcelona,card,2,92,5537,Víctor Valdés Arribas,Yellow Card
+69240,Barcelona,goal,1,6,362,Lionel Andrés Messi Cuccittini,"open/set play, assist: Gnégnéri Yaya Touré"
+69240,Getafe,card,1,16,977,José Manuel Jiménez Ortiz,Yellow Card
+69240,Barcelona,card,1,23,1417,Maxwell Scherrer Cabelino Andrade,Yellow Card
+69240,Barcelona,card,1,24,1479,Gerard Piqué Bernabéu,Red Card
+69240,Barcelona,card,1,25,1555,Xavier Hernández Creus,Yellow Card
+69240,Barcelona,substitution,2,51,3071,Zlatan Ibrahimović,off; on: Sergio Busquets i Burgos
+69240,Getafe,card,2,52,3138,Derek Owusu Boateng,Yellow Card
+69240,Getafe,substitution,2,55,3325,José Manuel Jiménez Ortiz,off; on: Manuel del Moral Fernández
+69240,Barcelona,substitution,2,57,3427,Gnégnéri Yaya Touré,off; on: Rafael Márquez Álvarez
+69240,Getafe,substitution,2,63,3825,Daniel Parejo Muñoz,off; on: Francisco Javier Casquero Paredes
+69240,Barcelona,goal,2,66,3989,Xavier Hernández Creus,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69240,Getafe,substitution,2,76,4577,Nicolás Ladislao Fedor Flores,off; on: Kepa Blanco Gonzalez
+69240,Getafe,card,2,80,4803,Francisco Javier Casquero Paredes,Yellow Card
+69240,Barcelona,card,2,81,4890,Sergio Busquets i Burgos,Yellow Card
+69240,Barcelona,substitution,2,90,5414,Andrés Iniesta Luján,off; on: Pedro Eliezer Rodríguez Ledesma
+69240,Barcelona,card,2,91,5486,Rafael Márquez Álvarez,Red Card
+69240,Getafe,goal,2,93,5581,Roberto Soldado Rillo,penalty
+69241,Barcelona,goal,1,16,973,Lionel Andrés Messi Cuccittini,open/set play
+69241,Tenerife,card,1,24,1441,Pablo Sicilia Roig,Yellow Card
+69241,Tenerife,card,1,28,1722,Jose Antonio Culebras Arenas,Yellow Card
+69241,Tenerife,goal,1,38,2318,Román Fernando Martínez,"open/set play, assist: Daniel Armand N""Gom Komé"
+69241,Barcelona,substitution,2,45,2700,Gerard Piqué Bernabéu,off; on: Pedro Eliezer Rodríguez Ledesma
+69241,Tenerife,substitution,2,60,3623,"Daniel Armand N""Gom Komé",off; on: Juan Francisco Martínez Modesto
+69241,Barcelona,goal,2,62,3733,Bojan Krkíc Pérez,"open/set play, assist: Daniel Alves da Silva"
+69241,Barcelona,substitution,2,64,3891,Zlatan Ibrahimović,off; on: Sergio Busquets i Burgos
+69241,Tenerife,card,2,66,4002,Alejandro Alfaro Ligero,Yellow Card
+69241,Tenerife,card,2,70,4223,Héctor Sánchez Cabrera,Yellow Card
+69241,Tenerife,substitution,2,72,4358,Román Fernando Martínez,off; on: Julián Omar Ramos Suárez
+69241,Barcelona,goal,2,75,4555,Pedro Eliezer Rodríguez Ledesma,open/set play
+69241,Barcelona,substitution,2,80,4803,Bojan Krkíc Pérez,off; on: Thierry Henry
+69241,Tenerife,substitution,2,83,5034,Alejandro Alfaro Ligero,off; on: Ángel Luis Rodríguez Díaz
+69241,Barcelona,goal,2,92,5532,Lionel Andrés Messi Cuccittini,"open/set play, assist: Daniel Alves da Silva"
+69242,Barcelona,goal,1,26,1611,Luis Prieto Zalbidegoitia,own goal
+69242,Barcelona,goal,1,30,1859,Pedro Eliezer Rodríguez Ledesma,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69242,Real Valladolid,card,1,43,2634,Antonio Barragán Fernández,Yellow Card
+69242,Real Valladolid,substitution,2,45,2700,Jonathan Sesma González,off; on: Nauzet Alemán Viera
+69242,Real Valladolid,card,2,47,2860,Alberto Mateus Contreiras Gonçalves,Yellow Card
+69242,Real Valladolid,card,2,53,3221,Javier Baraja Vegas,Yellow Card
+69242,Real Valladolid,substitution,2,61,3682,Luis Prieto Zalbidegoitia,off; on: Héctor Font Romero
+69242,Barcelona,goal,2,61,3704,Lionel Andrés Messi Cuccittini,"open/set play, assist: Gnégnéri Yaya Touré"
+69242,Barcelona,card,2,67,4044,Daniel Alves da Silva,Yellow Card
+69242,Barcelona,goal,2,75,4553,Lionel Andrés Messi Cuccittini,"open/set play, assist: Gnégnéri Yaya Touré"
+69242,Barcelona,substitution,2,76,4602,Bojan Krkíc Pérez,off; on: Thierry Henry
+69242,Real Valladolid,substitution,2,77,4677,Alberto Mateus Contreiras Gonçalves,off; on: Sergio Gontán Gallardo
+69242,Barcelona,substitution,2,79,4779,Daniel Alves da Silva,off; on: Zlatan Ibrahimović
+69242,Barcelona,substitution,2,86,5167,Pedro Eliezer Rodríguez Ledesma,off; on: Andrés Iniesta Luján
+69243,Sevilla,card,1,35,2147,Marc Valiente Hernández,Yellow Card
+69243,Sevilla,substitution,2,45,2700,Marc Valiente Hernández,off; on: Aldo Pedro Duscher
+69243,Sevilla,substitution,2,45,2700,José Carlos Fernández Vázquez,off; on: Diego Ángel Capel Trinidad
+69243,Barcelona,substitution,2,45,2700,Carles Puyol i Saforcada,off; on: Rafael Márquez Álvarez
+69243,Sevilla,card,2,47,2847,Manuel Jesús Ortiz Toribio,Yellow Card
+69243,Barcelona,goal,2,48,2915,Julien Escudé,own goal
+69243,Sevilla,card,2,53,3222,Fernando Navarro i Corbacho,Yellow Card
+69243,Sevilla,substitution,2,58,3521,Abdoulay Konko,off; on: Adriano Correia Claro
+69243,Barcelona,card,2,62,3751,Eric-Sylvain Bilal Abidal,Yellow Card
+69243,Barcelona,substitution,2,63,3794,Thierry Henry,off; on: Pedro Eliezer Rodríguez Ledesma
+69243,Barcelona,card,2,63,3836,Sergio Busquets i Burgos,Yellow Card
+69243,Barcelona,goal,2,69,4197,Pedro Eliezer Rodríguez Ledesma,"open/set play, assist: Xavier Hernández Creus"
+69243,Sevilla,card,2,75,4501,Aldo Pedro Duscher,Yellow Card
+69243,Barcelona,goal,2,84,5063,Lionel Andrés Messi Cuccittini,"open/set play, assist: Daniel Alves da Silva"
+69243,Barcelona,substitution,2,86,5214,Andrés Iniesta Luján,off; on: Bojan Krkíc Pérez
+69243,Barcelona,goal,2,91,5470,Lionel Andrés Messi Cuccittini,"open/set play, assist: Eric-Sylvain Bilal Abidal"
+69244,Barcelona,goal,1,18,1090,Lionel Andrés Messi Cuccittini,"open/set play, assist: Xavier Hernández Creus"
+69244,Villarreal,card,1,32,1922,Gonzalo Javier Rodríguez,Yellow Card
+69244,Barcelona,goal,1,33,2003,Xavier Hernández Creus,open/set play
+69244,Villarreal,card,1,39,2382,Joan Capdevila Méndez,Yellow Card
+69244,Barcelona,goal,1,41,2491,Bojan Krkíc Pérez,"open/set play, assist: Xavier Hernández Creus"
+69244,Villarreal,substitution,2,45,2700,Rubén Gracia Calmache,off; on: Joseba Llorente Etxarri
+69244,Villarreal,substitution,2,45,2712,Ariel Miguel Santiago Ibagaza,off; on: Marcos Antonio Senna da Silva
+69244,Barcelona,card,2,52,3150,Seydou Kéita,Yellow Card
+69244,Villarreal,card,2,55,3312,Diego Roberto Godín Leal,Yellow Card
+69244,Barcelona,card,2,62,3733,Sergio Busquets i Burgos,Yellow Card
+69244,Villarreal,goal,2,66,4015,Joseba Llorente Etxarri,"open/set play, assist: Nilmar Honorato da Silva"
+69244,Barcelona,card,2,72,4351,Carles Puyol i Saforcada,Yellow Card
+69244,Villarreal,card,2,79,4769,Joseba Llorente Etxarri,Yellow Card
+69244,Barcelona,substitution,2,79,4794,Sergio Busquets i Burgos,off; on: Gnégnéri Yaya Touré
+69244,Villarreal,substitution,2,82,4935,Giuseppe Rossi,off; on: David Fuster Torrijos
+69244,Barcelona,substitution,2,84,5094,Bojan Krkíc Pérez,off; on: Zlatan Ibrahimović
+69244,Barcelona,goal,2,87,5266,Lionel Andrés Messi Cuccittini,"open/set play, assist: Daniel Alves da Silva"
+69244,Barcelona,substitution,2,89,5370,Lionel Andrés Messi Cuccittini,off; on: Jeffren Isaac Suárez Bermúdez
+69247,Barcelona,goal,1,26,1586,Jeffren Isaac Suárez Bermúdez,"open/set play, assist: Eric-Sylvain Bilal Abidal"
+69247,Barcelona,goal,1,39,2390,Bojan Krkíc Pérez,"open/set play, assist: Carles Puyol i Saforcada"
+69247,Athletic Club,substitution,2,45,2700,Igor Gabilondo del Campo,off; on: Francisco Javier Yeste Navarro
+69247,Athletic Club,substitution,2,45,2700,David López Moreno,off; on: Gaizka Toquero Pinedo
+69247,Barcelona,substitution,2,53,3189,Sergio Busquets i Burgos,off; on: Xavier Hernández Creus
+69247,Barcelona,goal,2,58,3496,Bojan Krkíc Pérez,"open/set play, assist: Eric-Sylvain Bilal Abidal"
+69247,Barcelona,substitution,2,59,3549,Jeffren Isaac Suárez Bermúdez,off; on: Pedro Eliezer Rodríguez Ledesma
+69247,Athletic Club,card,2,60,3627,Javier Martínez Aginaga,Yellow Card
+69247,Barcelona,card,2,60,3643,Gnégnéri Yaya Touré,Yellow Card
+69247,Barcelona,goal,2,66,4018,Lionel Andrés Messi Cuccittini,"open/set play, assist: Pedro Eliezer Rodríguez Ledesma"
+69247,Athletic Club,substitution,2,69,4174,Fernando Llorente Torres,off; on: Ander Iturraspe Derteano
+69247,Barcelona,substitution,2,75,4534,Gnégnéri Yaya Touré,off; on: Jonathan dos Santos Ramírez
+69247,Athletic Club,goal,2,76,4594,Markel Susaeta Laskurain,"open/set play, assist: Francisco Javier Yeste Navarro"
+69250,Barcelona,goal,1,10,633,Pedro Eliezer Rodríguez Ledesma,"open/set play, assist: Zlatan Ibrahimović"
+69250,Mallorca,goal,1,19,1152,José Carlos de Araújo Nunes,open/set play
+69250,Mallorca,card,1,32,1946,Borja Valero Iglesias,Yellow Card
+69250,Barcelona,goal,1,39,2397,Pedro Eliezer Rodríguez Ledesma,open/set play
+69250,Mallorca,card,1,42,2526,Fernando Varela Ramos,Yellow Card
+69250,Barcelona,goal,1,43,2585,Thierry Henry,"open/set play, assist: Sergio Busquets i Burgos"
+69250,Barcelona,substitution,2,50,3024,Pedro Eliezer Rodríguez Ledesma,off; on: Lionel Andrés Messi Cuccittini
+69250,Mallorca,substitution,2,58,3519,Antoni Lluis Adrover Colom,off; on: Gonzalo Castro Irizábal
+69250,Barcelona,substitution,2,60,3628,Sergio Busquets i Burgos,off; on: Xavier Hernández Creus
+69250,Barcelona,card,2,65,3952,Seydou Kéita,Yellow Card
+69250,Mallorca,substitution,2,72,4353,Mario Suárez Mata,off; on: Alhassane Keita
+69250,Mallorca,substitution,2,81,4896,Pierre Achille Webó Kouamo,off; on: Víctor Casadesús Castaño
+69250,Barcelona,substitution,2,82,4924,Thierry Henry,off; on: Andrés Iniesta Luján
+69250,Barcelona,goal,2,86,5217,Lionel Andrés Messi Cuccittini,penalty
+69250,Mallorca,goal,2,91,5513,Alhassane Keita,"open/set play, assist: Gonzalo Castro Irizábal"
+69252,Valencia,card,2,51,3093,David Josué Jiménez Silva,Yellow Card
+69252,Valencia,card,2,61,3682,Éver Maximiliano David Banega,Yellow Card
+69252,Valencia,card,2,67,4067,David Albelda Aliqués,Yellow Card
+69252,Valencia,substitution,2,71,4279,Jérémy Mathieu,off; on: Nicolás Ladislao Fedor Flores
+69252,Valencia,card,2,71,4318,David Navarro Pedrós,Yellow Card
+69252,Barcelona,substitution,2,76,4613,Pedro Eliezer Rodríguez Ledesma,off; on: Bojan Krkíc Pérez
+69252,Barcelona,card,2,78,4690,Gerard Piqué Bernabéu,Yellow Card
+69252,Barcelona,substitution,2,79,4793,Xavier Hernández Creus,off; on: Sergio Busquets i Burgos
+69252,Valencia,card,2,85,5143,Luís Miguel Brito Garcia Monteiro,Yellow Card
+69252,Valencia,substitution,2,89,5363,David Albelda Aliqués,off; on: Hedwiges Maduro
+69252,Valencia,substitution,2,90,5449,David Josué Jiménez Silva,off; on: Rubén Baraja Vegas
+69252,Barcelona,card,2,93,5633,Daniel Alves da Silva,Yellow Card
+69253,Barcelona,goal,1,24,1441,Seydou Kéita,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69253,Real Zaragoza,card,1,27,1658,Gabriel Fernández Arenas,Yellow Card
+69253,Barcelona,goal,1,28,1723,Zlatan Ibrahimović,open/set play
+69253,Real Zaragoza,card,1,37,2274,Abel Enrique Aguilar Tapia,Yellow Card
+69253,Barcelona,goal,1,41,2461,Seydou Kéita,"open/set play, assist: Zlatan Ibrahimović"
+69253,Barcelona,goal,2,55,3331,Zlatan Ibrahimović,"open/set play, assist: Seydou Kéita"
+69253,Real Zaragoza,substitution,2,60,3603,Jermaine Pennant,off; on: Ángel Lafita Castillo
+69253,Real Zaragoza,substitution,2,67,4057,Ángel Javier Arizmendi de Lucas,off; on: Ewerthon Henrique de Souza
+69253,Barcelona,substitution,2,72,4337,Zlatan Ibrahimović,off; on: Bojan Krkíc Pérez
+69253,Barcelona,substitution,2,72,4338,Gerard Piqué Bernabéu,off; on: Rafael Márquez Álvarez
+69253,Real Zaragoza,goal,2,77,4640,Jorge López Montaña,"open/set play, assist: Ángel Lafita Castillo"
+69253,Real Zaragoza,substitution,2,78,4692,Ander Herrera Agüera,"off; on: Steve Franck Songo""o"
+69253,Barcelona,goal,2,79,4795,Lionel Andrés Messi Cuccittini,"open/set play, assist: Andrés Iniesta Luján"
+69253,Barcelona,substitution,2,82,4939,Xavier Hernández Creus,off; on: Jeffren Isaac Suárez Bermúdez
+69253,Barcelona,goal,2,85,5113,Seydou Kéita,"open/set play, assist: Andrés Iniesta Luján"
+69254,Racing Santander,card,1,18,1139,Papa Kouly Diop,Yellow Card
+69254,Barcelona,goal,1,20,1200,Zlatan Ibrahimović,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69254,Barcelona,goal,1,23,1403,Lionel Andrés Messi Cuccittini,"open/set play, assist: Xavier Hernández Creus"
+69254,Barcelona,goal,1,26,1582,Gerard Piqué Bernabéu,"open/set play, assist: Zlatan Ibrahimović"
+69254,Barcelona,card,1,44,2671,Zlatan Ibrahimović,Yellow Card
+69254,Barcelona,substitution,2,52,3156,Zlatan Ibrahimović,off; on: Pedro Eliezer Rodríguez Ledesma
+69254,Racing Santander,card,2,54,3246,Mehdi Lacen,Yellow Card
+69254,Barcelona,substitution,2,56,3384,Gerard Piqué Bernabéu,off; on: Rafael Márquez Álvarez
+69254,Racing Santander,substitution,2,56,3417,Alexandre Geijo Pazos,off; on: Francisco Jiménez Tejada
+69254,Racing Santander,substitution,2,57,3427,Papa Kouly Diop,off; on: Gonzalo Colsa Albendea
+69254,Barcelona,goal,2,62,3761,Lionel Andrés Messi Cuccittini,"open/set play, assist: Xavier Hernández Creus"
+69254,Barcelona,substitution,2,63,3813,Lionel Andrés Messi Cuccittini,off; on: Andrés Iniesta Luján
+69254,Racing Santander,substitution,2,69,4178,Pedro Manuel Munitis Álvarez,off; on: Luis Javier García Sanz
+69254,Racing Santander,goal,2,71,4314,Óscar Serrano Rodriguez,open/set play
+69254,Racing Santander,card,2,76,4614,Francisco Jiménez Tejada,Yellow Card
+69254,Racing Santander,card,2,89,5382,Pablo Pinillos Caro,Yellow Card
+69255,Málaga,card,1,16,961,Nabil Baha,Yellow Card
+69255,Barcelona,substitution,1,28,1705,Thierry Henry,off; on: Zlatan Ibrahimović
+69255,Barcelona,card,1,31,1878,Gnégnéri Yaya Touré,Yellow Card
+69255,Barcelona,goal,1,38,2293,Zlatan Ibrahimović,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69255,Málaga,substitution,2,45,2700,Fernando Miguel Fernández Escribano,off; on: Valmiro Lópes Rocha
+69255,Barcelona,substitution,2,55,3319,Dmytro Chygrynskiy,off; on: Gerard Piqué Bernabéu
+69255,Málaga,substitution,2,56,3360,Nabil Baha,off; on: Fernando Martín Forestieri
+69255,Barcelona,goal,2,58,3504,Gerard Piqué Bernabéu,"open/set play, assist: Xavier Hernández Creus"
+69255,Málaga,card,2,66,4018,Sérgio Paulo Barbosa Valente,Yellow Card
+69255,Barcelona,card,2,69,4151,Zlatan Ibrahimović,Yellow Card
+69255,Barcelona,card,2,69,4157,Gerard Piqué Bernabéu,Yellow Card
+69255,Málaga,card,2,69,4175,Weligton Róbson Pena de Oliveira,Yellow Card
+69255,Málaga,substitution,2,75,4554,Sérgio Paulo Barbosa Valente,off; on: Albert Luque Martos
+69255,Barcelona,substitution,2,78,4693,Gnégnéri Yaya Touré,off; on: Sergio Busquets i Burgos
+69255,Málaga,card,2,84,5090,Albert Luque Martos,Red Card
+69256,Barcelona,card,1,20,1219,Xavier Hernández Creus,Yellow Card
+69256,Barcelona,goal,1,30,1855,Pedro Eliezer Rodríguez Ledesma,"open/set play, assist: Maxwell Scherrer Cabelino Andrade"
+69256,Almería,card,1,35,2110,Juan Manuel Ortiz Palazón,Yellow Card
+69256,Almería,card,1,46,2760,Hernán Darío Bernardello,Yellow Card
+69256,Almería,card,1,46,2767,Albert Crusat Domene,Yellow Card
+69256,Barcelona,substitution,2,59,3593,Rafael Márquez Álvarez,off; on: Gerard Piqué Bernabéu
+69256,Almería,substitution,2,65,3921,Kalu Uche,off; on: Pablo Daniel Piatti
+69256,Almería,substitution,2,72,4328,Albert Crusat Domene,off; on: Miguel Ángel Nieto de la Calle
+69256,Barcelona,substitution,2,75,4505,Sergio Busquets i Burgos,off; on: Seydou Kéita
+69256,Barcelona,substitution,2,75,4514,Pedro Eliezer Rodríguez Ledesma,off; on: Gnégnéri Yaya Touré
+69256,Barcelona,card,2,77,4657,Andrés Iniesta Luján,Yellow Card
+69256,Barcelona,card,2,78,4694,Carles Puyol i Saforcada,Yellow Card
+69256,Almería,substitution,2,78,4729,Juan Manuel Ortiz Palazón,off; on: Fernando Soriano Marco
+69257,Barcelona,card,1,38,2292,Sergio Busquets i Burgos,Yellow Card
+69257,Barcelona,substitution,2,45,2700,Thierry Henry,off; on: Pedro Eliezer Rodríguez Ledesma
+69257,Osasuna,card,2,45,2710,Francisco Puñal Martínez,Yellow Card
+69257,Barcelona,card,2,50,3023,Andrés Iniesta Luján,Yellow Card
+69257,Barcelona,substitution,2,68,4092,Sergio Busquets i Burgos,off; on: Seydou Kéita
+69257,Barcelona,card,2,69,4156,Daniel Alves da Silva,Yellow Card
+69257,Barcelona,goal,2,72,4324,Zlatan Ibrahimović,"open/set play, assist: Maxwell Scherrer Cabelino Andrade"
+69257,Barcelona,substitution,2,73,4391,Zlatan Ibrahimović,off; on: Bojan Krkíc Pérez
+69257,Osasuna,card,2,75,4547,José Romero Urtasun,Yellow Card
+69257,Osasuna,substitution,2,77,4629,Javad Nekounam,off; on: Roberto López Esquiroz
+69257,Osasuna,substitution,2,77,4644,Juan Francisco Torres Belén,off; on: Javier Calleja Revilla
+69257,Osasuna,substitution,2,84,5070,Masoud Shojaei Soleimani,off; on: Jorge Galán Anaut
+69257,Barcelona,card,2,84,5095,Lionel Andrés Messi Cuccittini,Yellow Card
+69257,Barcelona,goal,2,87,5279,Bojan Krkíc Pérez,"open/set play, assist: Andrés Iniesta Luján"
+69259,Real Madrid,card,1,12,757,Xabier Alonso Olano,Yellow Card
+69259,Barcelona,card,1,19,1143,Lionel Andrés Messi Cuccittini,Yellow Card
+69259,Real Madrid,card,1,29,1775,Raúl Albiol i Tortajada,Yellow Card
+69259,Barcelona,card,1,30,1857,Xavier Hernández Creus,Yellow Card
+69259,Barcelona,goal,1,32,1936,Lionel Andrés Messi Cuccittini,"open/set play, assist: Xavier Hernández Creus"
+69259,Barcelona,card,1,38,2307,Daniel Alves da Silva,Yellow Card
+69259,Barcelona,card,2,50,3051,Maxwell Scherrer Cabelino Andrade,Yellow Card
+69259,Barcelona,goal,2,55,3335,Pedro Eliezer Rodríguez Ledesma,"open/set play, assist: Xavier Hernández Creus"
+69259,Real Madrid,substitution,2,56,3417,Marcelo Vieira da Silva Júnior,off; on: José Maria Gutiérrez Hernández
+69259,Real Madrid,card,2,60,3634,Sergio Ramos García,Yellow Card
+69259,Barcelona,substitution,2,63,3787,Maxwell Scherrer Cabelino Andrade,off; on: Andrés Iniesta Luján
+69259,Real Madrid,substitution,2,68,4124,Rafael van der Vaart,off; on: Raúl González Blanco
+69259,Barcelona,substitution,2,78,4737,Gabriel Alejandro Milito,off; on: Rafael Márquez Álvarez
+69259,Real Madrid,substitution,2,79,4763,Gonzalo Gerardo Higuaín,off; on: Karim Benzema
+69259,Real Madrid,card,2,83,5028,Ezequiel Marcelo Garay,Yellow Card
+69262,Real Madrid,card,1,33,1988,Álvaro Arbeloa Coca,Yellow Card
+69262,Real Madrid,card,1,40,2416,Raúl Albiol i Tortajada,Yellow Card
+69262,Real Madrid,card,2,47,2858,Lassana Diarra,Yellow Card
+69262,Barcelona,card,2,49,2987,Sergio Busquets i Burgos,Yellow Card
+69262,Barcelona,substitution,2,50,3052,Thierry Henry,off; on: Zlatan Ibrahimović
+69262,Barcelona,goal,2,55,3325,Zlatan Ibrahimović,"open/set play, assist: Daniel Alves da Silva"
+69262,Barcelona,card,2,61,3715,Sergio Busquets i Burgos,Second Yellow
+69262,Barcelona,substitution,2,65,3935,Seydou Kéita,off; on: Gnégnéri Yaya Touré
+69262,Real Madrid,substitution,2,66,3964,Cristiano Ronaldo dos Santos Aveiro,off; on: Karim Benzema
+69262,Real Madrid,card,2,68,4108,Kléper Laveran Lima Ferreira,Yellow Card
+69262,Real Madrid,substitution,2,73,4401,Álvaro Arbeloa Coca,off; on: Raúl González Blanco
+69262,Real Madrid,card,2,78,4691,Marcelo Vieira da Silva Júnior,Yellow Card
+69262,Real Madrid,card,2,89,5368,Lassana Diarra,Second Yellow
+69267,Barcelona,goal,2,46,2762,Thierry Henry,"open/set play, assist: Maxwell Scherrer Cabelino Andrade"
+69267,Barcelona,substitution,2,54,3267,Pedro Eliezer Rodríguez Ledesma,off; on: Lionel Andrés Messi Cuccittini
+69267,Xerez,substitution,2,57,3422,Carlos Calvo Sobrado,off; on: Antonio Ramiro Pérez
+69267,Barcelona,substitution,2,66,3961,Bojan Krkíc Pérez,off; on: Zlatan Ibrahimović
+69267,Xerez,substitution,2,73,4382,Víctor Sánchez Mata,off; on: Emiliano Daniel Armenteros
+69267,Xerez,card,2,78,4686,Aythami Artiles Oliva,Yellow Card
+69267,Barcelona,substitution,2,82,4964,Thierry Henry,off; on: Andrés Iniesta Luján
+69267,Barcelona,goal,2,92,5541,Zlatan Ibrahimović,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69277,Osasuna,card,1,17,1078,Carlos Reina Aranda,Yellow Card
+69277,Barcelona,card,2,50,3004,Dmytro Chygrynskiy,Yellow Card
+69277,Barcelona,card,2,54,3283,Seydou Kéita,Yellow Card
+69277,Barcelona,substitution,2,60,3638,Dmytro Chygrynskiy,off; on: Rafael Márquez Álvarez
+69277,Barcelona,card,2,62,3744,Zlatan Ibrahimović,Yellow Card
+69277,Osasuna,substitution,2,70,4213,Carlos Reina Aranda,off; on: Masoud Shojaei Soleimani
+69277,Barcelona,goal,2,71,4315,Seydou Kéita,"open/set play, assist: Carles Puyol i Saforcada"
+69277,Osasuna,substitution,2,77,4665,Francisco Puñal Martínez,off; on: Roberto López Esquiroz
+69277,Osasuna,substitution,2,82,4956,Juan Francisco Torres Belén,off; on: Jorge Galán Anaut
+69277,Barcelona,card,2,89,5385,Sergio Busquets i Burgos,Yellow Card
+69277,Barcelona,substitution,2,90,5411,Andrés Iniesta Luján,off; on: Pedro Eliezer Rodríguez Ledesma
+69277,Osasuna,goal,2,92,5544,Gerard Piqué Bernabéu,own goal
+69288,Barcelona,goal,2,53,3196,Daniel Alves da Silva,"open/set play, assist: Xavier Hernández Creus"
+69288,Athletic Club,substitution,2,56,3360,Pablo Orbaiz Lesaka,off; on: Gaizka Toquero Pinedo
+69288,Athletic Club,goal,2,62,3737,Gaizka Toquero Pinedo,"open/set play, assist: Fernando Llorente Torres"
+69288,Barcelona,card,2,64,3855,Seydou Kéita,Yellow Card
+69288,Athletic Club,substitution,2,73,4387,Francisco Javier Yeste Navarro,off; on: Igor Gabilondo del Campo
+69288,Barcelona,substitution,2,75,4525,Lionel Andrés Messi Cuccittini,off; on: Bojan Krkíc Pérez
+69288,Athletic Club,substitution,2,76,4580,Fernando Llorente Torres,off; on: Óscar de Marcos Arana
+69288,Athletic Club,card,2,79,4797,Javier Martínez Aginaga,Yellow Card
+69288,Barcelona,substitution,2,83,5038,Xavier Hernández Creus,off; on: Thierry Henry
+69292,Barcelona,goal,1,1,104,Zlatan Ibrahimović,"open/set play, assist: Sergio Busquets i Burgos"
+69292,Barcelona,goal,1,15,952,Lionel Andrés Messi Cuccittini,"open/set play, assist: Xavier Hernández Creus"
+69292,Barcelona,goal,1,30,1802,Daniel Alves da Silva,open/set play
+69292,Atlético Madrid,card,1,31,1918,Paulo Assunção da Silva,Yellow Card
+69292,Atlético Madrid,card,1,37,2232,Tomáš Ujfaluši,Yellow Card
+69292,Barcelona,goal,1,41,2468,Seydou Kéita,"open/set play, assist: Lionel Andrés Messi Cuccittini"
+69292,Atlético Madrid,goal,1,44,2672,Sergio Leonel Agüero del Castillo,open/set play
+69292,Atlético Madrid,substitution,2,56,3377,Simão Pedro Fonseca Sabrosa,off; on: Cléber Santana Loureiro
+69292,Barcelona,substitution,2,64,3894,Xavier Hernández Creus,off; on: Andrés Iniesta Luján
+69292,Barcelona,card,2,66,4015,Dmytro Chygrynskiy,Yellow Card
+69292,Atlético Madrid,substitution,2,70,4215,Paulo Assunção da Silva,off; on: Jorge Resurrección Merodio
+69292,Atlético Madrid,substitution,2,73,4423,Sergio Leonel Agüero del Castillo,off; on: Florent Sinama-Pongolle
+69292,Barcelona,substitution,2,75,4502,Gerard Piqué Bernabéu,off; on: Rafael Márquez Álvarez
+69292,Atlético Madrid,goal,2,84,5046,Diego Forlán Corazo,"open/set play, assist: Luis Amaranto Perea Mosquera"
+69292,Barcelona,substitution,2,84,5083,Zlatan Ibrahimović,off; on: Pedro Eliezer Rodríguez Ledesma
+69292,Atlético Madrid,card,2,91,5518,Pablo Ibáñez Tébar,Yellow Card
+69292,Barcelona,goal,2,93,5600,Lionel Andrés Messi Cuccittini,"open/set play, assist: Daniel Alves da Silva"
+69298,Barcelona,card,1,32,1977,Gabriel Alejandro Milito,Yellow Card
+69298,Mallorca,card,1,43,2623,Iván Ramis Barrios,Yellow Card
+69298,Barcelona,substitution,2,50,3022,Andrés Iniesta Luján,off; on: Lionel Andrés Messi Cuccittini
+69298,Mallorca,card,2,54,3265,Mario Suárez Mata,Yellow Card
+69298,Mallorca,substitution,2,58,3492,Víctor Casadesús Castaño,off; on: Julio Álvarez Mosquera
+69298,Mallorca,card,2,59,3547,Aritz Aduriz Zubeldia,Yellow Card
+69298,Barcelona,substitution,2,60,3639,Gnégnéri Yaya Touré,off; on: Xavier Hernández Creus
+69298,Barcelona,goal,2,62,3755,Zlatan Ibrahimović,open/set play
+69298,Barcelona,substitution,2,75,4530,Jeffren Isaac Suárez Bermúdez,off; on: Jonathan dos Santos Ramírez
+69298,Mallorca,substitution,2,76,4564,Mario Suárez Mata,off; on: Alhassane Keita
+69298,Mallorca,card,2,77,4675,Gonzalo Castro Irizábal,Yellow Card
+69298,Barcelona,card,2,83,5034,Seydou Kéita,Yellow Card
+69298,Mallorca,substitution,2,90,5429,Gonzalo Castro Irizábal,off; on: Pierre Achille Webó Kouamo
+69298,Barcelona,card,2,92,5530,Daniel Alves da Silva,Yellow Card

@@ -1,0 +1,365 @@
+team,player,short_name,matches,starts,minutes,passes_attempted,passes_completed,passes_received,pass_accuracy,avg_x,avg_y,shots,goals,assists
+Almería,Diego Alves Carreira,Diego Alves,2,2,187,67,39,15,0.582,9.36,51.43,0,0,0
+Almería,Domingo Cisma González,Domingo Cisma,2,2,187,78,56,40,0.718,43.88,17.52,1,1,0
+Almería,Hernán Darío Pellerano,Hernán Pellerano,2,2,187,55,36,31,0.655,33.97,73.26,0,0,0
+Almería,Hernán Darío Bernardello,Hernán Bernardello,2,2,187,71,48,53,0.676,40.84,55.08,1,0,1
+Almería,José Manuel Flores Moreno,Chico Flores,2,2,187,45,35,31,0.778,42.4,41.64,0,0,0
+Almería,Juan Manuel Ortiz Palazón,Juanma Ortiz,2,2,173,57,35,36,0.614,50.85,87.47,0,0,0
+Almería,Guilherme Oliveira Santos,Guilherme Santos,2,2,159,37,25,40,0.676,50.82,15.04,1,0,0
+Almería,Albert Crusat Domene,Albert Crusat,2,2,146,30,19,29,0.633,57.14,78.36,0,0,0
+Almería,Pablo Daniel Piatti,Pablo Piatti,2,1,118,15,13,23,0.867,54.57,34.68,1,0,0
+Almería,Fernando Soriano Marco,Fernando Soriano,2,1,108,34,20,29,0.588,50.17,45.09,1,0,0
+Almería,Modeste M''bami,Modeste M'bami,1,1,94,28,22,20,0.786,46.71,72.98,0,0,0
+Almería,Míchel Macedo Rocha Machado,Míchel,1,1,93,30,19,13,0.633,54.05,86.43,0,0,0
+Almería,Santiago Wilmer Acasiete Ariadela,Santiago Acasiete,1,1,93,24,21,12,0.875,32.97,51.28,1,0,0
+Almería,Kalu Uche,Uche,2,1,85,26,16,29,0.615,59.13,54.94,1,0,0
+Almería,Henok Goitom,Goitom,1,0,28,9,4,7,0.444,61.21,50.88,1,0,0
+Almería,Miguel Ángel Nieto de la Calle,Miguel Ángel Nieto,1,0,21,4,2,1,0.5,56.17,65.0,0,0,0
+Almería,José Ortiz Bernal,José Ortiz,1,0,3,0,0,1,,,,0,0,0
+Athletic Club,Markel Susaeta Laskurain,Markel Susaeta,2,2,183,63,46,60,0.73,64.57,59.18,3,1,0
+Athletic Club,Gorka Iraizoz Moreno,Gorka Iraizoz,2,2,183,70,44,33,0.629,14.56,53.61,0,0,0
+Athletic Club,Javier Martínez Aginaga,Javi Martínez,2,2,183,74,59,43,0.797,45.77,48.96,5,0,0
+Athletic Club,Fernando Amorebieta Mardaras,Fernando Amorebieta,2,2,183,46,26,36,0.565,39.26,30.95,0,0,0
+Athletic Club,Andoni Iraola Sagarna,Andoni Iraola,2,2,183,78,61,41,0.782,48.98,87.95,0,0,0
+Athletic Club,Carlos Gurpegi Nausia,Carlos Gurpegi,2,2,183,59,46,40,0.78,53.12,56.85,3,0,0
+Athletic Club,Koikili Lertxundi Del Campo,Koikili,2,2,183,59,38,31,0.644,48.58,9.71,0,0,0
+Athletic Club,Fernando Llorente Torres,Fernando Llorente,2,2,146,49,33,53,0.673,57.09,55.26,5,0,1
+Athletic Club,Francisco Javier Yeste Navarro,Fran Yeste,2,1,118,60,36,36,0.6,68.47,30.72,1,0,1
+Athletic Club,Ustaritz Aldekoaotalora Astarloa,Ustaritz,1,1,93,32,19,17,0.594,39.0,75.76,0,0,0
+Athletic Club,Mikel San José Domínguez,Mikel San José,1,1,90,31,24,23,0.774,34.67,71.58,0,0,0
+Athletic Club,Gaizka Toquero Pinedo,Gaizka Toquero,2,0,82,18,7,19,0.389,55.82,39.14,3,1,0
+Athletic Club,Igor Gabilondo del Campo,Igor Gabilondo,2,1,65,16,11,12,0.688,56.42,19.43,1,0,0
+Athletic Club,Pablo Orbaiz Lesaka,Pablo Orbaiz,1,1,56,24,17,18,0.708,47.75,48.03,1,0,0
+Athletic Club,David López Moreno,David López,1,1,45,17,12,14,0.706,40.44,75.25,0,0,0
+Athletic Club,Ander Iturraspe Derteano,Ander Iturraspe,1,0,20,7,7,6,1.0,56.6,52.62,1,0,0
+Athletic Club,Óscar de Marcos Arana,De Marcos,1,0,17,3,0,4,0.0,,,0,0,0
+Atlético Madrid,Tomáš Ujfaluši,Tomáš Ujfaluši,2,2,187,56,47,31,0.839,48.51,66.12,1,0,0
+Atlético Madrid,Antonio López Guerrero,Antonio López,2,2,187,119,93,71,0.782,43.39,14.07,0,0,0
+Atlético Madrid,Luis Amaranto Perea Mosquera,Luis Perea,2,2,187,54,36,31,0.667,44.0,73.79,0,0,1
+Atlético Madrid,Diego Forlán Corazo,Diego Forlán,2,2,176,68,49,65,0.721,61.02,42.98,5,2,0
+Atlético Madrid,Sergio Leonel Agüero del Castillo,Sergio Agüero,2,2,166,39,26,68,0.667,68.03,41.4,7,1,0
+Atlético Madrid,Paulo Assunção da Silva,Paulo Assunção,2,2,163,71,58,50,0.817,48.18,44.56,0,0,0
+Atlético Madrid,Simão Pedro Fonseca Sabrosa,Simão,2,2,149,90,67,66,0.744,64.46,21.94,2,1,0
+Atlético Madrid,José Manuel Jurado Marín,José Jurado,2,1,105,60,44,56,0.733,55.23,30.58,5,0,0
+Atlético Madrid,Roberto Jiménez Gago,Roberto Jiménez,1,1,94,37,20,14,0.541,12.55,49.98,0,0,0
+Atlético Madrid,Pablo Ibáñez Tébar,Pablo Ibáñez,1,1,94,18,15,15,0.833,32.37,63.8,1,0,0
+Atlético Madrid,Maximiliano Rubén Rodríguez,Maxi Rodríguez,1,1,94,44,37,37,0.841,56.28,64.18,2,0,0
+Atlético Madrid,David de Gea Quintana,David de Gea,1,1,93,27,13,3,0.481,9.94,50.71,0,0,0
+Atlético Madrid,Tiago Cardoso Mendes,Tiago,1,1,93,35,29,24,0.829,53.79,58.88,1,0,0
+Atlético Madrid,Álvaro Domínguez Soto,Álvaro Domínguez,1,1,93,10,8,4,0.8,37.47,41.77,1,0,0
+Atlético Madrid,José Antonio Reyes Calderón,José Antonio Reyes,1,1,87,32,25,31,0.781,64.4,80.3,1,0,1
+Atlético Madrid,Cléber Santana Loureiro,Cléber Santana,1,0,38,27,26,24,0.963,53.39,41.12,0,0,0
+Atlético Madrid,Jorge Resurrección Merodio,Koke,1,0,24,22,20,17,0.909,51.33,51.23,0,0,0
+Atlético Madrid,Florent Sinama-Pongolle,Sinama-Pongolle,1,0,20,7,5,10,0.714,64.1,64.65,0,0,0
+Atlético Madrid,Juan Valera Espín,Juan Valera,1,0,6,2,1,1,0.5,48.0,89.5,0,0,0
+Atlético Madrid,Ibrahima Baldé,Baldé,1,0,1,0,0,1,,,,0,0,0
+Barcelona,Víctor Valdés Arribas,Víctor Valdés,35,35,3234,1148,909,553,0.792,10.32,51.53,0,0,0
+Barcelona,Lionel Andrés Messi Cuccittini,Lionel Messi,35,30,2918,1642,1384,1823,0.843,64.97,62.34,161,34,10
+Barcelona,Xavier Hernández Creus,Xavi,31,28,2594,2828,2460,2498,0.87,55.15,56.13,44,3,15
+Barcelona,Carles Puyol i Saforcada,Carles Puyol,29,28,2507,1511,1360,1113,0.9,39.55,57.47,7,1,2
+Barcelona,Gerard Piqué Bernabéu,Gerard Piqué,29,26,2332,1616,1409,1274,0.872,37.72,61.79,11,2,0
+Barcelona,Daniel Alves da Silva,Dani Alves,26,25,2326,2161,1765,1651,0.817,53.1,87.25,26,3,9
+Barcelona,Sergio Busquets i Burgos,Sergio Busquets,30,24,2221,1840,1646,1513,0.895,47.94,51.28,7,0,2
+Barcelona,Maxwell Scherrer Cabelino Andrade,Maxwell,23,23,2069,1455,1257,1051,0.864,53.33,14.65,5,0,4
+Barcelona,Seydou Kéita,Seydou Kéita,27,22,2030,1234,1085,1119,0.879,53.89,30.66,33,5,1
+Barcelona,Pedro Eliezer Rodríguez Ledesma,Pedro,31,19,1931,902,723,937,0.802,64.74,57.87,32,11,3
+Barcelona,Zlatan Ibrahimović,Ibrahimović,26,20,1859,654,489,764,0.748,65.48,44.03,83,14,7
+Barcelona,Andrés Iniesta Luján,Andrés Iniesta,27,19,1857,1442,1244,1442,0.863,57.28,35.7,28,1,5
+Barcelona,Gnégnéri Yaya Touré,Yaya Touré,22,17,1439,1259,1141,1109,0.906,48.65,52.95,16,1,4
+Barcelona,Eric-Sylvain Bilal Abidal,Éric Abidal,15,14,1318,1005,814,663,0.81,48.41,13.95,1,0,4
+Barcelona,Thierry Henry,Henry,19,13,1063,388,289,437,0.745,63.36,24.05,31,4,2
+Barcelona,Bojan Krkíc Pérez,Bojan,20,10,920,317,254,361,0.801,63.95,34.39,26,7,3
+Barcelona,Dmytro Chygrynskiy,Chygrynskiy,12,10,871,692,651,590,0.941,37.29,35.45,2,0,0
+Barcelona,Gabriel Alejandro Milito,Gabriel Milito,11,9,805,555,473,439,0.852,35.51,30.28,3,0,0
+Barcelona,Rafael Márquez Álvarez,Rafael Márquez,15,7,792,633,542,526,0.856,36.49,72.87,13,1,1
+Barcelona,Jeffren Isaac Suárez Bermúdez,Jeffrén,11,6,394,171,135,169,0.789,60.05,65.18,5,2,0
+Barcelona,Jonathan dos Santos Ramírez,Jonathan dos Santos,2,0,33,22,21,22,0.955,50.09,59.68,1,0,0
+Barcelona,Marc Bartra Aregall,Marc Bartra,1,0,32,14,11,6,0.786,37.23,74.43,0,0,0
+Barcelona,Thiago Alcântara do Nascimento,Thiago Alcântara,1,0,15,6,6,8,1.0,50.99,44.12,2,1,0
+Espanyol,Víctor Ruíz Torre,Víctor Ruíz,1,1,93,25,17,17,0.68,31.25,36.39,0,0,0
+Espanyol,Dídac Vilá Rosselló,Dídac Vilá,1,1,93,36,22,14,0.611,48.03,8.19,0,0,0
+Espanyol,Nicolás Martín Pareja,Nicolás Pareja,1,1,93,38,22,19,0.579,34.62,72.3,1,0,0
+Espanyol,Luis García Fernández,Luis García,1,1,93,29,15,18,0.517,55.77,60.02,0,0,0
+Espanyol,Juan Daniel Forlín,Juan Forlín,1,1,93,25,17,16,0.68,47.73,60.24,1,0,0
+Espanyol,Idriss Carlos Kameni,Carlos Kameni,1,1,93,26,18,8,0.692,9.56,51.09,0,0,0
+Espanyol,Francisco Javier Chica Torres,Javi Chica,1,1,93,48,27,28,0.562,49.81,89.62,0,0,0
+Espanyol,José Raúl Baena Urdiales,Raúl Baena,1,1,93,28,24,18,0.857,50.07,39.89,1,0,0
+Espanyol,Pablo Daniel Osvaldo,Daniel Osvaldo,1,1,93,13,10,18,0.769,63.12,41.89,3,0,0
+Espanyol,José María Callejón Bueno,José Callejón,1,1,84,18,10,22,0.556,56.35,33.45,1,0,0
+Espanyol,Joan Verdú Fernández,Joan Verdú,1,1,78,27,22,23,0.815,61.62,54.6,1,0,0
+Espanyol,Iván Daniel Alonso Vallejo,Iván Alonso,1,0,15,2,2,4,1.0,59.25,41.44,2,0,0
+Espanyol,Ben Sahar,Sahar,1,0,9,2,1,2,0.5,54.0,68.12,0,0,0
+Getafe,Rafael López Gómez,Rafa,2,2,186,92,77,52,0.837,36.96,58.34,0,0,0
+Getafe,Roberto Soldado Rillo,Roberto Soldado,2,2,186,47,32,52,0.681,58.6,55.9,10,1,0
+Getafe,Juan Ángel Albín Leites,Juan Albín,2,2,186,58,42,56,0.724,57.09,44.21,5,0,0
+Getafe,Daniel Alberto Díaz,Cata Díaz,2,2,186,76,68,50,0.895,30.06,58.35,1,0,0
+Getafe,José Manuel Jiménez Ortiz,Mané,2,2,147,104,77,75,0.74,50.16,9.86,1,0,0
+Getafe,Daniel Parejo Muñoz,Dani Parejo,2,2,122,68,60,55,0.882,52.23,54.21,2,0,0
+Getafe,Pedro Ríos Maestre,Pedro Ríos,2,1,105,38,29,41,0.763,67.37,85.79,0,0,0
+Getafe,Miguel Torres Gómez,Miguel Torres,1,1,94,75,64,53,0.853,49.22,59.49,1,0,0
+Getafe,Derek Owusu Boateng,Derek Boateng,1,1,94,65,60,61,0.923,46.75,48.93,0,0,0
+Getafe,Jordi Codina Rodríguez,Jordi Codina,1,1,94,22,20,10,0.909,9.75,54.26,0,0,0
+Getafe,Fabio Celestini,Celestini,1,1,92,71,56,61,0.789,42.68,49.15,1,0,0
+Getafe,David Cortés Caballero,David Cortés,1,1,92,50,37,29,0.74,45.57,92.14,0,0,0
+Getafe,Óscar Alfredo Ustari,Óscar Ustari,1,1,92,32,24,12,0.75,8.31,50.65,0,0,0
+Getafe,Adrián González Morales,Adrián González,1,1,81,44,33,36,0.75,53.09,31.64,2,0,0
+Getafe,Nicolás Ladislao Fedor Flores,Miku Fedor,1,1,76,24,18,27,0.75,61.13,30.05,3,0,0
+Getafe,Pedro León Sánchez Gil,Pedro León,1,1,67,27,20,28,0.741,62.14,82.41,5,0,0
+Getafe,Francisco Javier Casquero Paredes,Javier Casquero,2,0,64,36,31,32,0.861,50.97,55.47,1,0,0
+Getafe,Manuel del Moral Fernández,Manu del Moral,2,0,63,34,24,39,0.706,60.22,16.86,2,0,0
+Getafe,Kepa Blanco Gonzalez,Kepa Blanco,1,0,18,5,3,6,0.6,75.53,58.54,0,0,0
+Mallorca,Iván Ramis Barrios,Iván Ramis,2,2,187,38,25,17,0.658,32.97,43.46,0,0,0
+Mallorca,Borja Valero Iglesias,Borja Valero,2,2,187,68,48,59,0.706,54.2,57.0,3,0,0
+Mallorca,Jose Luis Martí Soler,Jose Martí,2,2,187,75,48,44,0.64,50.02,63.27,2,0,0
+Mallorca,José Carlos de Araújo Nunes,José Nunes,2,2,187,34,27,18,0.794,35.6,64.55,1,1,0
+Mallorca,Dudú Aouate,Aouate,2,2,187,51,22,12,0.431,12.3,57.65,0,0,0
+Mallorca,Ayoze Díaz Díaz,Ayoze Díaz,2,2,187,77,50,39,0.649,50.08,10.69,1,0,0
+Mallorca,Mario Suárez Mata,Mario Suárez,2,2,149,48,32,32,0.667,42.36,45.47,2,0,0
+Mallorca,Gonzalo Castro Irizábal,Chory Castro,2,1,125,44,29,45,0.659,54.82,34.98,3,0,1
+Mallorca,Aritz Aduriz Zubeldia,Aritz Aduriz,1,1,94,18,7,23,0.389,52.68,62.14,4,0,0
+Mallorca,Felipe Mattioni Rohde,Felipe Mattioni,1,1,94,43,37,22,0.86,41.75,84.82,2,0,0
+Mallorca,Fernando Varela Ramos,Fernando Varela,1,1,93,24,13,26,0.542,51.32,63.52,0,0,0
+Mallorca,José Miguel González Rey,Josemi,1,1,93,34,27,11,0.794,42.39,86.81,0,0,0
+Mallorca,Pierre Achille Webó Kouamo,Pierre Webó,2,1,85,25,20,21,0.8,63.54,55.65,1,0,0
+Mallorca,Víctor Casadesús Castaño,Víctor Casadesús,2,1,70,16,13,19,0.812,57.56,49.56,1,0,0
+Mallorca,Antoni Lluis Adrover Colom,Tuni,1,1,59,7,4,11,0.571,40.58,15.78,0,0,0
+Mallorca,Alhassane Keita,Keita,2,0,38,4,2,7,0.5,42.0,73.5,1,1,0
+Mallorca,Julio Álvarez Mosquera,Julio Álvarez,1,0,36,20,15,13,0.75,64.09,73.98,0,0,0
+Málaga,Gustavo Adolfo Munúa Vera,Gustavo Munúa,2,2,185,63,33,11,0.524,9.05,53.98,0,0,0
+Málaga,Weligton Róbson Pena de Oliveira,Weligton,2,2,185,28,17,17,0.607,34.71,41.97,0,0,0
+Málaga,Victor Obinna Nsofor,Nsofor,2,2,185,48,39,43,0.812,65.68,53.44,2,0,1
+Málaga,Juan Jesús Gutiérrez Robles,Juanito,2,2,184,35,30,17,0.857,46.92,51.4,0,0,0
+Málaga,Sérgio Paulo Barbosa Valente,Duda,2,2,167,61,27,44,0.443,52.3,16.85,1,0,0
+Málaga,Fernando Miguel Fernández Escribano,Fernando Fernández,2,2,138,38,23,38,0.605,51.49,75.35,1,0,0
+Málaga,Manuel Torres Caturla,Manu Torres,2,2,137,47,35,26,0.745,45.21,10.47,0,0,0
+Málaga,Nabil Baha,Baha,2,2,127,37,20,34,0.541,54.3,47.96,1,0,0
+Málaga,Valmiro Lópes Rocha,Valdo,2,0,95,32,19,28,0.594,47.49,45.41,2,1,0
+Málaga,Daniel Toribio Gutiérrez,Dani Toribio,1,1,93,24,16,17,0.667,49.78,43.47,0,0,0
+Málaga,Manuel Gaspar Haro,Manolo Gaspar,1,1,93,34,23,14,0.676,53.6,90.33,1,0,0
+Málaga,Jesús Gámez Duarte,Jesús Gámez,1,1,92,35,22,17,0.629,50.47,91.2,0,0,0
+Málaga,Xavier Torres Buigues,Xavi Torres,1,1,92,29,24,22,0.828,46.43,56.93,0,0,0
+Málaga,Ibán Javier Cuadrado Alonso,Ibán Cuadrado,1,1,92,19,14,11,0.737,34.95,73.18,0,0,0
+Málaga,Eduardo Ramos Gómez,Edu Ramos,1,0,76,13,9,7,0.692,47.4,57.25,0,0,0
+Málaga,Fernando Martín Forestieri,Fernando Forestieri,2,0,58,9,8,11,0.889,47.48,23.84,0,0,0
+Málaga,Milan Stepanov,Stepanov,1,1,17,5,5,4,1.0,34.97,21.48,0,0,0
+Málaga,Albert Luque Martos,Albert Luque,1,0,16,5,1,4,0.2,18.75,1.25,0,0,0
+Osasuna,Ignacio Monreal Eraso,Nacho Monreal,2,2,186,71,53,33,0.746,48.63,12.05,0,0,0
+Osasuna,César Azpilicueta Tanco,César Azpilicueta,2,2,186,83,48,20,0.578,48.81,90.22,0,0,0
+Osasuna,Miguel Flaño Bezunartea,Miguel Flaño,2,2,186,26,20,11,0.769,39.09,62.0,0,0,0
+Osasuna,José Romero Urtasun,Josetxo,2,2,186,33,22,19,0.667,31.65,38.52,1,0,0
+Osasuna,Ricardo López Felipe,Ricardo,2,2,186,69,29,14,0.42,14.13,51.16,0,0,0
+Osasuna,Javier Camuñas Gallego,Javier Camuñas,2,2,186,50,30,50,0.6,59.55,26.15,0,0,0
+Osasuna,Francisco Puñal Martínez,Patxi Puñal,2,2,171,74,45,37,0.608,50.15,54.82,0,0,0
+Osasuna,Javad Nekounam,Nekounam,2,2,170,54,41,32,0.759,48.07,36.93,3,0,0
+Osasuna,Juan Francisco Torres Belén,Juanfran,2,2,160,45,26,42,0.578,61.57,82.59,0,0,0
+Osasuna,Masoud Shojaei Soleimani,Masoud Shojaei,2,1,107,22,11,24,0.5,63.87,39.95,1,0,0
+Osasuna,Walter Gerardo Pandiani Urquiza,Wálter Pandiani,1,1,93,34,18,40,0.529,55.81,53.01,2,0,0
+Osasuna,Krisztián Vadócz,Vadócz,1,1,93,30,16,27,0.533,51.74,47.49,1,0,0
+Osasuna,Carlos Reina Aranda,Carlos Aranda,1,1,70,10,9,14,0.9,70.49,37.69,3,0,0
+Osasuna,Roberto López Esquiroz,Rúper,2,0,31,8,6,8,0.75,52.17,53.98,0,0,0
+Osasuna,Jorge Galán Anaut,Jorge Galán,2,0,19,5,4,3,0.8,62.77,58.72,0,0,0
+Osasuna,Javier Calleja Revilla,Javi Calleja,1,0,16,10,7,11,0.7,43.86,59.59,0,0,0
+RC Deportivo La Coruña,Juan Antonio Rodríguez Villamuela,Juan Rodríguez,2,2,183,52,35,51,0.673,55.53,65.09,2,0,0
+RC Deportivo La Coruña,Daniel Aranzubia Aguado,Dani Aranzubia,2,2,183,72,29,15,0.403,8.71,53.19,0,0,0
+RC Deportivo La Coruña,Alberto Lopo García,Alberto Lopo,2,2,183,27,20,16,0.741,30.71,38.57,0,0,0
+RC Deportivo La Coruña,Manuel Pablo García Díaz,Manuel Pablo,2,2,183,71,54,39,0.761,42.58,52.51,0,0,0
+RC Deportivo La Coruña,José Andrés Guardado Hernández,Andrés Guardado,2,2,178,66,46,59,0.697,50.71,22.0,1,0,0
+RC Deportivo La Coruña,Sergio González Soriano,Sergio,2,2,176,54,37,37,0.685,47.61,62.0,0,0,0
+RC Deportivo La Coruña,Antonio Tomás González,Antonio Tomás,2,2,173,51,41,34,0.804,44.03,40.05,0,0,0
+RC Deportivo La Coruña,Filipe Luís Kasmirski,Filipe Luis,1,1,92,35,29,21,0.829,42.76,18.45,0,0,0
+RC Deportivo La Coruña,Miguel Ángel Ferrer Martínez,Mista,1,1,92,23,15,25,0.652,57.35,42.35,2,0,0
+RC Deportivo La Coruña,Diego Daniel Colotto,Diego Colotto,1,1,92,13,6,6,0.462,23.51,71.9,0,0,0
+RC Deportivo La Coruña,Laureano Sanabria Ruiz,Laure,1,1,91,37,22,14,0.595,55.14,92.17,0,0,0
+RC Deportivo La Coruña,Adrián López Rodríguez,Piscu,1,1,91,16,11,8,0.688,34.92,60.65,0,0,0
+RC Deportivo La Coruña,Iván Sánchez Rico Soto,Riki,1,1,69,21,17,31,0.81,61.42,35.0,3,0,0
+RC Deportivo La Coruña,Adrián López Álvarez,Adrián López,1,1,62,13,7,15,0.538,51.75,85.23,1,1,0
+RC Deportivo La Coruña,Pablo Álvarez Nuñez,Pablo Álvarez,2,1,58,22,17,16,0.773,46.67,49.09,0,0,0
+RC Deportivo La Coruña,Juan Domínguez Lamas,Juan Domínguez,1,0,38,13,11,9,0.846,55.21,50.8,0,0,0
+RC Deportivo La Coruña,Juliano Roberto Antonello,Juca,1,0,30,8,6,5,0.75,52.1,45.0,0,0,0
+RC Deportivo La Coruña,Lassad Hassen Nouioui,Lassad Nouioui,1,0,22,4,1,4,0.25,50.0,50.0,0,0,0
+RC Deportivo La Coruña,Rodolfo Bodipo Díaz,Rodolfo Bodipo,1,0,10,1,1,0,1.0,50.0,50.0,0,0,0
+RC Deportivo La Coruña,Iván Santiago Pérez Maceira,Iván Pérez,1,0,7,2,1,1,0.5,53.58,42.75,0,0,0
+Racing Santander,Mehdi Lacen,Lacen,2,2,182,57,40,42,0.702,42.72,43.08,1,0,0
+Racing Santander,Henrique Adriano Buss,Henrique,2,2,182,48,40,30,0.833,31.39,69.34,0,0,0
+Racing Santander,Óscar Serrano Rodriguez,Óscar Serrano,2,2,182,53,35,56,0.66,51.5,18.12,2,1,0
+Racing Santander,Papa Kouly Diop,Pape Diop,2,2,148,61,46,39,0.754,43.97,63.13,2,0,0
+Racing Santander,Manuel Jesús Arana Rodríguez,Manuel Arana,2,1,123,28,16,33,0.571,54.88,73.02,1,0,0
+Racing Santander,Francisco Jiménez Tejada,Xisco Jiménez,2,1,104,34,22,38,0.647,57.26,56.43,0,0,0
+Racing Santander,Pablo Pinillos Caro,Pablo Pinillos,1,1,91,31,26,17,0.839,42.55,87.0,0,0,0
+Racing Santander,Antonio Rodríguez Martínez,Toño,1,1,91,30,22,8,0.733,11.27,49.37,0,0,0
+Racing Santander,László Sepsi,Sepsi,1,1,91,37,24,19,0.649,45.44,12.44,0,0,0
+Racing Santander,Mogammat Nasief Morris,Nasief Morris,1,1,91,20,16,12,0.8,30.28,39.78,1,0,0
+Racing Santander,José Ángel Crespo Rincón,José Crespo,1,1,91,37,28,21,0.757,48.24,15.6,0,0,0
+Racing Santander,Oriol Lozano Farrán,Oriol Lozano,1,1,91,28,20,14,0.714,46.35,88.31,0,0,0
+Racing Santander,Marc Torrejón Moya,Marc Torrejón,1,1,91,37,31,30,0.838,32.15,36.15,1,0,0
+Racing Santander,Fabio Coltorti,Coltorti,1,1,91,31,21,12,0.677,10.14,51.83,0,0,0
+Racing Santander,Sergio Canales Madrazo,Sergio Canales,1,1,77,27,23,32,0.852,58.16,62.39,0,0,0
+Racing Santander,Pedro Manuel Munitis Álvarez,Pedro Munitis,1,1,70,25,17,21,0.68,59.62,43.11,0,0,0
+Racing Santander,Antonio Moral Segura,Toni Moral,1,1,59,17,16,18,0.941,59.22,64.1,1,0,0
+Racing Santander,Alexandre Geijo Pazos,Álex Geijo,1,1,57,15,11,13,0.733,56.33,52.91,1,0,0
+Racing Santander,Luis Javier García Sanz,Luis García,2,0,36,14,11,14,0.786,53.28,48.44,0,0,0
+Racing Santander,Gonzalo Colsa Albendea,Gonzalo Colsa,1,0,34,19,15,12,0.789,51.59,56.71,0,0,0
+Racing Santander,Luis Manuel Villa López,Luisma,1,0,21,9,6,5,0.667,54.35,74.98,0,0,0
+Real Madrid,Sergio Ramos García,Sergio Ramos,2,2,187,112,80,66,0.714,48.39,85.46,3,0,0
+Real Madrid,Raúl Albiol i Tortajada,Raúl Albiol,2,2,187,68,49,42,0.721,36.02,52.38,0,0,0
+Real Madrid,Iker Casillas Fernández,Iker Casillas,2,2,187,50,29,16,0.58,13.61,54.66,0,0,0
+Real Madrid,Xabier Alonso Olano,Xabi Alonso,2,2,187,113,89,75,0.788,46.22,54.12,2,0,0
+Real Madrid,Gonzalo Gerardo Higuaín,Gonzalo Higuaín,2,2,172,40,28,49,0.7,60.36,64.83,3,0,0
+Real Madrid,Álvaro Arbeloa Coca,Álvaro Arbeloa,2,2,167,90,78,46,0.867,55.94,10.91,0,0,0
+Real Madrid,Cristiano Ronaldo dos Santos Aveiro,Cristiano Ronaldo,2,2,160,54,35,82,0.648,63.86,42.62,7,0,0
+Real Madrid,Marcelo Vieira da Silva Júnior,Marcelo,2,2,150,66,39,64,0.591,48.27,25.25,7,0,0
+Real Madrid,Ezequiel Marcelo Garay,Ezequiel Garay,1,1,94,44,39,31,0.886,34.63,35.54,0,0,0
+Real Madrid,Fernando Rubén Gago,Fernando Gago,1,1,94,49,36,32,0.735,57.89,64.52,1,0,0
+Real Madrid,Lassana Diarra,Lass Diarra,1,1,93,25,20,16,0.8,50.7,58.95,0,0,0
+Real Madrid,Kléper Laveran Lima Ferreira,Pepe,1,1,93,24,17,10,0.708,33.04,71.64,0,0,0
+Real Madrid,Ricardo Izecson dos Santos Leite,Kaká,1,1,93,45,35,45,0.778,59.61,46.92,1,0,0
+Real Madrid,Rafael van der Vaart,Rafael van der Vaart,1,1,69,27,22,24,0.815,57.2,46.39,3,0,0
+Real Madrid,Raúl González Blanco,Raúl,2,0,45,8,8,7,1.0,45.68,59.95,1,0,0
+Real Madrid,Karim Benzema,Benzema,2,0,42,12,12,15,1.0,74.8,53.28,4,0,0
+Real Madrid,José Maria Gutiérrez Hernández,Guti,1,0,37,19,16,12,0.842,50.47,52.24,1,0,0
+Real Valladolid,Diego da Silva Costa,Diego Costa,2,2,182,53,40,66,0.755,62.58,46.21,2,0,0
+Real Valladolid,Pedro López Muñoz,Pedro López,2,2,182,74,55,35,0.743,47.97,88.4,0,0,0
+Real Valladolid,Luis Prieto Zalbidegoitia,Luis Prieto,2,2,153,37,31,22,0.838,35.01,40.58,3,0,0
+Real Valladolid,Jonathan Sesma González,Jonathan Sesma,2,2,124,23,15,27,0.652,60.71,31.48,0,0,0
+Real Valladolid,Vítor Hugo Gomes Passos,Pelé,2,1,108,43,32,38,0.744,49.54,51.81,6,0,0
+Real Valladolid,Borja Fernández Fernández,Borja Fernández,1,1,92,47,37,27,0.787,49.33,64.55,2,0,0
+Real Valladolid,César Arzo Amposta,César Arzo,1,1,92,30,20,22,0.667,35.6,58.41,1,0,0
+Real Valladolid,Néstor Fabián Canobbio Bentaberry,Fabián Canobbio,1,1,92,40,28,24,0.7,58.56,52.33,0,0,0
+Real Valladolid,Justo Wilmar Villar Viveros,Justo Villar,1,1,92,30,12,10,0.4,9.51,52.52,0,0,0
+Real Valladolid,Carlos Lázaro Vallejo,Carlos Lázaro,1,1,92,48,35,36,0.729,49.17,49.17,2,0,0
+Real Valladolid,Antonio Barragán Fernández,Antonio Barragán,1,1,90,24,19,18,0.792,48.56,11.85,0,0,0
+Real Valladolid,Raúl Rodríguez Navas,Raúl Navas,1,1,90,17,11,14,0.647,35.52,29.93,0,0,0
+Real Valladolid,Jacobo Sanz Ovejero,Jacobo Sanz,1,1,90,40,22,17,0.55,9.86,51.31,0,0,0
+Real Valladolid,Henrique Sereno Fonseca,Henrique Sereno,1,1,90,20,13,13,0.65,33.42,52.77,0,0,0
+Real Valladolid,Javier Baraja Vegas,Javier Baraja,1,1,90,29,25,22,0.862,50.96,34.02,1,0,0
+Real Valladolid,Alberto Marcos Rey,Alberto Marcos,1,1,84,26,23,11,0.885,52.28,10.95,0,0,0
+Real Valladolid,Alberto Mateus Contreiras Gonçalves,Manucho Gonçalves,1,1,78,23,16,24,0.696,52.76,56.61,2,0,0
+Real Valladolid,Marcos García Barreno,Marquitos,1,1,74,13,8,17,0.615,48.81,44.48,0,0,0
+Real Valladolid,Nauzet Alemán Viera,Nauzet Alemán,1,0,45,13,8,8,0.615,59.5,82.08,0,0,0
+Real Valladolid,Héctor Font Romero,Héctor Font,1,0,29,13,9,11,0.692,52.62,38.26,1,0,0
+Real Valladolid,Haris Medunjanin,Medunjanin,1,0,13,6,4,3,0.667,83.17,8.16,0,0,0
+Real Valladolid,Sergio Gontán Gallardo,Keko,1,0,12,2,2,1,1.0,47.04,42.0,0,0,0
+Real Valladolid,Nivaldo Batista Santana,Nivaldo,1,0,8,9,5,4,0.556,44.25,13.85,0,0,0
+Real Zaragoza,Gabriel Fernández Arenas,Gabi,2,2,182,75,62,62,0.827,45.39,57.11,0,0,0
+Real Zaragoza,Ander Herrera Agüera,Ander Herrera,2,2,170,81,64,79,0.79,50.64,58.54,1,0,0
+Real Zaragoza,Ángel Javier Arizmendi de Lucas,Javier Arizmendi,2,2,130,39,22,43,0.564,55.51,53.76,5,0,0
+Real Zaragoza,Roberto Jiménez Gago,Roberto Jiménez,1,1,92,30,18,7,0.6,9.17,52.19,0,0,0
+Real Zaragoza,Eliseu Pereira dos Santos,Eliseu,1,1,92,29,17,21,0.586,60.97,52.99,2,0,0
+Real Zaragoza,Leonardo Daniel Ponzio,Leonardo Ponzio,1,1,92,39,29,15,0.744,44.14,9.0,0,0,0
+Real Zaragoza,Carlos Andrés Diogo Enseñat,Carlos Diogo,1,1,92,42,25,22,0.595,50.25,88.64,0,0,0
+Real Zaragoza,Matteo Contini,Contini,1,1,92,21,17,10,0.81,33.83,34.58,0,0,2
+Real Zaragoza,Jirí Jarošík,J. Jarošík,1,1,92,24,18,15,0.75,32.5,72.71,1,0,0
+Real Zaragoza,Abel Enrique Aguilar Tapia,Abel Aguilar,1,1,90,36,31,27,0.861,39.44,40.39,0,0,0
+Real Zaragoza,Jorge López Montaña,Jorge López,1,1,90,22,13,19,0.591,47.15,18.5,1,1,0
+Real Zaragoza,Rubén Martín Pulido,Rubén Pulido,1,1,90,30,21,16,0.7,35.94,84.85,0,0,0
+Real Zaragoza,Francisco Pavón Barahona,Francisco Pavón,1,1,90,17,15,12,0.882,23.34,25.43,0,0,0
+Real Zaragoza,Javier Paredes Arango,Javier Paredes,1,1,90,27,21,20,0.778,42.5,9.41,0,0,0
+Real Zaragoza,Juan Pablo Carrizo,Carrizo,1,1,90,29,22,7,0.759,8.26,53.86,0,0,0
+Real Zaragoza,Pablo Amo Aguado,Pablo Amo,1,1,90,13,12,6,0.923,25.8,61.25,0,0,0
+Real Zaragoza,Humberto Andrés Suazo Pontivo,Humberto Suazo,1,1,79,15,11,17,0.733,64.97,54.99,0,0,0
+Real Zaragoza,Ángel Lafita Castillo,Ángel Lafita,2,0,77,28,19,23,0.679,56.78,48.94,2,0,1
+Real Zaragoza,Jermaine Pennant,Pennant,2,1,73,22,12,21,0.545,53.42,73.48,0,0,0
+Real Zaragoza,José Edmílson Gomes de Moraes,Edmilson,1,1,45,27,22,22,0.815,45.19,46.33,1,0,0
+Real Zaragoza,Adrián Colunga Pérez,Adrián Colunga,1,0,29,5,4,10,0.8,65.27,62.41,3,2,0
+Real Zaragoza,Ewerthon Henrique de Souza,Ewerthon,1,0,22,6,4,5,0.667,51.81,34.38,2,0,0
+Real Zaragoza,"Steve Franck Songo""o",Steve Franck Songo'o,1,0,12,0,0,0,,,,0,0,0
+Sevilla,Jesús Navas González,Jesús Navas,2,2,185,57,35,60,0.614,61.54,70.19,1,0,0
+Sevilla,Andrés Palop Cervera,Andrés Palop,2,2,185,80,40,23,0.5,9.32,52.72,0,0,0
+Sevilla,Julien Escudé,Escudé,2,2,185,51,41,31,0.804,29.21,39.8,0,0,0
+Sevilla,Abdoulay Konko,Konko,2,2,152,48,37,29,0.771,48.39,92.19,0,0,0
+Sevilla,Diego Ángel Capel Trinidad,Diego Capel,2,1,140,22,15,24,0.682,53.32,38.48,1,0,0
+Sevilla,Marius Stankevičius,Stankevičius,2,1,124,43,28,22,0.651,46.02,91.19,0,0,0
+Sevilla,Manuel Jesús Ortiz Toribio,Lolo,2,1,118,30,20,20,0.667,46.0,42.8,0,0,0
+Sevilla,Adriano Correia Claro,Adriano,2,1,100,45,27,24,0.6,37.73,15.26,0,0,0
+Sevilla,Luís Fabiano Clemente,Luís Fabiano,1,1,93,22,17,26,0.773,57.13,58.7,3,1,1
+Sevilla,Frédéric Oumar Kanouté,Frédéric Kanouté,1,1,93,26,14,28,0.538,63.56,61.38,3,1,0
+Sevilla,Alain Didier Zokora-Déguy,Didier Zokora,1,1,93,31,24,28,0.774,45.55,51.61,0,0,1
+Sevilla,Fernando Navarro i Corbacho,Fernando Navarro,1,1,92,38,23,21,0.605,48.17,17.71,1,0,0
+Sevilla,Ivica Dragutinovic,Dragutinovic,1,1,92,23,17,12,0.739,40.13,36.62,0,0,0
+Sevilla,Arouna Koné,Koné,1,1,92,28,18,28,0.643,64.38,39.49,3,0,0
+Sevilla,Sébastien Squillaci,Squillaci,1,0,66,25,21,17,0.84,31.03,71.16,0,0,0
+Sevilla,Renato Dirnei Florencio,Renato,1,1,61,26,17,11,0.654,52.15,69.17,0,0,0
+Sevilla,Aldo Pedro Duscher,Aldo Duscher,1,0,47,17,13,11,0.765,52.22,41.78,0,0,0
+Sevilla,José Carlos Fernández Vázquez,José Carlos,1,1,45,12,9,7,0.75,60.9,32.93,0,0,0
+Sevilla,Marc Valiente Hernández,Marc Valiente,1,1,45,10,8,3,0.8,47.09,64.09,0,0,0
+Sevilla,Federico Julián Fazio,Federico Fazio,1,1,27,10,10,9,1.0,31.82,66.88,0,0,0
+Sporting Gijón,Roberto Canella Suárez,Roberto Canella,1,1,93,27,21,13,0.778,50.35,13.89,0,0,0
+Sporting Gijón,Alberto Rivera Pizarro,Alberto Rivera,1,1,93,36,28,23,0.778,44.28,54.85,0,0,0
+Sporting Gijón,Mate Bilić,Bilić,1,1,93,16,13,15,0.812,51.17,55.74,3,0,0
+Sporting Gijón,Juan Pablo Colinas Ferreras,Juan Pablo,1,1,93,32,18,5,0.562,9.22,55.83,0,0,0
+Sporting Gijón,Alberto Lora Ramos,Alberto Lora,1,1,93,32,19,15,0.594,40.84,90.62,0,0,0
+Sporting Gijón,Luis Morán Sánchez,Luis Morán,1,1,93,29,20,21,0.69,59.95,77.62,0,0,0
+Sporting Gijón,Alberto Botía Rabasco,Rabasco,1,1,93,20,10,13,0.5,39.41,55.27,0,0,0
+Sporting Gijón,Grégory Arnolin,Arnolin,1,1,93,4,3,1,0.75,28.89,45.38,0,0,0
+Sporting Gijón,Cristian Portilla Rodríguez,Cristian Portilla,1,1,70,27,14,16,0.519,46.7,36.17,1,0,0
+Sporting Gijón,Miguel Ángel De las Cuevas Barberá,De las Cuevas,1,1,57,16,13,15,0.812,55.33,24.38,1,0,0
+Sporting Gijón,Carmelo José González Jiménez,Carmelo González,1,1,57,29,20,31,0.69,62.96,64.11,0,0,0
+Sporting Gijón,David Barral Torres,David Barral,1,0,36,9,5,11,0.556,71.07,54.6,0,0,0
+Sporting Gijón,Diego Castro Giménez,Diego Castro,1,0,36,16,11,16,0.688,57.4,29.81,0,0,0
+Sporting Gijón,Sergio Matabuena Delgado,Sergio Matabuena,1,0,23,6,4,4,0.667,51.67,54.03,0,0,0
+Tenerife,Sergio Aragoneses Almeida,Sergio Aragoneses,2,2,182,51,21,11,0.412,9.22,51.15,0,0,0
+Tenerife,Mikel Alonso Olano,Mikel Alonso,2,2,182,67,46,53,0.687,51.12,56.2,1,0,0
+Tenerife,Pablo Sicilia Roig,Pablo Sicilia,2,2,182,30,21,9,0.7,36.22,44.86,1,0,0
+Tenerife,Ezequiel Luna,Luna,2,2,181,49,35,18,0.714,41.8,72.41,0,0,0
+Tenerife,Alejandro Alfaro Ligero,Alejandro Alfaro,2,2,174,54,32,59,0.593,53.42,30.65,6,0,0
+Tenerife,"Daniel Armand N""Gom Komé",Daniel N'Gom Kome,2,2,144,48,43,46,0.896,67.26,58.47,2,0,1
+Tenerife,Jose Antonio Culebras Arenas,José Antonio Culebras,2,1,137,21,14,7,0.667,31.65,73.07,0,0,0
+Tenerife,Juan Luis Hens Lorite,Juanlu Hens,2,2,137,41,21,23,0.512,62.58,82.04,1,0,0
+Tenerife,Juan Francisco Martínez Modesto,Nino,2,1,122,34,27,32,0.794,57.89,43.88,4,0,0
+Tenerife,Héctor Sánchez Cabrera,Héctor Sánchez,1,1,92,20,16,12,0.8,51.07,11.81,0,0,0
+Tenerife,Manuel Martínez Lara,Manolo Martínez,1,1,92,20,13,15,0.65,41.52,43.61,0,0,0
+Tenerife,Carlos Bellvís Llorens,Carlos Bellvís,1,1,90,32,24,16,0.75,40.07,12.32,0,0,0
+Tenerife,Ricardo León Brito,Ricardo León,1,1,90,42,31,28,0.738,54.84,42.92,0,0,0
+Tenerife,Román Fernando Martínez,Román Martínez,1,1,73,18,12,14,0.667,47.81,50.34,1,1,0
+Tenerife,Ayoze García Pérez,Ayoze,1,1,67,14,11,18,0.786,61.63,26.08,1,0,0
+Tenerife,Telmário de Araújo Sacramento,Dinei,1,0,23,14,8,14,0.571,63.22,57.91,0,0,0
+Tenerife,Julián Omar Ramos Suárez,Omar Ramos,1,0,19,6,3,3,0.5,40.06,46.71,0,0,0
+Tenerife,Ángel Luis Rodríguez Díaz,Ángel Rodríguez,2,0,15,3,2,2,0.667,55.71,78.25,0,0,0
+Valencia,Pablo Hernández Domínguez,Pablo Hernández,2,2,185,95,68,88,0.716,65.33,74.89,4,0,0
+Valencia,Éver Maximiliano David Banega,Éver Banega,2,2,185,83,70,72,0.843,47.7,44.15,2,0,0
+Valencia,Luís Miguel Brito Garcia Monteiro,Miguel Monteiro,2,2,185,90,62,46,0.689,48.62,88.2,0,0,0
+Valencia,César Sánchez Domínguez,César Sánchez,2,2,185,80,48,36,0.6,11.12,49.98,0,0,0
+Valencia,Ángel Dealbert Ibáñez,Ángel Dealbert,2,2,185,66,52,44,0.788,30.5,24.35,1,0,0
+Valencia,David Josué Jiménez Silva,David Silva,2,2,181,71,52,70,0.732,56.99,41.54,4,0,0
+Valencia,Bruno Saltor Grau,Bruno Saltor,2,2,171,66,52,29,0.788,48.42,13.72,0,0,0
+Valencia,David Albelda Aliqués,David Albelda,2,2,133,57,42,31,0.737,42.06,57.4,0,0,0
+Valencia,Hedwiges Maduro,Maduro,2,1,96,24,19,17,0.792,30.39,65.45,0,0,0
+Valencia,Juan Manuel Mata García,Juan Mata,1,1,94,35,24,38,0.686,64.53,61.71,3,0,0
+Valencia,David Navarro Pedrós,David Navarro,1,1,94,26,23,18,0.885,30.35,65.63,0,0,0
+Valencia,Jordi Alba Ramos,Jordi Alba,1,1,91,26,21,26,0.808,57.55,20.74,2,0,0
+Valencia,Jérémy Mathieu,Mathieu,1,1,71,28,20,29,0.714,58.29,23.54,2,0,0
+Valencia,Alejandro Damián Domínguez,Alejandro Domínguez,1,1,65,13,11,14,0.846,63.05,47.11,0,0,0
+Valencia,Manuel Henrique Tavares Fernandes,Manuel Fernandes,1,0,47,23,20,17,0.87,45.9,60.55,0,0,0
+Valencia,Nikola Žigić,Žigić,1,0,26,13,11,14,0.846,54.77,28.59,1,0,0
+Valencia,Nicolás Ladislao Fedor Flores,Miku Fedor,1,0,23,7,2,7,0.286,52.83,63.5,0,0,0
+Valencia,Rubén Baraja Vegas,Rubén Baraja,2,0,17,8,5,6,0.625,42.55,34.55,0,0,0
+Villarreal,Diego Roberto Godín Leal,Diego Godín,1,1,93,35,28,20,0.8,33.36,39.71,0,0,0
+Villarreal,Diego López Rodríguez,Diego López,1,1,93,19,15,5,0.789,8.51,50.28,0,0,0
+Villarreal,Santiago Cazorla González,Santi Cazorla,1,1,93,37,24,31,0.649,64.18,72.04,0,0,0
+Villarreal,Joan Capdevila Méndez,Joan Capdevila,1,1,93,29,24,15,0.828,42.69,12.96,1,0,0
+Villarreal,Bruno Soriano Llido,Bruno Soriano,1,1,93,50,40,35,0.8,47.34,46.23,0,0,0
+Villarreal,Gonzalo Javier Rodríguez,Gonzalo Rodríguez,1,1,93,36,28,23,0.778,36.59,68.61,0,0,0
+Villarreal,Ángel Domingo López Ruano,Ángel López,1,1,93,56,41,30,0.732,49.85,87.2,0,0,0
+Villarreal,Nilmar Honorato da Silva,Nilmar,1,1,93,24,17,25,0.708,53.92,57.54,2,0,1
+Villarreal,Giuseppe Rossi,Rossi,1,1,82,28,17,30,0.607,56.27,52.79,1,0,0
+Villarreal,Marcos Antonio Senna da Silva,Marcos Senna,1,0,48,35,27,27,0.771,48.38,59.15,1,0,0
+Villarreal,Joseba Llorente Etxarri,Joseba Llorente,1,0,48,11,7,11,0.636,66.95,36.93,1,1,0
+Villarreal,Rubén Gracia Calmache,Cani,1,1,45,23,12,23,0.522,56.27,37.33,0,0,0
+Villarreal,Ariel Miguel Santiago Ibagaza,Ariel Ibagaza,1,1,45,33,23,26,0.697,49.51,70.16,1,0,0
+Villarreal,David Fuster Torrijos,David Fuster,1,0,11,2,1,3,0.5,46.67,30.38,0,0,0
+Xerez,Fabián Ariel Orellana Valenzuela,Fabián Orellana,2,2,186,65,33,55,0.508,59.64,47.41,3,0,1
+Xerez,Renan Brito Soares,Renan,2,2,186,56,29,3,0.518,11.57,54.03,0,0,0
+Xerez,Leandro Andrés Gioda,Leandro Gioda,2,2,186,25,14,18,0.56,33.93,67.09,3,0,0
+Xerez,José Manuel Casado Bizcocho,José Manuel Casado,2,2,186,63,41,40,0.651,51.27,14.7,0,0,0
+Xerez,Francisco Jesús Pérez Malia,Francis,2,2,186,64,46,25,0.719,52.54,92.1,0,0,0
+Xerez,Mario Bermejo Castanedo,Mario Bermejo,2,2,186,44,27,42,0.614,60.85,48.92,4,1,0
+Xerez,Víctor Sánchez Mata,Víctor Sánchez,2,2,166,58,38,45,0.655,52.6,73.36,0,0,0
+Xerez,Sidi Yaya Keita,Sidi Keita,2,2,155,36,30,23,0.833,44.54,37.41,0,0,0
+Xerez,Aythami Artiles Oliva,Aythami Artiles,2,2,138,31,24,17,0.774,31.74,35.27,1,0,0
+Xerez,Carlos Calvo Sobrado,Carlos Calvo,2,1,105,27,12,25,0.444,61.31,25.59,1,0,0
+Xerez,Emiliano Daniel Armenteros,Emiliano Armenteros,2,1,99,23,12,21,0.522,52.83,46.04,1,0,0
+Xerez,Alejandro Bergantiños García,Álex Bergantiños,1,1,93,30,21,19,0.7,43.34,57.3,2,0,0
+Xerez,David Prieto Gálvez,David Prieto,1,1,93,24,19,13,0.792,34.49,39.63,0,0,0
+Xerez,Antonio Ramiro Pérez,Antoñito,1,0,36,7,6,8,0.857,53.94,36.75,0,0,0
+Xerez,Vicente Moreno Peris,Vicente Moreno,1,0,31,7,7,4,1.0,47.39,46.75,0,0,0
+Xerez,Matías Gustavo Alustiza,Alustiza,1,0,14,1,0,1,0.0,,,0,0,0
