@@ -95,6 +95,7 @@ Minden mérőszámot mind a 70 gráfra ki kell számítani.
 | `centroid_dispersion` | 11.529 ± 0.822 | 11.392 ± 1.108 |
 | `advance_ratio` | 1.997 ± 0.159 | 1.332 ± 0.239 |
 | `avg_shortest_path_d` | 0.195 ± 0.031 | 0.467 ± 0.113 |
+| `clustering_Cw` | 7.054 ± 1.591 | 2.702 ± 0.780 |
 | `lambda1_adjacency` | 59.282 ± 11.388 | 23.489 ± 6.614 |
 | `eig_centrality_max` | 0.462 ± 0.035 | 0.472 ± 0.054 |
 | `eig_centrality_dispersion` | 0.112 ± 0.017 | 0.119 ± 0.029 |

@@ -336,67 +336,96 @@ goal_diff          0.786431       0.710102  0.891549   1.000000
 
 ![ábra](figs/12.png)
 
-## 6. Regresszió: megjósolható-e az eredmény?
+## 6. Regresszió: jóslás a többi adatból
 
-A korreláció azt mondja meg, hogy két mennyiség együtt mozog-e. A regresszió modellt illeszt: a mérőszámokból **megjósolja** a gólkülönbséget. Egy modellt csak olyan adaton szabad kiértékelni, amelyet nem látott, ezért **keresztvalidációt** használunk: a meccseket 5 részre osztjuk, 4 részen tanítunk, az ötödiken tesztelünk, és ezt mind az 5 részre megismételjük. Az `R²` 1 körüli, ha a jóslat jó, 0 körüli, ha nem jobb az átlagnál, és negatív, ha rosszabb.
+A regresszió egyenest (vagy síkot) illeszt az adatokra, és ebből **megjósolja** az egyik mennyiséget a többiből. Először egy kitalált példán nézzük meg, hogyan működik, utána valódi adaton.
+
+### Kitalált példa
+
+Tíz kitalált meccs: hány passz volt, és hány lövés született. Az egyenes: `lövés ≈ meredekség · passz + tengelymetszet`.
 
 ```python
 from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import KFold, cross_val_score, cross_val_predict
-from sklearn.pipeline import make_pipeline
-from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import r2_score
 
-rows = []
-for (mid, team), p in passes.groupby(["match_id", "team"]):          # egy sor = egy csapat egy meccsen
-    w = p.groupby(["player_1", "player_2"]).size().rename("weight").reset_index()
-    G = nx.from_pandas_edgelist(w, "player_1", "player_2", "weight", create_using=nx.DiGraph)
-    rows.append({"match_id": mid, "team": team, "n_passes": len(p), "density": nx.density(G)})
-data = pd.DataFrame(rows).merge(summary[["match_id", "team", "is_barcelona", "goal_diff"]])
-data["is_barcelona"] = data.is_barcelona.astype(int)
+# kitalált adat: 10 meccs, passzok száma és lövések száma
+mock = pd.DataFrame({
+    "passes": [380, 420, 450, 480, 510, 540, 570, 600, 640, 700],
+    "shots":  [  8,  11,   9,  13,  12,  15,  14,  17,  16,  21],
+})
 
-cv = KFold(5, shuffle=True, random_state=0)                           # 5 véletlen részre osztja a meccseket
-for cols in (["n_passes", "density"], ["n_passes", "density", "is_barcelona"]):
-    model = make_pipeline(StandardScaler(), LinearRegression())      # standardizálás: az együtthatók összehasonlíthatók
-    r2 = cross_val_score(model, data[cols], data.goal_diff, cv=cv, scoring="r2")
-    print(cols, "-> R² =", r2.mean().round(2))
+model = LinearRegression()
+model.fit(mock[["passes"]], mock.shots)                     # az X két szögletes zárójellel: táblázat, nem oszlop
 
-model.fit(data[cols], data.goal_diff)
-print(dict(zip(cols, model[-1].coef_.round(2).tolist())))            # melyik mérőszám mennyit számít
+print("meredekség:", model.coef_[0].round(3), " tengelymetszet:", model.intercept_.round(2))
+print("500 passz esetén várt lövés:", model.predict(pd.DataFrame({"passes": [500]}))[0].round(1))
+print("R²:", round(r2_score(mock.shots, model.predict(mock[["passes"]])), 2))
 
-pred = cross_val_predict(model, data[cols], data.goal_diff, cv=cv)    # minden meccsre olyan modell jóslata, amely nem látta
-plt.scatter(pred, data.goal_diff, c=data.is_barcelona.map({1: "tab:red", 0: "tab:gray"}))
-plt.plot([-4, 5], [-4, 5], "k--")                                    # tökéletes jóslat: ezen a vonalon lennének a pontok
-plt.xlabel("jósolt gólkülönbség"); plt.ylabel("valódi gólkülönbség"); plt.show()
+plt.scatter(mock.passes, mock.shots)
+plt.plot(mock.passes, model.predict(mock[["passes"]]), color="tab:red")      # az illesztett egyenes
+plt.xlabel("passzok száma"); plt.ylabel("lövések száma"); plt.show()
 ```
 
 **Eredmény:**
 
 ```text
-['n_passes', 'density'] -> R² = 0.6
-['n_passes', 'density', 'is_barcelona'] -> R² = 0.6
-{'n_passes': 1.07, 'density': -0.42, 'is_barcelona': 1.36}
+meredekség: 0.037  tengelymetszet: -5.75
+500 passz esetén várt lövés: 12.5
+R²: 0.9
 ```
 
 ![ábra](figs/13.png)
 
-**Óvatosan az értelmezéssel:**
-- Az ábrán két felhő van: a piros (Barcelona) fent, a szürke (ellenfelek) lent. A modell nagyrészt azt „tanulta meg”, hogy *melyik csapatról van szó*, nem azt, hogy a passzhálózat mit jelent az eredményre.
-- Próbáljátok ki csak a Barcelona meccseivel (`data[data.is_barcelona == 1]`): ott az `R²` gyenge vagy negatív, vagyis a passzszám és a sűrűség egy csapaton belül alig jósol.
-- Az együtthatók akkor hasonlíthatók össze, ha a mérőszámokat standardizáltuk (ezt a `StandardScaler` teszi).
-- Kevés meccs van (35 Barça-meccs), ezért kevés mérőszámot használjatok, különben a modell túlilleszkedik.
-- A jóslat nem ok-okozat: lehet, hogy a vezető csapat passzol többet, nem fordítva.
+- A **meredekség** azt mondja meg, hogy 1 passzal többhöz átlagosan mennyivel több lövés tartozik (itt 0,037, azaz 100 passzhoz kb. 3,7 lövés).
+- A `predict` egy új értékre ad jóslatot: 500 passznál kb. 12,5 lövést vár.
+- Az **R²** azt mutatja, mennyit magyaráz meg az egyenes: 1 = tökéletes illeszkedés, 0 = nem jobb, mint az átlag.
+- Az `X` két szögletes zárójellel (`mock[["passes"]]`) táblázat, mert több jellemző is lehet. Az `y` egy oszlop.
 
----
+### Valódi példa: ki mennyi passzt kap?
 
-## Ötletek a kísérletezéshez
+A passzhálózatban a csúcs ki-foka (hány passzt adott) és be-foka (hány passzt kapott) összefügg. Meg tudjuk jósolni a **kapott** passzokat az **adott** passzokból és a játékos átlagos helyéből (`avg_x`)? A hibákból az is kiderül, ki kap a vártnál többet vagy kevesebbet.
 
-- Győzelem, döntetlen és vereség esetén más a hálózat? Melyik mérőszám jósolja meg legjobban az eredményt?
-- Hazai és idegenbeli meccsek (`is_home`): változik a centroid vagy a tempó?
-- Real Madrid elleni meccsek (`69259`, `69262`) és a többi összehasonlítása.
-- Hogyan változik a játék gól után (`goals.csv`)? Hogyan reagál a hálózat cserére vagy lapra (`key_events.csv`)?
-- Melyik passztípus vezet lövéshez (`play_pattern`, `pass_type` a `passes_full.csv`-ben)?
-- Mennyire hatékony a lövés (gól/lövés Barçánál és az ellenfeleknél, játékosonként)?
-- Mennyire függ a hálózat Xavitól? Töröljétek a csúcsot (`G.remove_node`), és számoljátok újra a mérőszámokat.
-- Csúszóablak (50 passz) a kiterjesztés feladathoz: `full[...].sort_values(["period", "elapsed_seconds"])`, majd `rolling(50)`.
+```python
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
+from sklearn.model_selection import LeaveOneOut, cross_val_predict
 
+b = players[(players.team == "Barcelona") & (players.passes_attempted >= 100)].reset_index(drop=True)
+X, y = b[["passes_attempted", "avg_x"]], b.passes_received
 
+model = LinearRegression().fit(X, y)
+print("együtthatók:", dict(zip(X.columns, model.coef_.round(2).tolist())))
+
+# minden játékosra olyan modell jóslata, amelyik őt nem látta (egyet kihagyó keresztvalidáció)
+b["pred"] = cross_val_predict(LinearRegression(), X, y, cv=LeaveOneOut())
+b["diff"] = b.passes_received - b.pred
+print("R²:", round(r2_score(y, b.pred), 2))
+print(b.sort_values("diff")[["short_name", "passes_attempted", "passes_received", "pred", "diff"]].round(0).iloc[[0, 1, 2, -3, -2, -1]])
+
+plt.scatter(b.pred, b.passes_received)
+plt.plot([0, 2600], [0, 2600], "k--")
+for _, r in b[b["diff"].abs() > 130].iterrows():                  # csak a legnagyobb eltérések kapnak nevet
+    plt.annotate(r.short_name, (r.pred, r.passes_received), fontsize=8)
+plt.xlabel("jósolt kapott passzok"); plt.ylabel("valódi kapott passzok"); plt.show()
+```
+
+**Eredmény:**
+
+```text
+együtthatók: {'passes_attempted': 0.84, 'avg_x': 10.05}
+R²: 0.94
+        short_name  passes_attempted  passes_received    pred   diff
+5       Dani Alves              2161             1651  1903.0 -252.0
+7          Maxwell              1455             1051  1287.0 -236.0
+13     Éric Abidal              1005              663   858.0 -195.0
+16     Chygrynskiy               692              590   457.0  133.0
+11  Andrés Iniesta              1442             1442  1290.0  152.0
+1     Lionel Messi              1642             1823  1499.0  324.0
+```
+
+![ábra](figs/14.png)
+
+- Az `R²` 0,94: aki sok passzt ad, az sokat is kap, és minél előrébb játszik valaki, annál többet kap ugyanannyi leadott passz mellett (`avg_x`: +1 egység kb. +10 kapott passz).
+- A **leave-one-out** keresztvalidáció minden játékosra olyan modellel jósol, amelyik őt nem látta. Így az `R²` nem a betanított adaton mért, hanem „új” játékosokra érvényes érték.
+- Vigyázat: csak 20 játékos van, és az együtthatók nincsenek standardizálva (az `avg_x` egysége más, mint a passzoké), ezért nem hasonlíthatók össze közvetlenül.
+- Kipróbálható: add hozzá az `avg_y`-t vagy a `pass_accuracy`-t, és nézd meg, változik-e az `R²` és a legnagyobb eltérések listája.
